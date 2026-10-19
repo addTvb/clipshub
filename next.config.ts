@@ -21,8 +21,8 @@ const nextConfig: NextConfig = {
   },
   async redirects() {
     return [
-      { source: "/", destination: "/business", permanent: false },
-      { source: "/en", destination: "/business", permanent: true },
+      // Legacy locale-prefixed URLs from the previous i18n setup
+      { source: "/en", destination: "/", permanent: true },
       { source: "/en/:path*", destination: "/:path*", permanent: true },
     ];
   },
