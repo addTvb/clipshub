@@ -1,10 +1,11 @@
 import React from "react";
 import clsx from "clsx";
-import { Link as I18nLink, usePathname } from "src/i18n/routing";
+import Link from "next/link";
+import { usePathname } from "next/navigation";
 import "./link.css";
 
 export interface UiLinkProps
-  extends React.PropsWithChildren<React.ComponentProps<typeof I18nLink>> {
+  extends React.PropsWithChildren<React.ComponentProps<typeof Link>> {
   className?: string;
   underlineColor?: "light" | "dark" | "blue" | "leaderboard";
 }
@@ -18,10 +19,8 @@ export const UiLink = ({
 }: UiLinkProps) => {
   const pathname = usePathname();
 
-  // Определяем активную ссылку
   const isActive = pathname === href;
 
-  // Определяем CSS класс для цвета подчеркивания
   const getUnderlineClass = () => {
     switch (underlineColor) {
       case "light":
@@ -37,7 +36,7 @@ export const UiLink = ({
   };
 
   return (
-    <I18nLink
+    <Link
       {...props}
       href={href}
       className={clsx(
@@ -48,6 +47,6 @@ export const UiLink = ({
       )}
     >
       {children}
-    </I18nLink>
+    </Link>
   );
 };

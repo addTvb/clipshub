@@ -1,6 +1,6 @@
 "use client";
 
-import { useTranslations, useLocale } from "next-intl";
+import { useTranslations } from "next-intl";
 import { FormProvider, Resolver, useForm } from "react-hook-form";
 import { valibotResolver } from "@hookform/resolvers/valibot";
 import toast from "react-hot-toast";
@@ -18,9 +18,10 @@ import {
 import { useContactUs } from "src/queries/business/useContactUs";
 import { ContactLangSelect } from "./ContactLangSelect";
 
+const DEFAULT_CONTACT_LANGUAGE = "en";
+
 export default function ContactUsForm() {
   const t = useTranslations("business.landing.contactUs");
-  const locale = useLocale();
   const { businessCategories, loadingCategories } = useBusinessCategory();
 
   const { submitContactUs, isPending } = useContactUs({
@@ -33,7 +34,7 @@ export default function ContactUsForm() {
         messenger: "",
         about: "",
         categories: [],
-        language: locale,
+        language: DEFAULT_CONTACT_LANGUAGE,
       });
     },
   });
@@ -47,7 +48,7 @@ export default function ContactUsForm() {
       messenger: "",
       about: "",
       categories: [],
-      language: locale,
+      language: DEFAULT_CONTACT_LANGUAGE,
     },
     mode: "onSubmit",
   });

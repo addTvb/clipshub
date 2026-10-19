@@ -1,8 +1,6 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import type { NextConfig } from "next";
-import createNextIntlPlugin from "next-intl/plugin";
-
-const withNextIntl = createNextIntlPlugin();
+import path from "path";
 
 const nextConfig: NextConfig = {
   eslint: {
@@ -21,7 +19,19 @@ const nextConfig: NextConfig = {
       },
     ],
   },
+  async redirects() {
+    return [
+      { source: "/", destination: "/business", permanent: false },
+      { source: "/en", destination: "/business", permanent: true },
+      { source: "/en/:path*", destination: "/:path*", permanent: true },
+    ];
+  },
   webpack(config: any) {
+    config.resolve.alias = {
+      ...config.resolve.alias,
+      "next-intl": path.resolve(__dirname, "src/content/next-intl-shim.tsx"),
+    };
+
     const fileLoaderRule = config.module.rules.find((rule: any) =>
       rule.test?.test?.(".svg")
     );
@@ -46,4 +56,4 @@ const nextConfig: NextConfig = {
   },
 };
 
-export default withNextIntl(nextConfig);
+export default nextConfig;

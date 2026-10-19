@@ -3,7 +3,7 @@ import { Slot } from "@radix-ui/react-slot";
 import { cva, type VariantProps } from "class-variance-authority";
 import { cn } from "src/lib/utils";
 import { useEffect, useState } from "react";
-import { Link } from "src/i18n/routing";
+import Link from "next/link";
 import { Spinner } from "../spinner";
 import clsx from "clsx";
 import "../link/link.css";

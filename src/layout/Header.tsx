@@ -1,14 +1,13 @@
 "use client";
 
 import Image from "next/image";
-import { Link } from "src/i18n/routing";
+import Link from "next/link";
 import { useTranslations } from "next-intl";
 import { UiLink } from "src/components/ui/link/link";
 import { useEffect, useState } from "react";
 import { headerID } from "src/config/app";
 import clsx from "clsx";
 import { usePathname } from "next/navigation";
-import { FooterLangSelect } from "src/features/lang/FooterLangSelect";
 
 export const Header = () => {
   const t = useTranslations();
@@ -16,7 +15,7 @@ export const Header = () => {
   const [isScrolled, setIsScrolled] = useState(false);
 
   const isClipper = pathname.includes("/clipper");
-  const isBusiness = pathname.includes("/business") || pathname.endsWith("/en") || /\/[a-z]{2}(-[a-z]+)?\/?$/.test(pathname);
+  const isBusiness = pathname.includes("/business") || pathname === "/";
 
   useEffect(() => {
     const handleScroll = () => {
@@ -75,10 +74,6 @@ export const Header = () => {
           {t("footer.iAmClipper")}
         </UiLink>
       </nav>
-
-      <div className="flex items-center gap-3">
-        <FooterLangSelect />
-      </div>
     </div>
   );
 };

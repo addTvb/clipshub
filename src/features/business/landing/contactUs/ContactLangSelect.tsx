@@ -8,8 +8,19 @@ import {
   SelectTrigger,
   SelectValue,
 } from "src/components/ui/select";
-import { useAvailableLocales } from "src/features/lang/model/useAvailableLocales";
 import Image from "next/image";
+
+const CONTACT_LOCALES = [
+  "en",
+  "es",
+  "pt-br",
+  "ru",
+  "tr",
+  "pl",
+  "de",
+  "cn",
+  "jp",
+] as const;
 
 interface ContactLangSelectProps {
   value: string;
@@ -18,7 +29,6 @@ interface ContactLangSelectProps {
 
 export const ContactLangSelect = ({ value, onChange }: ContactLangSelectProps) => {
   const t = useTranslations("languages");
-  const locales = useAvailableLocales();
 
   return (
     <div>
@@ -39,7 +49,7 @@ export const ContactLangSelect = ({ value, onChange }: ContactLangSelectProps) =
           className="bg-black400 border-none text-white min-w-auto"
           side="top"
         >
-          {locales.map((localeOption) => (
+          {CONTACT_LOCALES.map((localeOption) => (
             <SelectItem
               key={`contact-lang-${localeOption}`}
               value={localeOption}

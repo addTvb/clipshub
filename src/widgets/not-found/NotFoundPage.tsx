@@ -3,10 +3,10 @@
 import React from "react";
 import { NotFoundAnimation } from "./NotFoundAnimation";
 import BackArrowIcon from "@icons/back-arrow.svg";
-import { Link } from "src/i18n/routing";
+import Link from "next/link";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
-import { useRouter } from "src/i18n/routing";
+import { useRouter } from "next/navigation";
 import { Inter } from "next/font/google";
 
 const inter = Inter({
@@ -17,11 +17,11 @@ const inter = Inter({
 export const NotFoundPage = () => {
   const t = useTranslations("notFound");
   const router = useRouter();
-  
+
   const handleBack = () => {
     router.back();
   };
-  
+
   return (
     <div className="flex flex-col text-center relative min-h-screen items-center justify-center px-[10px]">
       <Image
@@ -62,11 +62,11 @@ export const NotFoundPage = () => {
       <div className="flex flex-col items-center justify-center gap-[12px] mt-[41px]">
         <Link
           className="text-white bg-blueGrad1 px-[12px] py-[11px] rounded-[6px]"
-          href="/"
+          href="/business"
         >
           {t("mainPage")}
         </Link>
-        <button 
+        <button
           onClick={handleBack}
           className="text-textColor bg-transparent px-[12px] py-[11px] flex items-center gap-[6px]"
         >

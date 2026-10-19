@@ -23,7 +23,8 @@
     "paths": {
       "src/*": ["src/*"],
       "@public/*": ["public/*"],
-      "@icons/*": ["public/static/icons/*"]
+      "@icons/*": ["public/static/icons/*"],
+      "next-intl": ["src/content/next-intl-shim.tsx"]
     }
   },
   "include": [
