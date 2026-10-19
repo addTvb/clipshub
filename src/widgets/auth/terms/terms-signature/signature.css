@@ -1,0 +1,36 @@
+.signature-container {
+  width: max-content;
+  overflow: visible;
+  display: inline-block;
+}
+.signature-path {
+  stroke-dasharray: 1700;
+  stroke-dashoffset: 1700;
+  animation: drawDisappear 8s linear infinite;
+}
+@keyframes drawDisappear {
+  0% {
+    stroke-dashoffset: 1700;
+    animation-timing-function: ease-in;
+  }
+  37.5% {
+    stroke-dashoffset: 0;
+    animation-timing-function: steps(1);
+  }
+  50% {
+    stroke-dashoffset: 0;
+    animation-timing-function: ease-out;
+  }
+  87.5% {
+    stroke-dashoffset: 1700;
+    animation-timing-function: steps(1);
+  }
+  100% {
+    stroke-dashoffset: 1700;
+  }
+}
+/* @media (max-width: 900px) {
+  .signature-container {
+    display: none !important;
+  }
+} */

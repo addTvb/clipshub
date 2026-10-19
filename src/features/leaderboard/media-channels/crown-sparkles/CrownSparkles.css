@@ -1,0 +1,44 @@
+/* Анимации для звездочек на короне */
+@keyframes twinkle {
+  0% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.1;
+    transform: scale(0.5);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes twinkle2 {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.1;
+    transform: scale(0.8);
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.crown-sparkle-1 {
+  animation: twinkle 2.4s ease infinite;
+  transform-origin: 50% 50%;
+}
+
+.crown-sparkle-2 {
+  animation: twinkle 2.6s ease infinite;
+  transform-origin: 50% 50%;
+}
+
+.crown-dot-1 {
+  animation: twinkle2 2.2s ease infinite;
+  transform-origin: 50% 50%;
+}
+

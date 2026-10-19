@@ -1,0 +1,1698 @@
+{
+  "common": {
+    "main": "Principal",
+    "offers": "Ofertas",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "failedToLoadVideo": "Error al cargar el video",
+    "videoNotSupported": "Tu navegador no soporta la etiqueta de video.",
+    "influencer": "Clipper",
+    "business": "Negocio",
+    "registerAs": "Registrarse como",
+    "firstname": "Nombre",
+    "surname": "Apellido",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "repeatPassword": "Repetir contraseña",
+    "acceptTermsAndConditions": "Acepto los <terms>Términos y Condiciones</terms> y <privacy>Política de Privacidad</privacy>",
+    "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "dontHaveAccount": "¿No tienes una cuenta?",
+    "companyNameOptional": "Nombre de la empresa (opcional)",
+    "forgotPassText": "Ingresa la dirección de correo electrónico que usaste al registrarte y te enviaremos instrucciones para restablecer tu contraseña. <br></br> Por razones de seguridad, NO almacenamos tu contraseña. Así que ten la seguridad de que nunca la enviaremos por correo electrónico.",
+    "sendResetInstruction": "Enviar instrucciones para restablecer",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "confirmYourEmail": "Confirma tu correo electrónico",
+    "confirmEmailText": "¡Gracias por registrarte! Para completar el proceso, confirma tu correo electrónico. Te hemos enviado un correo electrónico con instrucciones a <bold></bold> Si no lo ves, revisa tu carpeta de correo no deseado o solicita un nuevo correo electrónico.",
+    "emailConfirmed": "¡Correo electrónico confirmado correctamente!",
+    "emailConfirmedText": "Tu dirección de correo electrónico ha sido confirmada. Ahora puedes disfrutar de todas las funciones de tu cuenta. Si tienes alguna pregunta, ¡estamos aquí para ayudarte!",
+    "goToDashboard": "Ir al Panel de Control",
+    "checkYourEmail": "Revisa tu correo electrónico",
+    "setNewPassword": "Establecer nueva contraseña",
+    "confirmNewPassword": "Confirmar nueva contraseña",
+    "newPassword": "Nueva contraseña",
+    "restorePassword": "Restaurar contraseña",
+    "confirm": "Confirmar",
+    "somethingWentWrong": "Algo salió mal",
+    "language": "Idioma",
+    "delete": "Eliminar",
+    "link": "Enlace",
+    "loginSuccessful": "Inicio de sesión exitoso",
+    "logout": "Cerrar sesión",
+    "accountBalance": "Saldo de la cuenta",
+    "accountWallet": "Monedero de la cuenta",
+    "deposit": "Depósito",
+    "withdraw": "Retirar",
+    "campaignWallets": "Monederos de campaña",
+    "from": "Desde",
+    "unknownErrorOccurred": "Error desconocido",
+    "error": "Error",
+    "pleaseTryAgain": "Inténtalo de nuevo",
+    "goToLoginPage": "Ir a inicio de sesión",
+    "errorMessage": "Mensaje de error",
+    "sortBy": "Ordenar por",
+    "totalMaxProfit": "Beneficio máximo total ⬇️",
+    "creationDateAsc": "Fecha de creación ⬆️",
+    "creationDateDesc": "Fecha de creación ⬇️",
+    "payoutAmountAsc": "Importe del pago ⬆️",
+    "payoutAmountDesc": "Importe del pago ⬇️",
+    "resetAll": "Restablecer todo",
+    "cancel": "Cancelar",
+    "noOffers": "Ofertas no encontradas",
+    "to": "Hasta",
+    "copied": "✅ ¡Copiado!",
+    "copyFailed": "Error al copiar",
+    "copyToClipboard": "Copiar al portapapeles",
+    "orSignUpWith": "o registrarse con",
+    "effectiveDate": "<bold>Fecha efectiva:</bold> <span></span>",
+    "all": "Todo",
+    "lastUpdated": "<bold>Última actualización:</bold> <span></span>",
+    "close": "Cerrar",
+    "settings": "Configuración",
+    "support": "Soporte",
+    "filters": "Filtros",
+    "apply": "Aplicar",
+    "menu": "Menú",
+    "howItWorks": "Cómo funciona",
+    "resendSuccessful": "El enlace de confirmación ha sido enviado a tu correo electrónico",
+    "passwordSuccessfullyChanged": "Contraseña cambiada con éxito",
+    "userEditSuccessful": "Usuario editado con éxito",
+    "editProfile": "Editar perfil",
+    "or": "o",
+    "tryAgain": "Intentar de nuevo",
+    "resend": "Reenviar",
+    "previousSlide": "Diapositiva anterior",
+    "nextSlide": "Siguiente diapositiva",
+    "connect": "Conectar",
+    "myReferrals": "Mis Referidos",
+    "change": "Cambiar",
+    "today": "Hoy",
+    "day": "Día",
+    "days": "Días",
+    "left": "Restante",
+    "expiresToday": "Caduca hoy",
+    "mute": "Silenciar",
+    "unmute": "Activar sonido",
+    "showDetails": "Mostrar Detalles",
+    "banner": {
+      "title": "Gana $3 por tu primer video en <bold>ClipsHub</bold>",
+      "button": "Obtén $3 Ahora",
+      "earnText": "Gana",
+      "forFirstReel": "por tu primer Reel en ClipsHub"
+    },
+    "rewardModal": {
+      "titleStart": "Obtén",
+      "titleEnd": "AHORA",
+      "button": "¡Entendido, vamos!"
+    },
+    "rewardGuide": {
+      "step1": {
+        "title": "Registrarse",
+        "description": "Únete con Instagram, YouTube, TikTok o tu email: es rápido y fácil."
+      },
+      "step2": {
+        "title": "Agregar Tu Canal",
+        "description": "Conecta tu canal de medios: Instagram, YouTube o TikTok."
+      },
+      "step3": {
+        "title": "Elegir una Oferta",
+        "description": "Elige una oferta que se adapte a tu contenido: ¡sin límites!"
+      },
+      "step4": {
+        "title": "Publicar Tu Reel",
+        "description": "Comparte tu video corto y proporciona el enlace a tu video publicado."
+      },
+      "step5": {
+        "title": "Esperar la Aprobación",
+        "description": "Nuestros moderadores revisarán tu contenido: ¡ten paciencia!"
+      },
+      "step6": {
+        "title": "Ganar un Bono de $3",
+        "description": "¡Felicidades! Has recibido una recompensa de $3 en tu saldo 🎉"
+      }
+    },
+    "adType": {
+      "searchAdTypes": "Buscar tipos de anuncio",
+      "title": "Tipo de anuncio",
+      "titleMany": "Tipos de anuncio",
+      "banner": "Banner",
+      "half_screen": "Media pantalla",
+      "influencer_content": "Contenido de Influencer",
+      "dedicate": "Dedicar",
+      "integration": "Integración",
+      "challenge": "Desafío"
+    },
+    "levels": {
+      "easy": "Fácil",
+      "medium": "Medio",
+      "hard": "Difícil"
+    },
+    "maxPayout": "Pago máximo:",
+    "example": "Ejemplo",
+    "downloadWatermark": "Descargar marca de agua",
+    "watermarkDesc": "Marca de agua MP4 (9:16). <b>Estira a pantalla completa</b> y <b>elimina el fondo</b> en <br /><b>CapCut:</b> Eliminar fondo → Chroma Key.",
+    "resetFilters": "Restablecer Filtros",
+    "create": "Crear"
+  },
+  "business": {
+    "yourCampaigns": "Tus Campañas",
+    "addCampaign": "Añadir Campaña",
+    "campaign": "Campaña",
+    "campaignWallet": "Monedero de Campaña",
+    "yourWallet": "Tu Monedero",
+    "benefits": {
+      "title": "Beneficios",
+      "subtitle": "Por qué las Marcas nos Aman",
+      "items": {
+        "automation": {
+          "title": "Automatización",
+          "text": "los pagos a clippers y cálculos de vistas ocurren automáticamente"
+        },
+        "smartOfferBuilder": {
+          "title": "Constructor inteligente de ofertas",
+          "text": "no necesitas perder tiempo escribiendo briefs; nuestro formulario guiado te ayuda a crear una oferta en minutos"
+        },
+        "ultraFastScaling": {
+          "title": "Escalado ultra-rápido",
+          "text": "lanza con cientos de micro-clippers instantáneamente"
+        },
+        "noFakeViews": {
+          "title": "Sin Vistas Falsas",
+          "text": "cada publicación es revisada por moderadores reales"
+        },
+        "noUpfrontPayments": {
+          "title": "Sin Pagos Adelantados",
+          "text": "los clippers cobran solo por vistas verificadas"
+        },
+        "securePayments": {
+          "title": "Pagos seguros",
+          "text": "los fondos se reservan en monederos de campaña y se liberan solo después de resultados verificados"
+        },
+        "realTimeDashboard": {
+          "title": "Seguimiento en tiempo real",
+          "text": "monitorea vistas, gastos y rendimiento en vivo"
+        },
+        "communitySupport": {
+          "title": "Comunidad y Soporte",
+          "text": "ayuda de Telegram, guías paso a paso y plantillas — no estás solo"
+        }
+      }
+    },
+    "howItWorks": {
+      "title": "Cómo Funciona",
+      "subtitle": "Vista Previa de UI",
+      "steps": {
+        "register": {
+          "title": "Registrarse",
+          "text": "Regístrate a través de YouTube, Instagram, TikTok o email — solo toma un minuto."
+        },
+        "createCampaign": {
+          "title": "Crear una Campaña",
+          "text": "Piénsalo como una carpeta para organizar tu estrategia — ideal para gestionar múltiples ofertas bajo un objetivo."
+        },
+        "makeOffer": {
+          "title": "Hacer Oferta y Fijar precio por 1,000 vistas",
+          "text": "Proporcionamos un formulario inteligente que te ayuda a crear una oferta rápida y eficientemente, guiándote en cada paso."
+        },
+        "fundCampaign": {
+          "title": "Financiar tu Campaña",
+          "text": "Cada campaña tiene un saldo dedicado para total transparencia."
+        },
+        "getViews": {
+          "title": "Obtener Vistas y Seguir Rendimiento",
+          "text": "Los creadores comienzan a promocionar tu marca. Puedes monitorear resultados en tiempo real — vistas verificadas, gasto total y métricas de rendimiento — en tu panel."
+        }
+      },
+      "button": "VER TUTORIAL EN VIDEO • VER TUTORIAL EN VIDEO •"
+    },
+    "createCampaign": "Crear Campaña",
+    "companyAvatar": "Logotipo de la Marca",
+    "dragAndDropImage": "Arrastra y suelta la imagen o selecciona el archivo",
+    "dragAndDropFileFormat": "hasta 5MB, .jpg, .png",
+    "selectFile": "Seleccionar Archivo",
+    "reselectFile": "Volver a seleccionar archivo",
+    "enterCampaignName": "Ingresa el título de la campaña",
+    "campaignName": "Título de la campaña (solo visible para ti)",
+    "enterCompanyName": "Ingresa el Nombre de la Marca",
+    "companyName": "Nombre de la Marca",
+    "aboutYourCompany": "Acerca de tu marca",
+    "aboutYourCompanyPlaceholder": "Por ejemplo, somos CoffeeJoy, un encantador café de gatos en Viena donde puedes disfrutar de café artesanal rodeado de gatos amigables y adoptables. ¡Es el lugar perfecto para relajarse y desconectar!",
+    "businessCategory": "Categoría de Negocio",
+    "campaignSuccessfulCreated": "Campaña creada con éxito",
+    "activeOffersCount": "{count} Oferta Activa",
+    "activeOffers": "Ofertas Activas",
+    "drafts": "Borradores",
+    "moderation": "Moderación",
+    "closed": "Cerrado",
+    "paused": "Pausado",
+    "makeOffer": "Hacer Oferta",
+    "frozen": "Congelado",
+    "refill": "Recargar",
+    "withdraw": "Retirar",
+    "influencers": "Clippers",
+    "totalPosts": "Publicaciones Totales de Clippers",
+    "totalViews": "Vistas Totales",
+    "spentOfValue": "de ${value}",
+    "stepNumber": "Paso {number}",
+    "editOffer": "Editar Oferta",
+    "updateCampaign": "Actualizar Campaña",
+    "editCampaign": "Editar Campaña",
+    "budgetDollar": "Presupuesto ($)",
+    "spent": "Gastado",
+    "campaignBalanceEmptyNotification": "El saldo de tu campaña es <balance></balance>. Todas las ofertas están pausadas. Recarga para reactivarlas.",
+    "offerForm": {
+      "chooseSocialNetwork": "Elige una Red Social",
+      "instagramTikTokYouTube": "Instagram, TikTok, YouTube",
+      "uploadAdContent": "Subir Contenido del Anuncio",
+      "uploadAdContentDesc": "Sube tu banner y escribe una breve descripción para tu anuncio",
+      "selectAdCategoryDesc": "Elige la categoría y el idioma que mejor se adapten al contenido de tu anuncio",
+      "setUpAd": "Configura tu Anuncio",
+      "setUpAdDesc": "Elige el número de vistas que deseas y consulta el costo estimado",
+      "setBudget": "Establece tu Presupuesto",
+      "setBudgetDesc": "Crea tu oferta, establece un presupuesto y procede al pago",
+      "offerSavedAsDraft": "✏️ Tu oferta se ha guardado como borrador",
+      "offerSavedAsDraftDesc": "Puedes volver a ella en cualquier momento, realizar cambios y finalizar la configuración antes de lanzarla y realizar un pago.",
+      "offerNameAndSocial": "Nombre de la oferta y Red Social",
+      "offerNameAndSocialDesc": "Solo puedes seleccionar una red social por oferta. Elige la plataforma que mejor se adapte a tu campaña.",
+      "offerName": "Nombre de la Oferta",
+      "enterOfferName": "Ingresa el Nombre de la Oferta",
+      "chooseSocial": "Elegir Red Social",
+      "uploadAdContentForInstagram": "Subir Contenido del Anuncio para Instagram (Reels)",
+      "uploadAdContentForYouTube": "Subir Contenido del Anuncio para YouTube (Shorts)",
+      "uploadAdContentForTikTok": "Subir Contenido del Anuncio para TikTok",
+      "uploadVideoAd": "Subir anuncio de video",
+      "choosePositionAd": "Elegir posición del anuncio (máx. 2)",
+      "dragAndDropFile": "Arrastra y suelta la imagen/video o selecciona el archivo",
+      "dragAndDropVideoImageFormat": "para video hasta 200 MB, .mp4, .mov / para imagen hasta 5MB, .jpg, .png",
+      "adDuration": "Duración del Anuncio",
+      "duration": "Duración",
+      "durationDesc": "Recomendamos establecer la duración del banner para todo el video para asegurar la máxima visibilidad, ya que los Reels de Instagram a menudo se ven varias veces, y un banner de larga duración aumenta el recuerdo de la marca.",
+      "descriptionInstagramBio": "Descripción en la Biografía de Instagram (Opcional)",
+      "descriptionYouTubeBio": "Descripción en la Biografía de YouTube (Opcional)",
+      "descriptionTikTokBio": "Descripción en la Biografía del Perfil de TikTok (Opcional)",
+      "formulaDescription": "Fórmula: Breve descripción de la marca + Punto de venta único + Llamada a la acción",
+      "followThisFormula": "Sigue esta fórmula para obtener los mejores resultados: Breve descripción de la marca + Punto de venta único (Código promocional) + Llamada a la acción (Enlace)",
+      "linkInstagramBio": "Enlace en la Biografía de Instagram (Opcional)",
+      "linkChannelBio": "Enlace en la Biografía del Canal (Opcional)",
+      "linkTikTokBio": "Enlace en la Biografía de TikTok (Opcional)",
+      "maskingInterface": "<bold>¡Importante!</bold> Recomendamos encarecidamente utilizar servicios de enmascaramiento de enlaces como <linktree>Linktree</linktree>, <bitly>Bit.ly</bitly>, <taplink>Taplink</taplink>, <beacons>Beacons</beacons> y otros. <bold>Los enlaces directos pueden ser bloqueados por Instagram</bold>, YouTube o TikTok, ya que estas plataformas a menudo restringen las redirecciones externas.",
+      "linkPlaceholder": "https://tr.ee/FWhl",
+      "descriptionsReels": "Descripciones de Reels (Opcional)",
+      "descriptionsShorts": "Descripciones en Shorts (Opcional)",
+      "descriptionsTikTok": "Descripción de la Publicación de TikTok (Opcional)",
+      "pinnedComment": "Comentario Fijado (Opcional)",
+      "formulaDiscountLimitAction": "Fórmula: Descuento + Límite de Tiempo + Llamada a la Acción",
+      "adPositionPopover": "Solo puedes seleccionar hasta 2 celdas en una sola fila.",
+      "entire": "Completo",
+      "selectAdCategory": "Seleccionar Categoría de Anuncio",
+      "influencerCategory": "Categorías de contenido",
+      "contentExamplesBrief": "Facilita el trabajo al Clipper: Proporciona Ejemplos de Contenido, Breve (Opcional)",
+      "contentExamplesBriefDesc": "Para asegurar que tu anuncio se vea natural y cumpla con tus expectativas, recomendamos proporcionar al clipper <bold>ejemplos de contenido específicos.</bold> Esto les ayudará a crear un video que sea más efectivo para tu audiencia.",
+      "sendLinksVideosYouLike": "🔗 Envía <bold>enlaces</bold> a videos o publicaciones que te gusten",
+      "shareExamplesOfSuccessfulBrandIntegrations": "📈 Comparte ejemplos de <bold>integraciones de marca exitosas</bold> de otros creadores",
+      "describeThePreferredStyle": "🎬 Describe el estilo preferido: <bold>dinámico, humorístico, informativo o emocional</bold>",
+      "highlightKeyElements": "🤩 Destaca los elementos clave que deben incluirse en el video <bold>(por ejemplo, demostración de producto, testimonio, antes/después, emociones)</bold>",
+      "contentExamplesBriefPlaceholder": "Nos gusta cuando los clippers crean reseñas de productos cortas pero atractivas. Aquí hay algunos ejemplos de videos que reflejan el estilo que buscamos: [enlace 1], [enlace 2]. Sería genial si el video incluye emociones reales y una demostración del producto en acción.",
+      "enterContentLanguage": "Ingresa el Idioma del Contenido",
+      "setUpYourAd": "Configura tu Anuncio",
+      "avgChannelViews": "Elige Vistas Promedio del Canal",
+      "enterPayoutAmount": "Ingresa el pago de CPM (costo por 1,000 vistas)",
+      "enterPayoutAmountPlaceholder": "Recomendado pagar $0.2 – $7",
+      "lifetimePost": "Vida útil de la Publicación (en Días)",
+      "lifetimePostPlaceholder": "Ingresa la vida útil de la Publicación (en Días)",
+      "maxPayoutPerPost": "Pago máximo de CPM por publicación",
+      "maxPayoutPerPostPlaceholder": "Ingresa el pago máximo por publicación",
+      "rewardNumberViewsOptional": "Recompensa por Número de vistas (Opcional)",
+      "rewardNumberViewsDesc": "Cuando el clipper alcance el número de vistas requerido, puedes recompensarlo adicionalmente",
+      "enterNumberViews": "Ingresa el número de vistas",
+      "enterReward": "Ingresa la recompensa",
+      "addReward": "Agregar Recompensa",
+      "any": "Cualquiera",
+      "daysCount": "{days} días",
+      "setYourBudget": "Establece tu Presupuesto",
+      "setYourBudgetDesc": "💡 Si este campo se deja en blanco, el presupuesto se establecerá por defecto al saldo disponible de tu campaña.",
+      "howBudgetWorks": "¿Cómo funciona el Presupuesto?",
+      "enterBudgetLimit": "Ingresa el Límite de Presupuesto",
+      "budgetUnlimit": "Presupuesto Ilimitado",
+      "forAdvanced": "Para Avanzados",
+      "offerDetails": "Detalles de la Oferta",
+      "social": "Red Social",
+      "category": "Categoría",
+      "country": "País",
+      "averageChannelViews": "Vistas Promedio del Canal",
+      "paymentModel": "Modelo de Pago",
+      "lifetime": "Vida útil de la publicación",
+      "rewardNumberViews": "Recompensa por Número de vistas",
+      "saveAsDraft": "Guardar como Borrador",
+      "activateOffer": "Activar Oferta",
+      "howBudgetWorksTitle": "💡 Cómo funciona el Presupuesto",
+      "budgetLimitSet": "Límite de Presupuesto Establecido",
+      "budgetLimitSetDesc1": "✅ El gasto total está limitado por el presupuesto de la oferta. Los fondos se deducen del <bold>monedero de la campaña</bold>.",
+      "budgetLimitSetDesc2": "✅ Sin embargo, es posible un gasto excesivo si algunas publicaciones obtienen más vistas de lo esperado cuando el gasto total está cerca del presupuesto establecido.",
+      "budgetUnlimitForAdvanced": "♾️ Presupuesto Ilimitado",
+      "budgetUnlimitForAdvancedDesc1": "✅ El gasto es ilimitado, los fondos se deducen del <bold>monedero de la campaña.</bold>",
+      "budgetUnlimitForAdvancedDesc2": "✅ Esto permite <bold>más flexibilidad</bold> pero puede llevar a <bold>mayores gastos.</bold>",
+      "howSpendingCalculated": "📌 ¿Cómo se calcula el gasto?",
+      "howSpendingCalculatedDesc": "Cada publicación reserva una cierta cantidad <bold>(por ejemplo, $20)</bold> basada en el número promedio de vistas para el clipper específico. Sin embargo, si la publicación recibe más vistas de lo esperado, puede exceder su presupuesto reservado <bold>(por ejemplo, $25)</bold>. En ese caso, la cantidad extra (por ejemplo, $5) se tomará del monedero de la campaña.",
+      "checkFinalBalance": "📌 ¿Qué sucede si el monedero de la campaña llega a cero (o menos)?",
+      "checkFinalBalanceDesc": "Todas tus ofertas se ocultarán y los clippers no podrán tomarlas. Para reactivar tus ofertas, deberás recargar tu monedero de campaña.",
+      "understand": "Entendido",
+      "offerSuccessfullySavedAsDraft": "Oferta guardada con éxito como borrador",
+      "offerSuccessfullyCreated": "Oferta creada con éxito",
+      "offerWentToModeration": "Oferta enviada a moderación",
+      "saveChanges": "Guardar Cambios",
+      "saveAndActivate": "Guardar y Activar",
+      "offerSuccessfullyUpdated": "Oferta actualizada con éxito",
+      "instaBioImageDesc": "Descripción en Instagram (Biografía) y Enlace en Instagram (Biografía)",
+      "titleReels": "Título de Reels",
+      "serviceCommission": "Comisión de servicio: {commission}%",
+      "youWillPay": "Incluye comisiones",
+      "1000views": "1000 vistas",
+      "unlimited": "Ilimitado",
+      "maxBudget": "Presupuesto Máximo",
+      "chooseAdType": "Elegir tipo de anuncio",
+      "choosePositionAdHalfScreen": "Posición del anuncio (fijo en la parte inferior)",
+      "choosePositionAdHalfScreenForClipper": "Posición del anuncio",
+      "bottom": "Inferior",
+      "halfScreenAdPopover": "En el modo de media pantalla, el banner se fija en la parte inferior. El video siempre se reproduce en la mitad superior",
+      "bannerTypeHint": "Banner: coloca tu banner en un lugar de tu elección, y permanecerá visible mientras se reproduce el video",
+      "halfScreenTypeHint": "Media pantalla: tu banner cubre la mitad inferior de la pantalla, con el video reproduciéndose arriba",
+      "bannerTypeHintForClipper": "Coloca el banner en el lugar mostrado. Debe permanecer visible durante todo el video",
+      "halfScreenTypeHintForClipper": "Configura el banner para cubrir la mitad inferior de la pantalla mientras el video sigue reproduciéndose arriba",
+      "influencerContentTypeHintForClipper": "Crear videos del contenido proporcionado",
+      "dedicateTypeHintForClipper": "Crear un video dedicado sobre la marca (reseña, historia o presentación)",
+      "integrationTypeHintForClipper": "Integrar un segmento de marca/mención en tu contenido regular",
+      "challengeTypeHintForClipper": "Elige un desafío, alcanza la meta de visualizaciones y cobra tu recompensa",
+      "addLinksToYourContent": "Agregar Enlaces a Tu Contenido",
+      "linkTitle": "Título del Enlace",
+      "linkUrl": "URL del Enlace",
+      "addLink": "Agregar Enlace",
+      "maxLinksReached": "Máximo 10 enlaces permitidos",
+      "influencerContentTypeHint": "Contenido de influencer — los clippers crean videos del contenido que proporcionas",
+      "dedicateTypeHint": "Dedicar — todo el video corto trata sobre tu marca (reseña, historia o presentación)",
+      "integrationTypeHint": "Integración — un segmento corto de marca/mención integrado en el contenido regular del creador",
+      "challengeTypeHint": "Desafío — los clippers completan un desafío orientado a visualizaciones para tu marca, ganando recompensas solo cuando entregan resultados.",
+      "uploadAvatar": "Subir Avatar",
+      "uploadAvatarDesc": "Sube el avatar de tu marca — el clipper reemplazará su avatar por el tuyo."
+    },
+    "offer": {
+      "offerStatusChangedToModeration": "El estado de \"{name}\" se cambió con éxito a \"moderación\"",
+      "offerStatusChangedToClosed": "El estado de \"{name}\" se cambió con éxito a \"cerrado\"",
+      "offerStatusChangedToPaused": "El estado de \"{name}\" se cambió con éxito a \"pausado\"",
+      "closeOffer": "Cerrar Oferta",
+      "pauseOffer": "Pausar Oferta",
+      "activateOffer": "Activar Oferta",
+      "offerStatusChangedToModerated": "El estado de \"{name}\" se cambió con éxito a \"activo\"",
+      "errorClosingOffer": "Error al cerrar oferta",
+      "errorPausingOffer": "Error al pausar oferta",
+      "errorActivatingOffer": "Error al activar oferta",
+      "closeOfferConfirmation": "¿Estás seguro de que quieres cerrar la oferta \"{name}\"?",
+      "closeOfferWarning": "Esta acción no se puede deshacer. La oferta ya no estará disponible para los influencers.",
+      "pending": "Pendiente",
+      "oldOfferRemainsActiveUntilModeration": "Tu oferta anterior permanecerá activa hasta que se complete el proceso de moderación",
+      "rejected": {
+        "title": "❌ Tu oferta fue rechazada",
+        "reasonPrefix": "Motivo:"
+      },
+      "statuses": {
+        "draft": "Borrador",
+        "moderating": "Moderando",
+        "moderated": "Activo",
+        "closed": "Cerrado",
+        "paused": "Pausado",
+        "rejected": "Rechazado"
+      },
+      "budget": "Presupuesto",
+      "spent": "Gastado",
+      "views": "Vistas",
+      "posts": "Publicaciones",
+      "print": "Imprimir",
+      "unallocated": "No asignado",
+      "overspent": "Sobregasto",
+      "reserve": "Reserva",
+      "reservePopoverText": "La cantidad de fondos reservados para los clippers que han aceptado la oferta en tiempo real",
+      "totalViewers": "Espectadores Totales",
+      "totalViews": "Vistas Totales",
+      "goal": "Meta",
+      "cpmTitle": "Costo por Mil (CPM)",
+      "maxPayPerPostTitle": "Pago máximo por publicación",
+      "budgetChartTitle": "Gráfico de Gasto de Presupuesto y Crecimiento de Vistas",
+      "budgetSpent": "Presupuesto Gastado ($)",
+      "postsOfThisOffer": "Publicaciones de esta Oferta",
+      "postCreate": "Crear Publicación",
+      "paid": "Pagado",
+      "overspending": "Gasto excesivo",
+      "postLink": "Enlace de la Publicación",
+      "status": "Estado",
+      "reserved": "Reservado",
+      "uploadedAdContentForPlatform": "Contenido de Anuncio Subido para {platform}",
+      "entireVideo": "Video completo",
+      "descriptionPlatformBio": "Descripción en {platform} (Biografía)",
+      "linkChannelBio": "Enlace en {platform} (Biografía)",
+      "descriptionPlatform": "Descripción en {platform}",
+      "uploadedFiles": "Archivos subidos",
+      "viewsPopoverText": "El número de vistas se actualiza <bold>cada hora</bold>",
+      "overspendingPopoverText": "Es posible un gasto excesivo si las publicaciones obtienen más vistas de lo esperado. <br></br><br></br> 📌 Cálculo de gasto excesivo: <br></br> <bold>Pagado - Reservado</bold> = Gasto excesivo",
+      "searchCategories": "Buscar Categorías"
+    },
+    "landing": {
+      "tutorial": {
+        "modalTitle": "Tutorial en Video"
+      },
+      "contactUs": {
+        "titlePart1": "¿Tienes una marca?",
+        "titlePart2": "Nos encantaría trabajar contigo",
+        "formTitle": "Contáctanos",
+        "emailPlaceholder": "E-mail",
+        "phonePlaceholder": "Número de Teléfono",
+        "brandNamePlaceholder": "Nombre de la Marca (Opcional)",
+        "aboutLabel": "Sobre tu Marca (Opcional)",
+        "aboutPlaceholder": "Por ejemplo, Somos CoffeeJoy, una encantadora cafetería de gatos en Viena donde puedes disfrutar de café artesanal rodeado de gatos amigables y adoptables. ¡Es el lugar perfecto para relajarse!",
+        "categoriesLabel": "Categoría de la Marca",
+        "sendButton": "Enviar Solicitud",
+        "partnerEmail": "partner@clipshub.com",
+        "emailError": "El email debe contener '@' y un dominio válido.",
+        "emailRequired": "El correo electrónico es obligatorio",
+        "emailInvalid": "Por favor, introduce una dirección de correo válida",
+        "phoneRequired": "El número de teléfono es obligatorio",
+        "sending": "Enviando...",
+        "success": "¡Tu solicitud ha sido enviada exitosamente!",
+        "loadingCategories": "Cargando categorías...",
+        "phoneMinLength": "El número de teléfono debe tener al menos 7 dígitos",
+        "phoneMaxLength": "El número de teléfono debe tener menos de 20 dígitos",
+        "phoneInvalid": "Por favor, introduce un número de teléfono válido",
+        "telegramPlaceholder": "Telegram / WhatsApp",
+        "formError": "Por favor, proporciona un correo electrónico o un número de teléfono"
+      },
+      "hero": {
+        "title": "Tu banner en Shorts&nbspy&nbspReels de creadores",
+        "titleStart": "Haz que tu marca se vuelva",
+        "titleEnd": "con videos cortos",
+        "viral": "Viral",
+        "description": "Crea una oferta y haz que tu anuncio aparezca en <b>cientos de videos de creadores reales.</b> <br/><br/> Alcanza <b>millones de visualizaciones</b> con <b>moderación interna</b> y <b>detección anti-fraude</b> — paga solo por resultados.",
+        "startCampaign": "Iniciar Campaña",
+        "viewAdType": "Ver Tipo de Anuncio",
+        "requestDemo": "Solicitar Demo"
+      },
+      "makeBrand": {
+        "title": "Haz que tu Marca",
+        "description": "Inicia tu primera campaña en minutos.",
+        "brandLabel": "Marca",
+        "trafficStat": "de todo el tráfico de internet se prevé que sea video para 2025, siendo el contenido de formato corto el impulsor clave."
+      },
+      "heroCarousel": {
+        "banner": {
+          "title": "Banner",
+          "tooltip": {
+            "description": "Banner rectangular insertado por el clipper en su video corto.",
+            "example": "Ejemplo:"
+          }
+        },
+        "dedicate": {
+          "title": "Dedicar",
+          "tooltip": {
+            "description": "Todo el video corto trata sobre tu marca (reseña, historia o presentación).",
+            "example": "Ejemplo:"
+          }
+        },
+        "integration": {
+          "title": "Integración",
+          "tooltip": {
+            "description": "Un segmento corto de marca/mención integrado en el contenido regular del creador.",
+            "example": "Ejemplo:"
+          }
+        },
+        "half_screen": {
+          "title": "Media pantalla",
+          "tooltip": {
+            "description": "Un banner que cubre la mitad inferior/superior del video.",
+            "example": "Ejemplo:"
+          }
+        },
+        "influencer_content": {
+          "title": "Contenido de Influencer",
+          "tooltip": {
+            "description": "Un negocio representado por un influencer sube su video, y los clippers hacen videos virales con la cara del influencer.",
+            "example": "Ejemplo:"
+          }
+        },
+        "challenge": {
+          "title": "Desafío",
+          "tooltip": {
+            "description": "Únete a desafíos de marca con metas claras y recompensas reales.<br/><br/> Cada oferta define el número exacto de visualizaciones que necesitas alcanzar — una vez que lo logres, ganarás un premio en efectivo.",
+            "example": "Ejemplo:"
+          }
+        },
+        "howItWorks": "Cómo funciona"
+      },
+      "stats": {
+        "clippers": {
+          "value": "1200+",
+          "title": "Clippers",
+          "description": "Micro-influencers activos generando visualizaciones"
+        },
+        "offersLaunched": {
+          "value": "380+",
+          "title": "Ofertas Lanzadas",
+          "description": "Campañas lanzadas en ClipsHub"
+        },
+        "paidToClippers": {
+          "value": "$89,000+",
+          "title": "Pagado a Clippers",
+          "description": "Total de pagos a micro-influencers (histórico)"
+        },
+        "completedViews": {
+          "value": "1B+",
+          "title": "Visualizaciones Completadas",
+          "description": "Total de visualizaciones verificadas generadas por micro-influencers"
+        }
+      },
+      "trustedBy": {
+        "title": "Confianza de"
+      },
+      "cpmComparison": {
+        "matching": "Coincidencia",
+        "title": "Comparación de CPM",
+        "subtitle": "Compara las tasas promedio de CPM entre plataformas",
+        "table": {
+          "platform": "Plataforma",
+          "avgCpm": "CPM Promedio",
+          "viewsFor100": "Visualizaciones por $100 (aprox.)"
+        },
+        "views": "visualizaciones",
+        "platforms": {
+          "youtube": "YouTube",
+          "instagram": "Instagram",
+          "tiktok": "TikTok",
+          "clipsHub": "ClipsHub"
+        },
+        "slider": {
+          "title": "Configuración de Presupuesto CPM",
+          "subtitle": "Selecciona el presupuesto deseado para comparar la eficiencia",
+          "selectedBudget": "Presupuesto Seleccionado",
+          "setBudget": "Establecer Presupuesto"
+        }
+      },
+      "keyChallenges": {
+        "painpoints": "Puntos de Dolor",
+        "title": "Principales Desafíos",
+        "challenges": {
+          "standOutFromCompetitors": "Destácate de la Competencia",
+          "standOutFromCompetitorsDesc": "Con nuestra fuente de tráfico, donde los clippers impulsan tu marca en videos de formato corto, siempre permanecerás visible para tu audiencia objetivo — facilitando destacarte de la competencia",
+          "simplifyTrafficManagement": "Simplifica la Gestión de Tráfico",
+          "simplifyTrafficManagementDesc": "En lugar de lidiar con múltiples fuentes de tráfico, nuestro sistema automatizado te permite crear una sola tarea para clippers y rastrear resultados sin esfuerzo. La moderación multinivel garantiza la calidad de cada integración de marca.",
+          "avoidRisingAdCosts": "Evita los Costos Crecientes de Publicidad",
+          "avoidRisingAdCostsDesc": "Los videos de formato corto son el canal de tráfico más efectivo y asequible de hoy. Con más clippers de los que jamás necesitarás, no tendrás que preocuparte por precios disparados.",
+          "goBeyondTraditionalInfluencers": "Ve Más Allá de los Influencers Tradicionales",
+          "goBeyondTraditionalInfluencersDesc": "Mientras los influencers trabajan con tus competidores, los clippers pueden reemplazarlos o amplificarlos — creando cientos de integraciones de micro-influencers que llevan tu marca a millones de espectadores."
+        }
+      },
+      "faq": {
+        "title": "Preguntas Frecuentes",
+        "subtitle": "FAQ",
+        "items": {
+          "1": {
+            "question": "¿Cómo Puedo Hacer que Mi Marca se Vuelva Viral?",
+            "answer": "Cuando lanzas una campaña publicitaria en Clipshub, tu oferta se vuelve visible instantáneamente para miles de creadores de contenido. Ellos tomarán tu campaña y promocionarán tu marca, permitiéndote alcanzar cientos de millones de espectadores potenciales. Solo pagas por visualizaciones 100% verificadas y puedes rastrear fácilmente qué tan efectivo es tu embudo."
+          },
+          "2": {
+            "question": "¿Cuál Es el Embudo Más Efectivo para Mi Campaña?",
+            "answer": "Los embudos más efectivos se enfocan en lograr el CTA (costo por acción) más alto posible. No te preocupes: tu gerente de cuenta dedicado en nuestra plataforma tiene amplia experiencia y te guiará paso a paso para asegurar que obtengas los mejores resultados posibles."
+          },
+          "3": {
+            "question": "¿Cómo Deposito Fondos para Lanzar Mi Campaña?",
+            "answer": "Actualmente apoyamos los siguientes métodos de pago: Transferencia Bancaria, PayPal, Tarjetas de Crédito, USDT (TRC20), USDT (ERC20), y Bitcoin (BTC)."
+          },
+          "4": {
+            "question": "¿Cómo Sé que las Visitas Son Reales?",
+            "answer": "Nuestra plataforma usa un proceso de triple verificación para asegurar la autenticidad de las visitas antes de que se te cobre. Un paso de verificación es automatizado, mientras que dos pasos adicionales son revisados manualmente por nuestros moderadores. Estamos comprometidos a proporcionar el tráfico y contenido de más alta calidad para tu marca. Tus resultados son nuestra prioridad, y nuestro objetivo es ser tu socio de crecimiento a largo plazo."
+          },
+          "5": {
+            "question": "¿Cuál Es el CPM en Clipshub?",
+            "answer": "Tú estableces tu propio CPM (costo por mil impresiones), basado en la oferta y demanda del mercado. Tu gerente de cuenta te ayudará a ajustar tus campañas para lograr un rendimiento óptimo."
+          },
+          "6": {
+            "question": "¿Puedo Rastrear los Resultados de Mi Campaña?",
+            "answer": "¡Absolutamente! Puedes rastrear visitas, me gusta, comentarios, menciones de marca, y clics a través de tus enlaces de referencia para monitorear conversiones y medir el éxito."
+          },
+          "7": {
+            "question": "¿Qué Tan Rápido Puedo Lanzar Mi Campaña?",
+            "answer": "Con la ayuda de nuestro equipo, tu campaña puede estar en vivo en menos de una hora. El proceso está diseñado para ser simple, rápido y eficiente."
+          }
+        }
+      },
+      "showcase": {
+        "subtitle": "Vitrina",
+        "title": "Ejemplos",
+        "totalViews": "Vistas Totales",
+        "CPM": "CPM:"
+      }
+    },
+    "campaignsDashboard": "Panel de Campañas",
+    "dashboard": "Panel de Control",
+    "campaigns": "Campañas",
+    "creationDate": "Fecha de Creación",
+    "brand": {
+      "brands": "Marcas",
+      "brand": "Marca",
+      "createABrand": "Crear una Marca",
+      "createBrand": "Crear Marca",
+      "brandAvatar": "Avatar de Marca",
+      "editBrand": "Editar Marca",
+      "brandSuccessfullyCreated": "Marca Creada con Éxito"
+    },
+    "campaignSubtitle": "Este nombre es privado y solo visible para ti",
+    "chooseBrand": "Elegir una Marca",
+    "createNewBrand": "Crear Nueva Marca"
+  },
+  "transferModal": {
+    "transferDirection": "Dirección de Transferencia",
+    "transferAmount": "Cantidad a Transferir",
+    "enterTransferAmount": "Ingresa la Cantidad a Transferir",
+    "transfer": "Transferir",
+    "maxValueUSD": "Máx. {value} USD",
+    "walletName": "Monedero {value}",
+    "selectCampaignWallet": "Seleccionar monedero de campaña",
+    "transferSuccess": "${sum} transferido con éxito al Monedero #{wallet}"
+  },
+  "form": {
+    "uploadOneFile": "Por favor, sube solo un archivo",
+    "fileTooLarge": "El archivo es demasiado grande. El tamaño máximo es de 5 MB",
+    "invalidFileFormat": "Formato de archivo no válido. Solo se permiten JPG y PNG",
+    "requiredField": "Campo Obligatorio",
+    "minAmount": "La cantidad indicada es menor que la cantidad permitida",
+    "tooManyCharacters": "El valor no debe exceder los 100 caracteres",
+    "tooLittleWithSymbol": "Al menos 2 caracteres",
+    "tooLittleWithSymbol20": "Al menos 20 caracteres",
+    "incorrectUrl": "URL incorrecta",
+    "invalidUrl": "Formato de URL inválido",
+    "chooseAdPosition": "Elige la posición de la publicidad",
+    "chooseAdDuration": "Elige la duración de la publicidad",
+    "selectAtLeastOneValue": "Selecciona al menos un valor",
+    "positiveNumber": "El valor debe ser mayor que cero",
+    "mustBeNumber": "El valor debe ser un número",
+    "budgetShouldBeMoreThanZero": "El presupuesto debe ser mayor que 0",
+    "invalidEmail": "Correo electrónico no válido",
+    "invalidUsdtTrc20Address": "Dirección USDT TRC20 no válida",
+    "mustBeNumberOrEmpty": "Debe ser número o estar vacío",
+    "maxValueIs1000dollars": "El valor máximo es $1000",
+    "maxValueIsTenMildollars": "El valor máximo es $10.000.000",
+    "maxValueIsOneMilDollars": "El valor máximo es $1 000 000",
+    "maxValueIs100dollars": "El valor máximo es $100",
+    "maxValueIs30days": "El valor máximo es 30 días",
+    "maxLengthIs1000": "La longitud máxima es de 1000 caracteres",
+    "maxLengthIs100": "La longitud máxima es de 100 caracteres",
+    "atLeastOnePayoutFieldRequired": "Por favor, rellena al menos un campo: Monto de Pago o Bonificaciones por Visualizaciones",
+    "min6characters": "Mínimo 6 caracteres",
+    "shouldBeLetterAndDigit": "Debe haber al menos un dígito y una letra mayúscula",
+    "passwordsDoNotMatch": "Las contraseñas no coinciden",
+    "termsAccepted": "Términos aceptados"
+  },
+  "influencer": {
+    "yourChannels": "Tus Canales",
+    "addChannel": "Añadir Canal",
+    "instagram": "Instagram",
+    "youtube": "Youtube",
+    "tiktok": "TikTok",
+    "dashboard": "Panel de Control",
+    "channelAddSuccess": "Canal añadido con éxito",
+    "channelAddError": "Error al añadir canal",
+    "oauthError": "Error al autenticarse con Google",
+    "adding": "Añadiendo...",
+    "comingSoon": "Próximamente",
+    "archiveChannel": "Archivar Canal",
+    "archivedSuccessfully": "Canal \"{name}\" archivado",
+    "removeChannel": "Eliminar Canal",
+    "removeChannelConfirmation": "¿Estás seguro de que quieres eliminar este canal de tu cuenta?",
+    "canAddLater": "Puedes agregarlo nuevamente más tarde si es necesario.",
+    "needHelp": "Necesitas Ayuda",
+    "channelCardButton": {
+      "moderation": "En Moderación",
+      "approved": "Ir al Panel de Control",
+      "archived": "Información adicional requerida",
+      "created": "Configurar Perfil"
+    },
+    "channelInfo": {
+      "subscribers": "suscriptores",
+      "videos": "videos"
+    },
+    "findOffer": {
+      "title": "Encontrar Oferta",
+      "description": "Puedes encontrar la oferta perfecta entre miles de opciones utilizando filtros clave adaptados a tu audiencia y nicho."
+    },
+    "recentViews": {
+      "title": "Vistas Recientes",
+      "perThousandViews": "por {count} vistas"
+    },
+    "offerCard": {
+      "infoBlocks": {
+        "goalViews": "Vistas Objetivo",
+        "paid": "Pagado",
+        "reserved": "Reservado",
+        "cpm": "CPM",
+        "started": "Iniciado",
+        "social": "Red Social",
+        "influencerCategory": "Categoría de Contenido",
+        "language": "Idioma",
+        "avgViews": "Número Promedio de Vistas",
+        "lifetimePost": "Vida útil de la Publicación",
+        "debt": "Deuda",
+        "reward": "Recompensa",
+        "allCategories": "Todas las Categorías",
+        "channelCategory": "Categoría del Canal"
+      },
+      "buttons": {
+        "viewDetails": "Ver Detalles",
+        "makePost": "Hacer Publicación",
+        "moderationInfo": "Información de Moderación"
+      },
+      "footer": {
+        "reward": "Recompensa",
+        "paid": "Pagado",
+        "paidAmount": "${paid}",
+        "perThousandViews": "por {count} vistas",
+        "offerInfo": "Información de la Oferta",
+        "yourPost": "Tu Publicación",
+        "maxReward": "Máximo por vídeo",
+        "seeAllOffers": "Ver Todas las Ofertas"
+      },
+      "statuses": {
+        "approved": "Activo",
+        "created": "Necesita Publicación",
+        "moderation": "Moderación",
+        "archived": "Archivado",
+        "rejected": "Rechazado",
+        "closed": "Cerrado"
+      }
+    },
+    "offerDetail": {
+      "offer": "Oferta",
+      "share": "Compartir",
+      "brief": "Breve",
+      "about": "Acerca de {name}",
+      "categories": "Categorías de {name}",
+      "cpmRate": "Precios",
+      "per1000Views": "Por 1,000 vistas",
+      "takeOffer": "Tomar Oferta",
+      "reward": "🎉 Recompensa",
+      "rewardDesc": "Gana recompensas al alcanzar hitos:",
+      "forEvery": "Por {count} vistas recibirás una recompensa de ${amount}",
+      "whatYouNeedToDo": "Lo que Necesitarás Hacer",
+      "embedAdAssets": "Inserta los Activos del Anuncio en tu video",
+      "addDescription": "Añade una descripción a tus Shorts",
+      "addLink": "Añade un enlace a tu canal (Biografía)",
+      "pinSponsoredComment": "Fija el comentario patrocinado",
+      "submitLink": "Envía el enlace a tu publicación para moderación",
+      "materialsModerated": "Todos los materiales han sido moderados y se te proporcionarán después de aceptar la oferta.",
+      "makeSurePlacementMeetsRequirement": "Asegúrate de que la ubicación cumpla con el requisito:",
+      "top": "Superior",
+      "maxPayoutPerPostShort": "Pago máximo por publicación",
+      "rewardsPerGoals": "Recompensas por objetivos",
+      "total": "Total",
+      "max": "máx",
+      "contentSources": "Fuentes de Contenido"
+    },
+    "offers": {
+      "activeOffers": "Ofertas Activas",
+      "needsPosting": "Necesita Publicación",
+      "moderation": "Moderación",
+      "archived": "Archivado",
+      "rejected": "Rechazado",
+      "closed": "Cerrado",
+      "businessCategories": "Categorías de Negocio",
+      "influencerCategories": "Categorías de Clipper",
+      "social": "Red Social",
+      "language": "Idioma",
+      "offersMediaChannelTypeH1": "Gana Dinero Creando {mediaChannelType}",
+      "revoked": "Revocado",
+      "cancelOffer": "Cancelar Oferta",
+      "offerCancelledSuccessfully": "Oferta cancelada con éxito"
+    },
+    "takeOfferForm": {
+      "steps": {
+        "makePost": "Hacer Publicación",
+        "makePostDesc": "Inserta el enlace de la publicación y confirma el cumplimiento.",
+        "moderation": "Moderación",
+        "moderationDesc": "Tu contenido está siendo revisado para su cumplimiento.",
+        "publishing": "Publicación y Pagos",
+        "publishingDesc": "Publicación aprobada, se están rastreando las vistas y los pagos."
+      },
+      "budgetRanOut": "Lamentablemente, el presupuesto para esta oferta se ha agotado y ya no está disponible.",
+      "whatsNext": "💡 ¿Qué sigue?",
+      "browseOtherOffers": "Puedes explorar otras <link>ofertas disponibles</link> y solicitar una nueva.",
+      "stepNumber": "paso {number}",
+      "youtubeShortsPageTitle": "Crear Contenido de Anuncio para YouTube (Shorts)",
+      "instagramReelsPageTitle": "Crear Contenido de Anuncio para Instagram (Reels)",
+      "tiktokPageTitle": "Crear Contenido de Anuncio para TikTok",
+      "downloadAdAssets": "Descargar Activos del Anuncio",
+      "downloadAdDesc": "Descarga el archivo del anuncio e insértalo en tu video",
+      "fileSize": "- MB",
+      "positionAd": "Posición del anuncio",
+      "adDuration": "Duración del Anuncio",
+      "entireVideo": "Video completo",
+      "brief": "Breve",
+      "briefDesc": "La empresa ha preparado un resumen con <recommendations>recomendaciones</recommendations> para la integración de tu anuncio. Por favor, <considerReflect>considera y refleja</considerReflect> estas en tus YouTube Shorts.",
+      "makeDescription": "Haz la Descripción en tus Shorts y Publícala",
+      "descriptionInShorts": "Descripción en Shorts",
+      "updateDescription": "Actualiza tu Descripción en el Canal (Biografía)",
+      "updateLink": "Actualiza tu Enlace en el Canal (Biografía)",
+      "descAndLinkInBio": "Descripción en YouTube (Biografía) y Enlace en el Canal (Biografía)",
+      "makePinnedComment": "Haz un Comentario Fijado",
+      "pinnedComment": "Comentario Fijado",
+      "enterShortsLink": "Ingresa el Enlace al Short Creado",
+      "enterShortsLinkDesc": "Si has confirmado que todas las condiciones anteriores se cumplen, inserta el enlace a tu publicación con este contenido.",
+      "shortsLinkPlaceholder": "Enlace de YouTube Shorts",
+      "descInShortsStatus": "Descripción en tus Shorts",
+      "descInBioStatus": "Descripción en el Canal (Biografía)",
+      "linkInBioStatus": "Enlace en el Canal (Biografía)",
+      "pinnedCommentStatus": "Comentario Fijado",
+      "postTooOldStatus": "El vídeo tiene menos de 2 horas",
+      "belongToUserStatus": "La publicación pertenece al usuario",
+      "postTitleStatus": "El título de la publicación no coincide",
+      "clipperAvatarStatus": "El avatar del perfil no coincide",
+      "profileErrorMessage": "Encontramos algunos errores menores en tu perfil. Por favor, corrígelos y haz clic en <recheck>Revisar</recheck>",
+      "profileErrorMessageDesc": "Nota: Puede tomar hasta algunos minutos para que los cambios se actualicen completamente.",
+      "submitForModeration": "Enviar para Moderación",
+      "deadlineExpired": "No publicaste tu publicación en <time>2 horas</time>, por lo que el presupuesto reservado para esta oferta ha sido liberado. Ahora, otros clippers pueden tomar esta oferta, y el presupuesto puede agotarse.",
+      "whatNextAfterExpiry": "Puedes seguir creando una publicación para esta oferta, pero no garantizamos la disponibilidad del presupuesto. Si el presupuesto de la oferta se agota, ya no estará disponible.",
+      "retakeRecommendation": "Recomendamos <retakeLink>retomar la oferta</retakeLink> para reservar el presupuesto para ti de nuevo.",
+      "submissionSuccess": "Tu publicación ha sido enviada con éxito para moderación",
+      "submissionError": "Error al enviar tu publicación. Por favor, inténtalo de nuevo",
+      "instagramChannelBioTitle": "Descripción en Instagram (Biografía)",
+      "instagramLinkBioTitle": "Enlace en Instagram (Biografía)",
+      "instagramReelsTitle": "Título de Reels",
+      "instagramPinnedCommentTitle": "Comentario Fijado",
+      "instagramUploadLinkTitle": "Ingresa el Enlace a los Reels Creados",
+      "instagramUploadLinkPlaceholder": "Enlace de Instagram Reels",
+      "instagramReelsTitleImageDesc": "Título en Reels",
+      "instagramChannelBioImageDesc": "Descripción en Instagram (Biografía) y Enlace en el Canal (Biografía)",
+      "instagramCommentImageDesc": "Comentario Fijado",
+      "tiktokBioTitle": "Descripción del Perfil de TikTok (Biografía)",
+      "tiktokBioLinkTitle": "Enlace en TikTok (Biografía)",
+      "tiktokBioLinkTitleDesc": "Para añadir un enlace clicable en tu bio, abre “Ajustes y privacidad → Cuenta” y cambia tu perfil a una “Cuenta de empresa”. Después de eso, aparecerá el campo “Sitio web” en la sección “Editar perfil” para pegar tu URL.",
+      "tiktokDescPostTitle": "Descripción de la Publicación de TikTok",
+      "tiktokUploadLinkTitle": "Ingresa el Enlace a la Publicación de TikTok Creada",
+      "tiktakUploadLinkPlaceholder": "Enlace de la publicación de TikTok",
+      "tiktokPostDescImageDesc": "Descripción de la Publicación de TikTok",
+      "tiktokChannelBioImageDesc": "Descripción del Perfil de TikTok (Biografía) y Enlace en el Canal (Biografía)",
+      "makeSurePlacementMeetsRequirement": "Asegúrate de que la ubicación cumpla con el requisito: ",
+      "chooseChannelForOffer": "Elegir Canal para la Oferta",
+      "noticeFbViews": "<b>Aviso:</b> Las visualizaciones de Facebook no se contabilizan. Solo las visualizaciones de Instagram son válidas para las recompensas.",
+      "notEligible": "No Elegible",
+      "download": "Descargar",
+      "downloadAvatar": "Descargar Avatar",
+      "downloadAvatarDesc": "Descargar <b>avatar</b> y <b>actualizar tu avatar de perfil/canal.</b>"
+    },
+    "channelSettings": {
+      "title": "Configuración del Canal",
+      "loggedAs": "Has iniciado sesión como",
+      "change": "Cambiar",
+      "provideInfo": "Antes de empezar a monetizarlo, por favor, proporciona toda la información correcta sobre este canal.",
+      "chooseChannel": "Elegir Canal",
+      "chooseChannelTopic": "Elegir Tema del Canal",
+      "chooseChannelLanguage": "Elegir Idioma del Canal",
+      "warningMessage": "La información que proporcionas nos ayuda a conectarte con las ofertas adecuadas para tu canal. No te preocupes, siempre puedes cambiarla más tarde en la configuración de tu canal.",
+      "successMessage": "Configuración del canal actualizada con éxito",
+      "errorMessage": "Error al actualizar la configuración del canal",
+      "enterChannelLanguage": "Ingresa el Idioma del Canal",
+      "moderationIssues": "Problemas de Moderación",
+      "deleteChannel": "Eliminar Canal",
+      "updateWarningTitle": "⚠️ Importante: Todas las Publicaciones Activas Serán Cerradas",
+      "updateWarningMessage": "Cuando actualices la configuración del canal, todas las publicaciones con estados \"Necesita Publicación\", \"Moderación\" y \"Aprobado\" se cerrarán automáticamente. Esta acción no se puede deshacer. ¿Estás seguro de que deseas continuar?"
+    },
+    "moderationNoticeCard": {
+      "title": "Moderación en curso",
+      "description": "Ya hemos comenzado a revisar tus detalles. La moderación suele tardar hasta 30 minutos.",
+      "message": "Ya hemos comenzado a revisar tus detalles. La moderación suele tardar hasta 30 minutos. Una vez que se complete, recibirás una notificación.",
+      "support": "Si tienes alguna pregunta o algo urgente, no dudes en contactarnos, ¡estamos aquí para ayudarte! 💪🏼"
+    },
+    "moderation": {
+      "stepLabel": "paso 2",
+      "title": "Moderación",
+      "submittedMessage": "✅ Tu contenido ha sido enviado para moderación",
+      "moderationTime": "La moderación suele tardar <span>hasta 15 minutos.</span> Revisaremos tu publicación para asegurarnos de que cumpla con los requisitos de la oferta.",
+      "checkListTitle": "¿Qué se está revisando?",
+      "checkListItem1": "📌 Corrección del enlace y disponibilidad del video",
+      "checkListItem2": "📌 Cumplimiento con el resumen y los materiales publicitarios",
+      "checkListItem3": "📌 Cumplimiento de todas las condiciones de la oferta",
+      "notification": "Recibirás una notificación una vez que la moderación esté completa.",
+      "trackStatus": "<span>🔍 Puedes seguir el estado en tu panel de control en la pestaña Moderación.</span>"
+    },
+    "postModerated": {
+      "stepLabel": "paso 3",
+      "title": "Publicación y Pagos",
+      "aboutOffer": "Acerca de la Oferta",
+      "rejected": {
+        "title": "❌ Tu Publicación Fue Rechazada",
+        "reasonPrefix": "Razón:",
+        "reasonText": "Nuestro sistema ha detectado que has cambiado o eliminado",
+        "retakeHint": "👇 Puedes retomar la oferta a continuación.",
+        "retakeTitle": "Tomar Oferta de Nuevo",
+        "reasons": {
+          "does_not_belong_to_user": "La publicación no pertenece al usuario",
+          "invalid_post_description": "Descripción en tus Shorts",
+          "invalid_profile_description": "Descripción en el Canal (Biografía), Enlace en el Canal (Biografía)",
+          "invalid_pinned_comment": "Comentario Fijado",
+          "post_too_old": "El video tiene más de 2 horas.",
+          "invalid_bio_url": "URL de biografía inválida"
+        }
+      },
+      "showcase": {
+        "subtitle": "Vitrina",
+        "title": "Ejemplos",
+        "totalViews": "Visualizaciones Totales",
+        "CPM": "CPM:"
+      }
+    },
+    "availableOffers": "Ofertas Disponibles",
+    "availableOffersSocialPlatform": "Ofertas disponibles para {socialPlatform}",
+    "searchOffersByBrand": "Buscar ofertas por marca",
+    "allOffers": "Todas las Ofertas",
+    "forYourChannels": "Para tus Canales",
+    "selectChannel": "Seleccionar Canal",
+    "takeOffer": "Tomar Oferta",
+    "attention": "💡 ¡Atención!",
+    "youWillHave2HoursToPublish": "Si aceptas esta oferta, tendrás <bold>2 horas</bold> para crear y publicar tu publicación.",
+    "guaranteedBudgetReserve": "✅ Se te reserva un presupuesto garantizado durante 2 horas.",
+    "youWillReceiveAdContentForDownload": "✅ Recibirás <bold>contenido publicitario</bold> para descargar.",
+    "briefAndTextDesc": "✅ Se te proporcionará un <bold>resumen</bold> y <bold>descripciones de texto</bold> para guiarte.",
+    "youCanTrackThisOffer": "✅ Puedes seguir esta oferta en tu panel de control en la pestaña <bold>Necesita Publicación</bold>.",
+    "makeSureYouReady": "Asegúrate de estar listo para completar la tarea dentro del tiempo establecido.",
+    "takeOfferForChannel": "Tomar Oferta para el Canal",
+    "addChannelBeforeTakeOffer": "Para tomar esta oferta, por favor añade al menos un canal arriba antes de hacer clic en Tomar Oferta.",
+    "offerUnavailableMismatchedCriteria": "Oferta no disponible debido a criterios no coincidentes:",
+    "takeOfferError": {
+      "views_count_not_suitable": "❌ Vistas demasiado bajas",
+      "language_not_suitable": "❌ Idioma no coincide",
+      "media_channel_category_not_suitable": "❌ Categoría no coincide",
+      "media_channel_type_not_suitable": "❌ Plataforma no coincide",
+      "media_channel_moderation_failed": "❌ Moderación del canal fallida",
+      "ad_offer_bad_status": "❌ Estado de la oferta de anuncio incorrecto",
+      "media_channel_moderation_rejected": "❌ Moderación del canal de medios rechazada",
+      "media_channel_settings_are_not_completed": "❌ La configuración del canal de medios no está completa",
+      "first_post_moderation_in_progress": "❌ Moderación de la primera publicación en curso",
+      "budget_too_low": "❌ Presupuesto demasiado bajo"
+    },
+    "referralProgram": {
+      "title": "Programa de Referidos",
+      "yourReferralLink": "Tu Enlace de Referido",
+      "referralCode": "Código de Referido",
+      "totalReferrals": "Total de Referidos",
+      "totalProfit": "Ganancia Total",
+      "upFromYesterday": "Arriba desde ayer",
+      "shareText": "¡Únete a ClipsHub conmigo!",
+      "referralGuide": {
+        "step1": {
+          "title": "Invita con tu enlace o código",
+          "description": "Comparte tu enlace o código de invitación personal en cualquier lugar, es rápido y fácil."
+        },
+        "step2": {
+          "title": "Haz que la gente se una a ClipsHub",
+          "description": "Se registran usando tu referido, y nosotros nos encargamos del resto."
+        },
+        "step3": {
+          "title": "Empieza a ganar sin esfuerzo",
+          "description": "Gana comisiones de cada usuario referido que se une y participa."
+        }
+      },
+      "table": {
+        "title": "Tus Referidos",
+        "referral": "Referido",
+        "joined": "Unido",
+        "email": "Correo electrónico",
+        "subreferrals": "Subreferidos",
+        "profit": "Ganancia",
+        "userType": "Tipo de Usuario",
+        "grade": "Calificación"
+      },
+      "referralGrade": "Grado de Referido",
+      "referralGradeDesc": "Estos son los grados de los Clippers (referidos) que invitas — cuanto más alto sea su nivel (Pequeño, Mediano, Grande, Influencer), más ganarás por cada referido.",
+      "grades": {
+        "beginner": "Clipper Principiante",
+        "small": "Clipper Pequeño",
+        "medium": "Clipper Mediano",
+        "big": "Clipper Grande",
+        "influencer": "Clipper Influencer"
+      },
+      "followers": "Seguidores",
+      "avgViewsPerPost": "Prom. de vistas por publicación",
+      "postedVia": "Publicado vía",
+      "referralFeePopover": "Un porcentaje de las ganancias que tu referido obtiene de las publicaciones a través de ClipsHub se te paga como comisión",
+      "inviteReward": "Recompensa por invitación",
+      "referralFee": "Comisión por referido",
+      "clipperRequirements": "Requisitos del Clipper",
+      "clipViaClipsHub": "clip a través de ClipsHub",
+      "clipperRequirementsTextMobile": "<grade></grade> <br></br><br></br> Para calificar y recibir la recompensa por invitación <inviteReward></inviteReward>, tu referido debe: <br></br><br></br> – Tener <followers></followers> seguidores <br></br> – Promediar <views></views> vistas por publicación <br></br> – Publicar al menos <clipsHubPosts></clipsHubPosts> (oferta tomada, publicación realizada y moderación aprobada) <br></br><br></br> Una vez que se cumplan todos los criterios, la recompensa por invitación se acreditará en tu cuenta.",
+      "clipperRequirementsText": "Para calificar y recibir la recompensa por invitación <inviteReward></inviteReward>, tu referido debe: <br></br><br></br> – Tener <followers></followers> seguidores <br></br> – Promediar <views></views> vistas por publicación <br></br> – Publicar al menos <clipsHubPosts></clipsHubPosts> (oferta tomada, publicación realizada y moderación aprobada) <br></br><br></br> Una vez que se cumplan todos los criterios, la recompensa por invitación se acreditará en tu cuenta.",
+      "upgradePopoverText": "No te preocupes si tu referido comienza como <bold>Clipper Principiante</bold> — cuando alcance el nivel de <bold>Clipper Pequeño</bold>, ¡igual recibirás tu recompensa de <reward></reward>!",
+      "gradeStatus": "Estado de calificación",
+      "youDontHaveReferrals": "Aún no tienes ninguna referencia"
+    },
+    "howItWorks": {
+      "title": "Cómo Funciona",
+      "duration": "3 min",
+      "banner": {
+        "title": "Cómo Funciona",
+        "description": "Ver Video / Guía Paso a Paso"
+      },
+      "detailedInstructions": {
+        "title": "Instrucciones detalladas:",
+        "banner": "Cómo trabajar con ofertas con <span>Banner</span>",
+        "half_screen": "Cómo trabajar con ofertas con <span>Media Pantalla</span>",
+        "influencer_content": "Cómo trabajar con ofertas con <span>Influencer Content</span>"
+      },
+      "bannerAds": "Anuncios Banner",
+      "halfScreenAds": "Anuncios de Media Pantalla",
+      "influencerContentAds": "Anuncios de Contenido de Influencer",
+      "steps": {
+        "banner": {
+          "title": "Banner",
+          "videoTitle": "Cómo Hacer una Publicación para Banner"
+        },
+        "halfScreen": {
+          "title": "Media pantalla",
+          "videoTitle": "Cómo Hacer una Publicación para Media Pantalla"
+        },
+        "influencerContent": {
+          "title": "influencer Content",
+          "videoTitle": "Cómo hacer una publicación para Influencer Content"
+        },
+        "register": {
+          "title": "Regístrate en Clipshub"
+        },
+        "linkChannel": {
+          "title": "Asocia tu canal de Instagram, TikTok o YouTube que desees monetizar",
+          "description": "Puedes vincular un número ilimitado de canales a tu cuenta y monetizarlos todos."
+        },
+        "selectCategory": {
+          "title": "Selecciona la categoría y el idioma de tu canal",
+          "description": "De esta manera, Clipshub podrá recomendarte las ofertas más adecuadas para que puedas monetizar."
+        },
+        "goToOffers": {
+          "title": "Accede a la página de ofertas",
+          "description": "y elige el tipo de anuncio que prefieras. En este caso, selecciona \"Banner.\"",
+          "descriptionHalfScreen": "y elige el tipo de anuncio que prefieras. En este caso, selecciona \"Media pantalla.\""
+        },
+        "acceptOffer": {
+          "title": "Acepta la oferta con este tipo de anuncio",
+          "description": "Puedes elegir la misma oferta tantas veces al día como quieras; no hay límites. Lo más importante es que tus videos reciban visitas."
+        },
+        "selectCorrectChannel": {
+          "title": "Asegúrate de seleccionar la oferta para el canal correcto"
+        },
+        "downloadBanner": {
+          "title": "Descarga el banner",
+          "titleHalfScreen": "Descarga el Banner de Media Pantalla",
+          "titleInfluencerContent": "Descarga el Contenido de Influencer"
+        },
+        "editVideo": {
+          "title": "Edita tu video:",
+          "description": "Inserta el banner en la posición indicada por el sistema y elimina el fondo verde Chroma key.\n\n• El banner debe visualizarse claramente en la posición correcta.\n• El banner debe permanecer durante todo el video (según lo especificado por el negocio en la oferta).\n• El contenido debe estar en el idioma solicitado por el negocio.",
+          "descriptionInfluencerContent": "Edita el contenido descargado.\n\n• El contenido tiene que ser con la cara del influencer.\n• El video tiene que ser 100% dedicado a este influencer.\n• El contenido debe estar en el idioma solicitado por el influencer.",
+          "youCanDoAllThisInTheApp": "Puedes hacer todo esto en la app"
+        },
+        "checkBrief": {
+          "title": "Consulta el apartado de \"Brief\"",
+          "description": "Allí el negocio explica exactamente lo que quiere que hagas o, en su defecto, te proporciona recomendaciones sobre lo que le gustaría recibir en tus publicaciones.\n\n(Si no hay indicaciones específicas, revisa la información sobre la categoría del contenido, el idioma requerido y la posición del banner.)"
+        },
+        "createVideo": {
+          "title": "Cuando hayas creado el video",
+          "description": "cumpliendo con los requisitos de idioma, banner y categoría solicitados por el negocio, procede al siguiente paso: subir el contenido a tu red social."
+        },
+        "includeTexts": {
+          "title": "El negocio puede solicitarte incluir algunos de estos textos en tus redes sociales:",
+          "titleInfluencerContent": "El influencer puede solicitarte incluir algunos de estos textos en tus redes sociales:",
+          "description": "<bold>Texto en el título del video:</bold> al subir tu video, copia el texto proporcionado en Clipshub y añádelo al título. (Puedes complementarlo con tu propio texto.)\n\n<bold>Descripción en la biografía de tu canal:</bold> copia el texto indicado e insértalo en la descripción de tu perfil.\n\n<bold>Enlace en la biografía de tu canal:</bold> copia el enlace proporcionado e insértalo en tu canal."
+        },
+        "copyVideoLink": {
+          "title": "Copia el enlace del video subido",
+          "description": "y pégalo en Clipshub. El sistema lo detectará automáticamente y verificará si el título del video, la descripción en la biografía y el enlace están correctos.\n\nUna vez aprobado por los moderadores, tu video quedará validado y podrás comenzar a recibir dinero por tus visitas."
+        },
+        "half_screen": {
+          "title": "Media pantalla",
+          "videoTitle": "Cómo hacer una publicación para Media pantalla"
+        },
+        "influencer_content": {
+          "title": "Contenido de Influencer",
+          "videoTitle": "Cómo hacer una publicación para Contenido de Influencer"
+        }
+      }
+    },
+    "enableWatermark": "Activar marca de agua",
+    "enableWatermarkDesc": "Si activas la marca de agua, tu comisión se reducirá del {fee}% al {feeWithDiscount}%.",
+    "leaderboardWidget": {
+      "title": "Clasificación de clips de la oferta",
+      "description": "Mira los clips exitosos de esta oferta"
+    },
+    "alternativeMethod": {
+      "title": "Método Alternativo",
+      "modal": {
+        "title": "Añadir Canal (Alternativo)",
+        "description": "Copia el Código y Pégalo en la Descripción",
+        "instruction": "Añade este código a tu <b>descripción de perfil</b> para que podamos verificar que la cuenta pertenece a ti.<br/><br/>Una vez que tu canal esté añadido, <b>puedes</b> eliminarlo de forma segura.",
+        "pasteTheLinkToYourChannel": "Pega el enlace a tu canal",
+        "placeholder": "Tu Enlace de Canal",
+        "check": "Comprobar",
+        "recheck": "Comprobar de nuevo"
+      }
+    },
+    "premiumBadgeDesc": "Tienes acceso a una oferta <b>Premium</b> porque eres miembro de",
+    "premiumBadgeDescNotPremium": "Tienes acceso a una oferta <b>Premium</b> porque eres miembro de",
+    "premiumBadgeDescIsPremium": "La oferta <b>Premium</b> está disponible solo para suscriptores de",
+    "premiumPopup": {
+      "title": "✨ Oferta Premium",
+      "description": "Esta es una oferta premium disponible solo para suscriptores de Viralista.<br>Si deseas obtener acceso Premium, simplemente sigue el enlace a continuación",
+      "upgrade": "Actualizar a Premium"
+    }
+  },
+  "languages": {
+    "short": {
+      "en": "EN",
+      "es": "ES",
+      "pt-br": "PT",
+      "ru": "RU",
+      "tr": "TR",
+      "pl": "PL",
+      "de": "DE",
+      "cn": "CN",
+      "jp": "JP"
+    },
+    "long": {
+      "en": "Inglés",
+      "es": "Español",
+      "pt-br": "Portugués",
+      "ru": "Ruso",
+      "tr": "Turco",
+      "pl": "Polaco",
+      "de": "Alemán",
+      "cn": "Chino",
+      "jp": "Japonés"
+    },
+    "talkToMeIn": "Habla conmigo en",
+    "English": "Inglés",
+    "Spanish": "Español",
+    "Portuguese": "Portugués",
+    "Turkish": "Turco",
+    "Polish": "Polaco",
+    "German": "Alemán",
+    "Chinese": "Chino",
+    "Japanese": "Japonés"
+  },
+  "error": {
+    "loadingFailed": "Error al cargar los datos",
+    "tryAgainLater": "Por favor, inténtalo de nuevo más tarde"
+  },
+  "errorCodes": {
+    "internal_server_error": "Error interno del servidor",
+    "incorrect_field_title": "Título de campo incorrecto",
+    "incorrect_field_business_name": "Nombre de negocio de campo incorrecto",
+    "incorrect_field_business_description": "Descripción de negocio de campo incorrecta",
+    "incorrect_field_business_category_id": "Categoría de negocio de campo incorrecta",
+    "incorrect_field_logo_file_id": "ID de archivo de logotipo de campo incorrecto",
+    "bad_input_json": "JSON de entrada incorrecto",
+    "email_or_phone_required": "Por favor, proporciona email o número de teléfono",
+    "incorrect_spec_request": "Solicitud de especificación incorrecta",
+    "incorrect_price_request": "Solicitud de precio incorrecta",
+    "incorrect_media_channel_type": "Tipo de canal de medios incorrecto",
+    "incorrect_name": "Nombre incorrecto",
+    "incorrect_min_avg_new_for_post_count": "Recuento de publicaciones promedio mínimo incorrecto",
+    "incorrect_max_avg_new_for_post_count": "Recuento de publicaciones promedio máximo incorrecto",
+    "incorrect_media_channel_categories": "Categorías de canal de medios incorrectas",
+    "incorrect_languages": "Idiomas incorrectos",
+    "cant_change_status": "No se puede cambiar el estado",
+    "transaction_is_already_processed": "La transacción ya ha sido procesada",
+    "incorrect_transaction_id": "ID de transacción incorrecto",
+    "incorrect_sum": "Suma incorrecta",
+    "insufficient_funds": "Fondos insuficientes",
+    "cant_edit_offer": "No se puede editar la oferta",
+    "url_already_exists": "La URL ya existe",
+    "resource_not_found": "Recurso no encontrado para el canal de medios actual",
+    "cant_edit_post": "No se puede editar la publicación",
+    "post_status_not_created": "Estado de la publicación no creado",
+    "post_not_finished": "Publicación no terminada",
+    "cant_edit_offer_duration": "No se puede editar la duración de la oferta",
+    "cant_edit_offer_budget": "No se puede editar el presupuesto de la oferta",
+    "cant_edit_offer_status": "No se puede editar el estado de la oferta",
+    "cant_edit_offer_ad_content": "No se puede editar el contenido del anuncio de la oferta",
+    "cant_edit_offer_position": "No se puede editar la posición de la oferta",
+    "cant_edit_offer_text_description": "No se puede editar la descripción de texto de la oferta",
+    "media_channel_already_exists": "El canal de medios ya existe",
+    "invalid_channel_type": "Tipo de canal no válido",
+    "unable_to_resolve_channel": "No se puede resolver el canal",
+    "error_incorrect_language_ids": "Idioma incorrecto",
+    "error_incorrect_category_ids": "Categoría incorrecta",
+    "cant_create_post": "No se puede crear la publicación",
+    "media_channel_post_already_usage": "Uso de publicación de canal de medios ya existente",
+    "incorrect_user_payment_method_id": "Método de pago de usuario incorrecto",
+    "cant_edit_media_channel": "No se puede editar el canal de medios",
+    "auth_token_parse_error": "Error de análisis de token de autenticación",
+    "user_is_banned": "El usuario está baneado",
+    "email_is_not_exists": "El correo electrónico no existe",
+    "has_not_pass_auth": "No ha pasado la autenticación",
+    "auth_is_not_confirm": "La autenticación no está confirmada",
+    "incorrect_password": "Contraseña incorrecta",
+    "incorrect_temp_token": "Token temporal incorrecto",
+    "incorrect_field_name": "Nombre de campo incorrecto",
+    "incorrect_field_surname": "Apellido de campo incorrecto",
+    "incorrect_field_email": "Correo electrónico de campo incorrecto",
+    "incorrect_field_company_name": "Nombre de empresa de campo incorrecto",
+    "incorrect_field_password": "Contraseña de campo incorrecta",
+    "email_already_exists": "El correo electrónico ya existe",
+    "user_is_already_confirm": "El usuario ya está confirmado",
+    "incorrect_reasons": "Razones incorrectas",
+    "task_assigned_to_another_user": "Tarea asignada a otro usuario",
+    "task_has_incorrect_status": "La tarea tiene un estado incorrecto",
+    "withdraw_request_already_processed": "Solicitud de retiro ya procesada",
+    "mediachannel_has_active_posts": "No se puede archivar el canal con ofertas activas",
+    "ad_campaign_has_active_posts": "No se puede archivar la campaña con publicaciones activas",
+    "auth_not_belongs_to_current_user": "La autenticación no pertenece al usuario actual",
+    "cannot_delete_last_auth": "No se puede eliminar la última autenticación",
+    "terms_already_signed": "Términos ya firmados",
+    "unauthorized": "No estás autorizado, por favor inicia sesión de nuevo",
+    "forbidden": "Prohibido",
+    "email_is_not_exist": "El correo electrónico no existe",
+    "external_payment_already_exists": "El depósito ya existe",
+    "cant_read_private_channel": "Tu cuenta de TikTok es privada. Hazla pública para conectar",
+    "incorrect_file_extension": "Extensión de archivo incorrecta",
+    "not_found": "No encontrado",
+    "media_channel_description_mismatch": "La descripción del canal de medios no coincide",
+    "unknown_platform": "Plataforma desconocida",
+    "media_channel_not_found": "Canal de medios no encontrado",
+    "error_campaign_with_brand_exists": "Error: ya existe una campaña con esta marca",
+    "incorrect_field_description": "Descripción de campo incorrecta"
+  },
+  "landing": {
+    "trustpilot": {
+      "excellent": "Excelente"
+    },
+    "benefits": {
+      "title": "Beneficios",
+      "subtitle": "Por qué los Creadores nos Aman",
+      "items": {
+        "newWayToEarn": {
+          "title": "Una Nueva Forma de Ganar",
+          "text": "Ingresos reales por vistas reales. Sin intermediarios ni acuerdos de marca vagos"
+        },
+        "startToday": {
+          "title": "Empieza Hoy",
+          "text": "Registro y moderación rápidos: empieza a ganar el mismo día"
+        },
+        "readyMadeAds": {
+          "title": "Anuncios Listos",
+          "text": "Solo tienes que insertar el clip y mantener tu estilo. No se requiere guionización"
+        },
+        "reservedBudget": {
+          "title": "Presupuesto Reservado – Garantizado",
+          "text": "Una vez que aceptas la oferta, los fondos se bloquean para ti"
+        },
+        "bonusesForBigReach": {
+          "title": "Bonificaciones por Gran Alcance",
+          "text": "¿Alcanzas más de un millón de visualizaciones? Obtén una recompensa extra de la marca."
+        },
+        "perfectForShortCreators": {
+          "title": "Perfecto para Creadores de Contenido Corto",
+          "text": "YouTube Shorts, Reels, TikTok: todos los formatos son bienvenidos"
+        },
+        "offersMatchNiche": {
+          "title": "Ofertas que Coinciden con tu Nicho",
+          "text": "Juegos, estilo de vida, humor: encontramos la marca adecuada para tu audiencia"
+        },
+        "communityAndSupport": {
+          "title": "Comunidad y Soporte",
+          "text": "Ayuda por Telegram, guías paso a paso y plantillas: no estás solo"
+        }
+      }
+    },
+    "showcase": {
+      "title": "Fiabilidad",
+      "subtitle": "Por qué Vale la Pena",
+      "items": {
+        "newMarketModel": "<bold> Nuevo modelo de mercado </bold> — sé de los primeros",
+        "preReservedBudgets": "<bold>Presupuestos pre-reservados</bold> para cada creador",
+        "offerModeration": "<bold>Moderación de ofertas y contenido</bold> — sin estafas",
+        "clearPayouts": "<bold>Pagos claros</bold> sin tarifas ocultas",
+        "support": "<bold>Soporte</bold> de la A a la Z"
+      }
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "subtitle": "Preguntas Frecuentes",
+      "items": {
+        "1": {
+          "question": "¿Cuánto puedo ganar?",
+          "answer": "Tus ingresos dependen de las vistas y la tasa de oferta. Por ejemplo, $5 por 1,000 vistas = $500 por 100K vistas."
+        },
+        "2": {
+          "question": "¿Cómo acepto una oferta?",
+          "answer": "Verifícate, elige una oferta que coincida con tu nicho, haz clic en \"Tomar Oferta\" y sube tu contenido en 2 horas."
+        },
+        "3": {
+          "question": "¿Qué pasa si no cumplo el plazo de 2 horas?",
+          "answer": "El presupuesto reservado se liberará y otro creador podrá tomar la oferta. Puedes volver a aplicar más tarde."
+        },
+        "4": {
+          "question": "¿Cómo y cuándo me pagan?",
+          "answer": "Después de que tu contenido sea publicado y las vistas sean confirmadas."
+        },
+        "5": {
+          "question": "¿Qué necesito añadir a la publicación?",
+          "answer": "Proporcionamos el archivo del anuncio, descripciones, enlace y comentario fijado. Todo está listo para insertar."
+        },
+        "6": {
+          "question": "¿Qué tipo de contenido se acepta?",
+          "answer": "YouTube Shorts, Instagram Reels, TikTok, siempre y cuando tu video cumpla con las condiciones de la oferta."
+        }
+      }
+    },
+    "hero": {
+      "title": {
+        "bold": "Una Nueva Forma de Ganar —",
+        "regular": "Solo Haz una Publicación"
+      },
+      "subtitle": "Encuentra una oferta patrocinada, insértala en tu video de formato corto y recibe pagos por las vistas.",
+      "emailPlaceholder": "Ingresa tu Correo Electrónico",
+      "button": "Empezar a Ganar"
+    },
+    "howItWorks": {
+      "title": "Cómo Funciona",
+      "subtitle": "3 Pasos Sencillos para Empezar",
+      "steps": {
+        "step1": {
+          "label": "Paso 1",
+          "title": "Registrarse",
+          "description": "Elige tu Red Social, Categorías de Canal e Idioma"
+        },
+        "step2": {
+          "label": "Paso 2",
+          "title": "Elige una Oferta",
+          "description": "Obtén materiales publicitarios listos para usar (video, descripción, enlace)"
+        },
+        "step3": {
+          "label": "Paso 3",
+          "title": "Gana por Vistas",
+          "description": "Haz una publicación con un anuncio y recibe pagos por cada 1,000 vistas"
+        }
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 ClipsHub, Inc. Todos los derechos reservados.",
+    "forInfluencers": "Para Clippers",
+    "howItWorks": "Cómo Funciona",
+    "faq": "Preguntas Frecuentes",
+    "support": "Soporte",
+    "forBusiness": "Para Negocios",
+    "legal": "Legal",
+    "termsConditions": "Términos y Condiciones",
+    "privacyPolicy": "Política de Privacidad",
+    "cookiePolicy": "Política de Cookies",
+    "contact": "Contacto",
+    "iAmClipper": "Soy Clipper",
+    "companyInfo": "<br>CLIPSHUB LTD (16517699), 3rd Floor 86-90 Paul Street, London, United Kingdom, EC2A 4NE<br><a href='mailto:info@clipshub.com'>info@clipshub.com</a><br><a href='tel:+447723557679'>+447723557679</a>",
+    "about": "Acerca de"
+  },
+  "withdraw": {
+    "title": "Retirar",
+    "pay": "Pagar",
+    "steps": {
+      "step1": "Paso 1",
+      "step2": "Paso 2"
+    },
+    "chooseMethod": {
+      "title": "Elegir Método",
+      "buttonBack": "Elegir Método"
+    },
+    "addMethod": {
+      "title": "Añadir Método de Pago",
+      "paypal": {
+        "buttonText": "Añadir PayPal",
+        "modalTitle": "Añadir PayPal",
+        "emailLabel": "Correo electrónico de PayPal",
+        "emailPlaceholder": "Correo electrónico de PayPal",
+        "modalDesc": "Ingresa tu dirección de correo electrónico de PayPal"
+      },
+      "usdtTrc20": {
+        "buttonText": "Añadir USDT TRC20",
+        "modalTitle": "Añadir USDT TRC20",
+        "addressLabel": "Dirección USDT TRC20",
+        "addressPlaceholder": "Dirección USDT TRC20",
+        "modalDesc": "Ingresa tu dirección USDT TRC20"
+      },
+      "usdtERC20": {
+        "buttonText": "Añadir USDT ERC20",
+        "modalTitle": "Añadir USDT ERC20",
+        "addressLabel": "Dirección USDT ERC20",
+        "addressPlaceholder": "Dirección USDT ERC20",
+        "modalDesc": "Ingresa tu dirección USDT ERC20"
+      },
+      "card": {
+        "modalTitle": "Añadir Tarjeta",
+        "modalDesc": "Ingresa los detalles de tu tarjeta",
+        "cardNumber": "Número de Tarjeta",
+        "namePlaceholder": "Ingresa el Nombre",
+        "country": "País",
+        "city": "Ingresa la Ciudad",
+        "buttonText": "Añadir Tarjeta",
+        "birthDateLabel": "Fecha de Nacimiento"
+      },
+      "comment": "Comentario (Opcional)"
+    },
+    "methodControls": {
+      "delete": "Eliminar",
+      "commentPlaceholder": "Comentario (Opcional)"
+    },
+    "transactionsTable": {
+      "id": "ID",
+      "method": "Método",
+      "amount": "Cantidad",
+      "date": "Fecha",
+      "hash": "Hash",
+      "hashTooltip": "Hash es un recibo de criptomoneda",
+      "status": "Estado",
+      "statusTypes": {
+        "pending": "Pendiente",
+        "processed": "Procesado",
+        "rejected": "Rechazado",
+        "cancelled": "Cancelado",
+        "processing": "Procesando",
+        "completed": "Completado",
+        "failed": "Fallido",
+        "succeed": "Éxito",
+        "in_review": "En revisión",
+        "created": "Creado"
+      }
+    },
+    "withdrawForm": {
+      "amount": "Cantidad",
+      "minAmount": "Mín. 1.00",
+      "minAmountDynamic": "Mín. {minAmount} USD",
+      "available": "Disponible:",
+      "serviceFee": "Tarifa de Servicio",
+      "withdrawalFee": "Tarifa de Retiro",
+      "youReceive": "Recibes",
+      "withdrawButton": "Retirar {amount} USD",
+      "paypalHint": "Enviamos exactamente el monto de retiro en USD a su dirección. Si su billetera está en otra moneda, los fondos se convertirán automáticamente de su lado. PayPal también puede cobrar una comisión según su región. No tenemos control sobre esto.",
+      "blockchainFee": "Tarifa de Blockchain",
+      "blockchainFeePopover": "Los retiros a través de Tron (TRC20) incurren en una tarifa de red blockchain. El monto de la tarifa es establecido por la red, no por nuestra plataforma."
+    },
+    "withdrawalDetails": {
+      "title": "Detalles del Retiro",
+      "cardExpired": "La tarjeta ha caducado",
+      "change": "Cambiar"
+    },
+    "updateCreditialSuccessfully": "Credencial actualizada con éxito",
+    "createCreditialSuccessfully": "Credencial creada con éxito",
+    "deleteCreditialSuccessfully": "Credencial eliminada con éxito",
+    "transactionHistory": "Historial de Transacciones",
+    "withdrawRequestCreatedSuccessfully": "Solicitud de retiro creada con éxito",
+    "transactionHistoryIsEmpty": "El historial de transacciones está vacío",
+    "minWithdrawal": "Retiro mínimo"
+  },
+  "settings": {
+    "pageTitle": "Configuración",
+    "profile": {
+      "title": "Perfil",
+      "avatar": {
+        "title": "Avatar de Perfil"
+      },
+      "socialAccounts": {
+        "title": "Cuentas Sociales Vinculadas"
+      },
+      "save": "Guardar"
+    },
+    "navigation": {
+      "profile": {
+        "title": "Perfil",
+        "description": "Nombre/Apellido, Correo electrónico, Avatar"
+      },
+      "security": {
+        "title": "Seguridad",
+        "description": "Cambiar Contraseña, Redes Sociales"
+      },
+      "finance": {
+        "title": "Finanzas",
+        "description": "Saldo, Transacciones"
+      },
+      "businessProfile": {
+        "title": "Perfil de Negocio",
+        "description": "Nombre de la Empresa, Logotipo de la Empresa, Descripción de la Empresa"
+      },
+      "transactionsHistory": {
+        "title": "Historial de Transacciones",
+        "description": "Todas las transacciones"
+      }
+    },
+    "profileUpdatedSuccessfully": "Perfil actualizado con éxito",
+    "socialMediaAccountLinkedSuccessfully": "Cuenta de redes sociales vinculada con éxito",
+    "failedToLinkSocialMediaAccount": "Error al vincular la cuenta de redes sociales",
+    "socialMediaAccountDeletedSuccessfully": "Cuenta de redes sociales eliminada con éxito",
+    "failedToDeleteSocialMediaAccount": "Error al eliminar la cuenta de redes sociales"
+  },
+  "meta": {
+    "title": "ClipsHub - Gana dinero creando vídeos cortos",
+    "description": "Únete a Clipshub para crear videos cortos con ofertas patrocinadas y recibe pagos por las vistas. Registro fácil, pasos sencillos y gran potencial de ganancias.",
+    "og": {
+      "title": "Clipshub - Gana Dinero con Videos Patrocinados",
+      "description": "Crea videos cortos con ofertas patrocinadas y recibe pagos por las vistas. ¡Únete ahora!"
+    },
+    "offers": {
+      "title": "Ofertas Disponibles para Monetización en Clipshub",
+      "description": "Explora una variedad de ofertas patrocinadas de marcas líderes en Clipshub y comienza a ganar creando contenido de video atractivo. Elige entre numerosas oportunidades, graba videos cortos y recibe pagos por cada vista",
+      "mediaChannelTypeUrlTitle": "Gana Dinero Creando {channelType}"
+    }
+  },
+  "signature": {
+    "scrollForSignature": "Desplázate hasta el final del documento para abrir el campo de la firma",
+    "saveSignature": "Guardar Firma",
+    "clear": "Limpiar",
+    "signHere": "Firma Aquí",
+    "youAreLoggedAs": "Has iniciado sesión como {userType}",
+    "scrollAndSignToContinue": "Por favor, desplázate y firma para continuar",
+    "accept": "Aceptar",
+    "drawYourSignatureBelowToAgree": "Dibuja tu firma a continuación para aceptar",
+    "drawYourSignatureBelowToAgreeText": "Al firmar, confirmo que he leído y acepto todos los términos contractuales, que son legalmente vinculantes"
+  },
+  "cookieConsent": {
+    "cookieTitle": "Usamos cookies",
+    "cookieDescription": "Utilizamos cookies para mejorar tu experiencia en nuestro sitio web. Al continuar usando este sitio, aceptas nuestra <a href='/privacy-policy'>política de privacidad</a> y el uso de <a href='/cookie-policy'>cookies</a>.",
+    "acceptAll": "Aceptar todo",
+    "onlyNecessary": "Aceptar solo las necesarias"
+  },
+  "refill": {
+    "title": "Recargar Saldo",
+    "transactionHistory": "Historial de Transacciones",
+    "steps": {
+      "step1": "Paso 1",
+      "step2": "Paso 2"
+    },
+    "chooseMethod": {
+      "title": "Elegir Método",
+      "buttonBack": "Elegir Método"
+    },
+    "choosePaymentMethod": "Elegir método de pago",
+    "refillDetails": {
+      "title": "Detalles de Recarga",
+      "methods": {
+        "applePay": "Apple Pay",
+        "creditCard": "Tarjeta de Crédito",
+        "paypal": "PayPal"
+      }
+    },
+    "refillForm": {
+      "amount": "Cantidad",
+      "minAmount": "Mín. 1.00",
+      "button": "Recargar",
+      "processing": "Procesando...",
+      "paypalEmail": "Correo electrónico de PayPal",
+      "billingAddress": {
+        "title": "Dirección de Facturación",
+        "country": "País",
+        "city": "Ciudad",
+        "billingAddress": "Dirección de Facturación Línea 1",
+        "postalCode": "Código Postal"
+      },
+      "tether": {
+        "title": "Envía USDT ({currency}) a la dirección que se muestra a continuación.",
+        "minAmount": "Mínimo {minAmount} USD",
+        "description": "Ten en cuenta que se puede aplicar una tarifa de blockchain a cualquier transacción.",
+        "copyAddress": "Copiar Dirección",
+        "error": "Error",
+        "errorDescription": "Por favor, inténtalo de nuevo más tarde"
+      }
+    },
+    "methodNetworks": {
+      "tether": "TRC20"
+    }
+  },
+  "notification": {
+    "markAllAsRead": "Marcar todo como leído",
+    "marking": "Marcando...",
+    "activity": "Actividad",
+    "allLoaded": "Todas las notificaciones cargadas",
+    "noNotifications": "No hay notificaciones"
+  },
+  "date": {
+    "yesterday": "Ayer",
+    "justNow": "justo ahora",
+    "ago": "hace {time}",
+    "in": "en {time}",
+    "daysOfWeek": {
+      "monday": "Lunes",
+      "tuesday": "Martes",
+      "wednesday": "Miércoles",
+      "thursday": "Jueves",
+      "friday": "Viernes",
+      "saturday": "Sábado",
+      "sunday": "Domingo"
+    },
+    "dateFormat": "{date, date, medium}"
+  },
+  "leaderboard": {
+    "title": "Tabla de Clasificación",
+    "posts": {
+      "title": "Tabla de Clasificación de Publicaciones"
+    },
+    "mediaChannels": {
+      "title": "Tabla de Clasificación de Canales de Medios"
+    },
+    "weekly": "Semanal",
+    "monthly": "Mensual",
+    "year": "Año",
+    "allTime": "Todo el tiempo",
+    "allPosts": "Todas las publicaciones",
+    "filters": "Filtros",
+    "businessCategory": "Categoría de Negocio",
+    "contentCategory": "Categoría de Contenido",
+    "platform": "Plataforma",
+    "totalViews": "Vistas Totales",
+    "offer": "Oferta",
+    "loading": "Cargando...",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "placeSuffix": "º",
+    "group": "Grupo",
+    "notFound": "No se encontraron canales de medios",
+    "notFoundPosts": "No se encontraron publicaciones",
+    "allChannels": "Todos los canales",
+    "table": {
+      "#": "#",
+      "nickname": "Nickname",
+      "platform": "Plataforma",
+      "views": "Vistas",
+      "qtyPosts": "Cantidad de Publicaciones",
+      "contentCategory": "Categoría de Contenido",
+      "paid": "Pagado"
+    },
+    "totalPosts": "Publicaciones totales",
+    "showMore": "Mostrar más",
+    "showLess": "Mostrar menos"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "description": "No pudimos encontrar la página que buscas. Puede que haya sido movida o ya no exista.",
+    "button": "Página principal",
+    "mainPage": "Página principal",
+    "back": "Atrás"
+  }
+}

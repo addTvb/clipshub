@@ -1,0 +1,32 @@
+.nav-underline {
+  position: relative;
+  overflow: hidden;
+}
+.nav-underline::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0%;
+  height: 2px;
+  border-radius: 10px;
+  transition: width 0.4s cubic-bezier(0.4,0,0.2,1);
+}
+.nav-underline:hover::before {
+  width: 100%;
+}
+.nav-underline--dark::before {
+  background: #000;
+}
+.nav-underline--light::before {
+  background: #fff;
+}
+.nav-underline--blue::before {
+  background: #3188AA;
+}
+.nav-underline--leaderboard::before {
+  background: #97A8C6;
+}
+.nav-underline--active::before {
+  width: 100% !important;
+} 

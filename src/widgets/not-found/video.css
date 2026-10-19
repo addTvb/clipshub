@@ -1,0 +1,30 @@
+.not-found-video {
+  display: block;
+  border: none !important;
+  border-radius: 0;
+  outline: none !important;
+  box-shadow: none !important;
+  background-color: transparent;
+  margin: 0;
+  padding: 0;
+  object-fit: cover;
+  -webkit-appearance: none;
+  appearance: none;
+  isolation: isolate;
+}
+
+.not-found-video:focus,
+.not-found-video:focus-visible {
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+.not-found-video::-webkit-media-controls,
+.not-found-video::-webkit-media-controls-panel,
+.not-found-video::-webkit-media-controls-start-playback-button,
+.not-found-video::-webkit-media-controls-overlay-play-button,
+.not-found-video::-webkit-media-controls-enclosure,
+.not-found-video::-webkit-media-controls-background {
+  display: none !important;
+}

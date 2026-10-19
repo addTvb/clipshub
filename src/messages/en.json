@@ -1,0 +1,2268 @@
+{
+  "common": {
+    "main": "Main",
+    "offers": "Offers",
+    "login": "Log in",
+    "register": "Register",
+    "failedToLoadVideo": "Failed to load video",
+    "videoNotSupported": "Your browser does not support the video tag.",
+    "influencer": "Clipper",
+    "business": "Business",
+    "registerAs": "Register as",
+    "firstname": "Firstname",
+    "surname": "Surname",
+    "email": "E-mail",
+    "password": "Password",
+    "repeatPassword": "Repeat password",
+    "acceptTermsAndConditions": "I accept <terms>Terms & Conditions</terms> and <privacy>Privacy Policy</privacy>",
+    "alreadyHaveAccount": "Already have an account?",
+    "forgotPassword": "Forgot password?",
+    "dontHaveAccount": "Don’t have an account?",
+    "companyNameOptional": "Company Name (Optional)",
+    "forgotPassText": "Enter the email address you used when you joined and we’ll send you instructions to reset your password. <br></br> For security reasons, we do NOT store your password. So rest assured that we will never send your password via email.",
+    "sendResetInstruction": "Send Reset Instruction",
+    "back": "Back",
+    "next": "Next",
+    "confirmYourEmail": "Confirm your email",
+    "confirmEmailText": "Thank you for registering! To complete the process, please confirm your email. We've sent an email with instructions to <bold></bold> If you don't see it, check your 'Spam' folder or request a new email.",
+    "emailConfirmed": "Email successfully confirmed!",
+    "emailConfirmedText": "Your email address has been confirmed. You can now enjoy all the features of your account. If you have any questions, we're here to help!",
+    "goToDashboard": "Go to Dashboard",
+    "checkYourEmail": "Check Your Email",
+    "setNewPassword": "Set New Password",
+    "confirmNewPassword": "Confirm New Password",
+    "newPassword": "New Password",
+    "restorePassword": "Restore Password",
+    "confirm": "Confirm",
+    "somethingWentWrong": "Something Went Wrong",
+    "language": "Language",
+    "delete": "Delete",
+    "link": "Link",
+    "loginSuccessful": "Login Successful",
+    "logout": "Logout",
+    "accountBalance": "Account Balance",
+    "accountWallet": "Account Wallet",
+    "deposit": "Deposit",
+    "withdraw": "Withdraw",
+    "campaignWallets": "Campaign Wallets",
+    "from": "From",
+    "unknownErrorOccurred": "Unknown Error Occurred",
+    "error": "Error",
+    "pleaseTryAgain": "Please Try Again",
+    "goToLoginPage": "Go To Login Page",
+    "errorMessage": "Error Message",
+    "sortBy": "Sort by",
+    "totalMaxProfit": "Total Max Profit ⬇️",
+    "creationDateAsc": "Creation Date ⬆️",
+    "creationDateDesc": "Creation Date ⬇️",
+    "payoutAmountAsc": "Payout Amount ⬆️",
+    "payoutAmountDesc": "Payout Amount ⬇️",
+    "resetAll": "Reset All",
+    "resetFilters": "Reset Filters",
+    "cancel": "Cancel",
+    "noOffers": "Offers Not Found",
+    "to": "To",
+    "copied": "✅  Copied!",
+    "copyFailed": "copy failed",
+    "copyToClipboard": "Copy to clipboard",
+    "orSignUpWith": "or sign up with",
+    "effectiveDate": "<bold>Effective Date:</bold> <span></span>",
+    "all": "All",
+    "lastUpdated": "<bold>Last Updated:</bold> <span></span>",
+    "close": "Close",
+    "settings": "Settings",
+    "support": "Support",
+    "filters": "Filters",
+    "apply": "Apply",
+    "menu": "Menu",
+    "howItWorks": "How it Works",
+    "resendSuccessful": "Confirmation link has been sent to your email",
+    "passwordSuccessfullyChanged": "Password successfully changed",
+    "userEditSuccessful": "User edited successfully",
+    "editProfile": "Edit Profile",
+    "or": "or",
+    "tryAgain": "Try again",
+    "resend": "Resend",
+    "previousSlide": "Previous slide",
+    "nextSlide": "Next slide",
+    "connect": "Connect",
+    "myReferrals": "My Referrals",
+    "change": "Change",
+    "today": "Today",
+    "day": "Day",
+    "days": "Days",
+    "left": "Left",
+    "expiresToday": "Expires today",
+    "create": "Create",
+    "banner": {
+      "title": "Earn $3 for Your First Video on <bold>ClipsHub</bold>",
+      "button": "Get $3 Now",
+      "earnText": "Earn",
+      "forFirstReel": "for Your First Reel on ClipsHub"
+    },
+    "rewardModal": {
+      "titleStart": "Get",
+      "titleEnd": "NOW",
+      "button": "Understood, Let's Go!"
+    },
+    "rewardGuide": {
+      "step1": {
+        "title": "Sign Up",
+        "description": "Join with Instagram, YouTube, TikTok, or your email — it's quick and easy."
+      },
+      "step2": {
+        "title": "Add Your Channel",
+        "description": "Connect your media channel: Instagram, YouTube, or TikTok."
+      },
+      "step3": {
+        "title": "Pick an Offer",
+        "description": "Choose an offer that fits your content — no limits!"
+      },
+      "step4": {
+        "title": "Post Your Reel",
+        "description": "Share your short and drop the link to your published video."
+      },
+      "step5": {
+        "title": "Wait for Approval",
+        "description": "Our moderators will check your content — hang tight!"
+      },
+      "step6": {
+        "title": "Earn a $3 Bonus",
+        "description": "Congrats! You've received a $3 reward on your balance 🎉"
+      }
+    },
+    "adType": {
+      "searchAdTypes": "Search Ad Types",
+      "title": "Ad Type",
+      "titleMany": "Ad Types",
+      "banner": "Banner",
+      "half_screen": "Half Screen",
+      "influencer_content": "Influencer Content",
+      "dedicate": "Dedicate",
+      "integration": "Integration",
+      "challenge": "Challenge"
+    },
+    "levels": {
+      "easy": "Easy",
+      "medium": "Medium",
+      "hard": "Hard"
+    },
+    "maxPayout": "Max Payout:",
+    "showDetails": "Show Details",
+    "example": "Example",
+    "downloadWatermark": "Download Watermark",
+    "watermarkDesc": "MP4 watermark (9:16). <b>Stretch to full screen</b> and <b>remove background</b> via <br /><b>CapCut:</b> Remove BG → Chroma Key."
+  },
+  "business": {
+    "campaignsDashboard": "Campaigns Dashboard",
+    "dashboard": "Dashboard",
+    "yourCampaigns": "Your Campaigns",
+    "addCampaign": "Add Campaign",
+    "campaign": "Campaign",
+    "campaigns": "Campaigns",
+    "campaignWallet": "Campaign Wallet",
+    "yourWallet": "Your Wallet",
+    "creationDate": "Creation Date",
+    "brand": {
+      "brands": "Brands",
+      "brand": "Brand",
+      "createABrand": "Create a Brand",
+      "createBrand": "Create Brand",
+      "brandAvatar": "Brand Avatar",
+      "editBrand": "Edit Brand",
+      "brandSuccessfullyCreated": "Brand Successfully Created"
+    },
+    "benefits": {
+      "title": "Benefits",
+      "subtitle": "Why Brands Love Us",
+      "items": {
+        "automation": {
+          "title": "Automation",
+          "text": "payouts to clippers and view calculations happen automatically"
+        },
+        "smartOfferBuilder": {
+          "title": "Smart offer builder",
+          "text": "no need to waste time writing briefs; our guided form helps you create an offer in minutes"
+        },
+        "ultraFastScaling": {
+          "title": "Ultra-fast scaling",
+          "text": "launch with 100s of micro-clippers instantly"
+        },
+        "noFakeViews": {
+          "title": "No Fake Views",
+          "text": "every post is reviewed by real moderators"
+        },
+        "noUpfrontPayments": {
+          "title": "No Upfront Payments",
+          "text": "clippers get paid only for verified views"
+        },
+        "securePayments": {
+          "title": "Secure payments",
+          "text": "funds are reserved in campaign wallets and released only after verified results"
+        },
+        "realTimeDashboard": {
+          "title": "Real-time dashboard tracking",
+          "text": "monitor views, spend, and performance live"
+        },
+        "communitySupport": {
+          "title": "Community & Support",
+          "text": "Telegram help, step-by-step guides, and templates — you're not alone"
+        }
+      }
+    },
+    "howItWorks": {
+      "button": "WATCH VIDEO TUTORIAL • WATCH VIDEO TUTORIAL •",
+      "title": "How It Works",
+      "subtitle": "UI Preview",
+      "steps": {
+        "register": {
+          "title": "Register",
+          "text": "Sign up via YouTube, Instagram, TikTok, or email — it only takes a minute."
+        },
+        "createCampaign": {
+          "title": "Create a Campaign",
+          "text": "Think of it like a folder for organizing your strategy — ideal for managing multiple offers under one goal."
+        },
+        "makeOffer": {
+          "title": "Make Offer & Set price per 1,000 views",
+          "text": "We provide a smart form that helps you create an offer quickly and efficiently, guiding you through every step."
+        },
+        "fundCampaign": {
+          "title": "Fund Your Campaign",
+          "text": "Each campaign has a dedicated balance for full transparency."
+        },
+        "getViews": {
+          "title": "Get Views & Track Performance",
+          "text": "Creators start promoting your brand. You can monitor real-time results — verified views, total spend, and performance metrics — in your dashboard."
+        }
+      }
+    },
+    "createCampaign": "Create Campaign",
+    "companyAvatar": "Brand Logo",
+    "dragAndDropImage": "Drag and Drop Image or Select File",
+    "dragAndDropFileFormat": "up to 5MB, .jpg, .png",
+    "selectFile": "Select File",
+    "reselectFile": "Reselect File",
+    "enterCampaignName": "Enter Campaign Name",
+    "campaignName": "Campaign Name",
+    "campaignSubtitle": "This name is private and only visible to you",
+    "chooseBrand": "Choose a Brand",
+    "createNewBrand": "Create New Brand",
+    "enterCompanyName": "Enter Brand Name",
+    "companyName": "Brand Name",
+    "aboutYourCompany": "About your brand",
+    "aboutYourCompanyPlaceholder": "For example, We are CoffeeJoy, a charming cat café in Vienna where you can enjoy artisanal coffee surrounded by friendly, adoptable cats. It’s the perfect place to relax and unwind!",
+    "businessCategory": "Business Category",
+    "campaignSuccessfulCreated": "Campaign successful created",
+    "activeOffersCount": "{count} Active Offer",
+    "activeOffers": "Active Offers",
+    "drafts": "Drafts",
+    "moderation": "Moderation",
+    "closed": "Closed",
+    "paused": "Paused",
+    "makeOffer": "Make Offer",
+    "frozen": "Frozen",
+    "refill": "Refill",
+    "withdraw": "Withdraw",
+    "influencers": "Clippers",
+    "totalPosts": "Total Posts by Clippers",
+    "totalViews": "Total Views",
+    "spentOfValue": "of ${value}",
+    "stepNumber": "Step {number}",
+    "editOffer": "Edit Offer",
+    "updateCampaign": "Update Campaign",
+    "editCampaign": "Edit Campaign",
+    "budgetDollar": "Budget ($)",
+    "spent": "Spent",
+    "campaignBalanceEmptyNotification": "Your campaign balance is <balance></balance>. All offers have been paused. Top up to reactivate them",
+    "offerForm": {
+      "chooseSocialNetwork": "Choose a Social Network",
+      "instagramTikTokYouTube": "Instagram, TikTok, YouTube",
+      "uploadAdContent": "Upload Ad Content",
+      "uploadAdContentDesc": "Upload your banner and write a short description for your ad",
+      "selectAdCategoryDesc": "Pick the category and language that best match your ad content",
+      "setUpAd": "Set Up Your Ad",
+      "setUpAdDesc": "Choose the number of views you want and see the estimated cost",
+      "setBudget": "Set Your Budget",
+      "setBudgetDesc": "Create your offer, set a budget, and proceed to payment",
+      "offerSavedAsDraft": "✏️ Your offer is saved as a draft",
+      "offerSavedAsDraftDesc": "You can return to it at any time, make changes, and finalize the setup before launching and making a payment.",
+      "offerNameAndSocial": "Offer name and Social",
+      "offerNameAndSocialDesc": "You can select only one social network per offer. Please choose the platform that best suits your campaign.",
+      "offerName": "Offer Name",
+      "enterOfferName": "Enter Offer Name",
+      "chooseSocial": "Choose Social",
+      "uploadAdContentForInstagram": "Upload Ad Content for Instagram (Reels)",
+      "uploadAdContentForYouTube": "Upload Ad Content for YouTube (Shorts)",
+      "uploadAdContentForTikTok": "Upload Ad Content for TikTok",
+      "uploadVideoAd": "Upload video ad",
+      "choosePositionAd": "Choose Position ad (max 2)",
+      "dragAndDropFile": "Drag and Drop Image / video or Select File",
+      "dragAndDropVideoImageFormat": "for video up to 200 MB, .mp4, .mov / for image up to 5MB, .jpg, .png",
+      "adDuration": "Ad Duration",
+      "duration": "Duration",
+      "durationDesc": "We recommend setting the banner duration for the entire video to ensure maximum visibility, as Instagram Reels are often watched multiple times, and a full-length banner increases brand recall.",
+      "descriptionInstagramBio": "Description in Instagram Bio (Optional)",
+      "descriptionYouTubeBio": "Description in YouTube Bio (Optional)",
+      "descriptionTikTokBio": "Description TikTok Profile Bio (Optional)",
+      "formulaDescription": "Formula: Brief brand description + Unique selling point + Call to action",
+      "followThisFormula": "Follow this formula for the best results: Brief brand description + Unique selling point (Promocode) + Call to action (Link)",
+      "linkInstagramBio": "Link in Instagram Bio (Optional)",
+      "linkChannelBio": "Link in Channel Bio (Optional)",
+      "linkTikTokBio": "Link in TikTok Bio (Optional)",
+      "maskingInterface": "<bold>Important!</bold> We strongly recommend using link masking services such as <linktree>Linktree</linktree>, <bitly>Bit.ly</bitly>, <taplink>Taplink</taplink>, <beacons>Beacons</beacons>, and others. <bold>Direct links can be blocked by Instagram</bold>, YouTube, or TikTok, as these platforms often restrict external redirects.",
+      "linkPlaceholder": "https://tr.ee/FWhl",
+      "descriptionsReels": "Descriptions Reels (Optional)",
+      "descriptionsShorts": "Descriptions in Shorts (Optional)",
+      "descriptionsTikTok": "Description TikTok Post (Optional)",
+      "pinnedComment": "Pinned Comment (Optional)",
+      "formulaDiscountLimitAction": "Formula: Discount + Time Limit + Call to Action",
+      "adPositionPopover": "You can select only up to 2 cells in a single row.",
+      "entire": "Entire",
+      "selectAdCategory": "Select Ad Category",
+      "influencerCategory": "Content Categories",
+      "contentExamplesBrief": "Make It Easier for the Clipper: Provide Content Examples, Brief (Optional)",
+      "contentExamplesBriefDesc": "To ensure your advertisement looks natural and meets your expectations, we recommend providing the clipper <bold>with specific content examples.</bold> This will help them create a video that is most effective for your audience.",
+      "sendLinksVideosYouLike": "🔗 Send <bold>links</bold> to videos or posts that you like",
+      "shareExamplesOfSuccessfulBrandIntegrations": "📈 Share examples of <bold>successful brand integrations</bold> from other creators",
+      "describeThePreferredStyle": "🎬 Describe the preferred style: <bold>dynamic, humorous, informative, or emotional</bold>",
+      "highlightKeyElements": "🤩 Highlight key elements that should be included in the video <bold>(e.g., product demonstration, testimonial, before/after, emotions)</bold>",
+      "contentExamplesBriefPlaceholder": "We like it when clippers create short but engaging product reviews. Here are some video examples that reflect the style we’re looking for: [link 1], [link 2]. It would be great if the video includes real emotions and a demonstration of the product in action.",
+      "enterContentLanguage": "Enter Content Language",
+      "setUpYourAd": "Set Up Your Ad",
+      "avgChannelViews": "Choose Average Channel Views",
+      "enterPayoutAmount": "Enter CPM payout (cost per 1,000 views)",
+      "enterPayoutAmountPlaceholder": "Recommend paying $0.2 – $7",
+      "lifetimePost": "Lifetime Post (in Days)",
+      "lifetimePostPlaceholder": "Enter the lifetime Post (in Days)",
+      "maxPayoutPerPost": "Max CPM payout per post",
+      "maxPayoutPerPostPlaceholder": "Enter the maximum payout per post",
+      "rewardNumberViewsOptional": "Reward for Number of views (Optional)",
+      "rewardNumberViewsDesc": "When the clipper reaches the required number of views, you can reward them additionally",
+      "enterNumberViews": "Enter the number of views",
+      "enterReward": "Enter the reward",
+      "addReward": "Add Reward",
+      "any": "Any",
+      "daysCount": "{days} days",
+      "setYourBudget": "Set Your Budget",
+      "setYourBudgetDesc": "💡 If this field is left blank, the budget will default to your campaign’s available balance.",
+      "howBudgetWorks": "How Budget Works?",
+      "enterBudgetLimit": "Enter Budget Limit",
+      "budgetUnlimit": "Budget Unlimit",
+      "forAdvanced": "For Advanced",
+      "offerDetails": "Offer Details",
+      "social": "Social",
+      "category": "Category",
+      "country": "Country",
+      "averageChannelViews": "Average Channel Views",
+      "paymentModel": "Payment Model",
+      "lifetime": "Post lifetime",
+      "rewardNumberViews": "Reward for Number of views",
+      "saveAsDraft": "Save as Draft",
+      "activateOffer": "Activate Offer",
+      "howBudgetWorksTitle": "💡 How the Budget Works",
+      "budgetLimitSet": "Budget Limit Set",
+      "budgetLimitSetDesc1": "✅ Total spending is limited by the offer budget. Funds are deducted from the <bold>campaign wallet</bold>.",
+      "budgetLimitSetDesc2": "✅ However, overspending is possible if some posts gain more views than expected when total spending is close to the set budget.",
+      "budgetUnlimitForAdvanced": "♾️ Budget Unlimit",
+      "budgetUnlimitForAdvancedDesc1": "✅ Spending is unlimited, funds are deducted from the <bold>campaign wallet.</bold>",
+      "budgetUnlimitForAdvancedDesc2": "✅ This allows for <bold>more flexibility</bold> but may lead to <bold>higher expenses.</bold>",
+      "howSpendingCalculated": "📌 How is spending calculated?",
+      "howSpendingCalculatedDesc": "Each post reserves a certain amount <bold>(e.g., $20)</bold> based on the average number of views for the specific clipper. However, if the post receives more views than expected, it may exceed its reserved budget <bold>(e.g., $25)</bold>. In that case, the extra amount (e.g., $5) will be taken from the campaign wallet.",
+      "checkFinalBalance": "📌 What happens if the campaign wallet reaches zero (or below)?",
+      "checkFinalBalanceDesc": "All your offers will be hidden, and clippers won't be able to take them. To reactivate your offers, you’ll need to top up your campaign wallet.",
+      "understand": "Understand",
+      "offerSuccessfullySavedAsDraft": "Offer successfully saved as draft",
+      "offerSuccessfullyCreated": "Offer successfully created",
+      "offerWentToModeration": "Offer went to moderation",
+      "saveChanges": "Save Changes",
+      "saveAndActivate": "Save and Activate",
+      "offerSuccessfullyUpdated": "Offer successfully updated",
+      "instaBioImageDesc": "Description in Instagram (Bio) & Link in Instagram (Bio)",
+      "titleReels": "Title Reels",
+      "serviceCommission": "Service commission: {commission}%",
+      "youWillPay": "Including fees",
+      "1000views": "1000 views",
+      "maxBudget": "Max Budget",
+      "unlimited": "Unlimited",
+      "chooseAdType": "Choose Ad Type",
+      "choosePositionAdHalfScreen": "Ad Position (Fixed at Bottom)",
+      "choosePositionAdHalfScreenForClipper": "Ad Position",
+      "bottom": "Bottom",
+      "halfScreenAdPopover": "In Half Screen mode, the banner position is fixed at the bottom. The video always plays on the top half",
+      "bannerTypeHint": "Banner — place your banner in a spot you choose, and it will stay visible while the video runs",
+      "halfScreenTypeHint": "Half Screen — your banner covers the bottom half of the screen, with the video running above it",
+      "influencerContentTypeHint": "Influencer content — clippers creates videos from the content you provide",
+      "dedicateTypeHint": "Dedicate — the entire short is about your brand (review, story, or showcase)",
+      "integrationTypeHint": "Integration — a short branded segment/mention embedded in the creator's regular content",
+      "challengeTypeHint": "Challenge — clippers complete a view-targeted challenge for your brand, earning rewards only when results are delivered.",
+      "bannerTypeHintForClipper": "Place the banner in the displayed spot. It should remain visible throughout the entire video",
+      "halfScreenTypeHintForClipper": "Set the banner to cover the bottom half of the screen while the video continues playing above it",
+      "influencerContentTypeHintForClipper": "Create videos from the provided content",
+      "dedicateTypeHintForClipper": "Create a dedicated video about the brand (review, story, or showcase)",
+      "integrationTypeHintForClipper": "Integrate a branded segment/mention into your regular content",
+      "challengeTypeHintForClipper": "Pick a challenge, hit the view target, collect your reward",
+      "addLinksToYourContent": "Add Links to Your Content",
+      "linkTitle": "Link Title",
+      "linkUrl": "Link URL",
+      "addLink": "Add Link",
+      "maxLinksReached": "Maximum 10 links allowed",
+      "uploadAvatar": "Upload Avatar",
+      "uploadAvatarDesc": "Upload your brand avatar — the clipper will replace their avatar with yours."
+    },
+    "offer": {
+      "offerStatusChangedToModeration": "\"{name}\" status successfully changed to \"moderation\"",
+      "offerStatusChangedToClosed": "\"{name}\" status successfully changed to closed\"",
+      "offerStatusChangedToPaused": "\"{name}\" status successfully changed to \"paused\"",
+      "closeOffer": "Close Offer",
+      "pauseOffer": "Pause Offer",
+      "activateOffer": "Activate Offer",
+      "offerStatusChangedToModerated": "\"{name}\" status successfully changed to \"active\"",
+      "errorClosingOffer": "Error closing offer",
+      "errorPausingOffer": "Error pausing offer",
+      "errorActivatingOffer": "Error activating offer",
+      "closeOfferConfirmation": "Are you sure you want to close the offer \"{name}\"?",
+      "closeOfferWarning": "This action is irreversible.",
+      "pending": "Pending",
+      "oldOfferRemainsActiveUntilModeration": "Your old offer will remain active until the moderation process is completed",
+      "rejected": {
+        "title": "❌ Your Offer Was Rejected",
+        "reasonPrefix": "Reason:"
+      },
+      "statuses": {
+        "draft": "Draft",
+        "moderating": "Moderating",
+        "moderated": "Active",
+        "closed": "Closed",
+        "paused": "Paused",
+        "rejected": "Rejected"
+      },
+      "budget": "Budget",
+      "spent": "Spent",
+      "views": "Views",
+      "posts": "Posts",
+      "print": "Print",
+      "unallocated": "Unallocated",
+      "overspent": "Overspent",
+      "reserve": "Reserve",
+      "reservePopoverText": "The amount of reserved funds for clippers who have accepted the offer in real-time",
+      "totalViewers": "Total Viewers",
+      "totalViews": "Total Views",
+      "goal": "Goal",
+      "cpmTitle": "Cost Per Mille (CPM)",
+      "maxPayPerPostTitle": "Max payout per post",
+      "budgetChartTitle": "Budget Spending and Views Growth Chart",
+      "budgetSpent": "Budget Spent ($)",
+      "postsOfThisOffer": "Posts of This Offer",
+      "postCreate": "Post Create",
+      "paid": "Paid",
+      "overspending": "Overspending",
+      "postLink": "Post Link",
+      "status": "Status",
+      "reserved": "Reserved",
+      "uploadedAdContentForPlatform": "Uploaded Ad Content for {platform}",
+      "entireVideo": "Entire video",
+      "descriptionPlatformBio": "Description in {platform} (Bio)",
+      "linkChannelBio": "Link in {platform} (Bio)",
+      "descriptionPlatform": "Description in {platform}",
+      "uploadedFiles": "Uploaded files",
+      "viewsPopoverText": "The number of views is updated <bold>every hour</bold>",
+      "overspendingPopoverText": "Overspending is possible if posts gain more views than expected. <br></br><br></br> 📌 Overspending Calculation: <br></br> <bold>Paid - Reserved</bold> = Overspending",
+      "searchCategories": "Search Categories"
+    },
+    "landing": {
+      "tutorial": {
+        "modalTitle": "Video Tutorial"
+      },
+      "contactUs": {
+        "titlePart1": "Have a brand?",
+        "titlePart2": "We'd Love to Work With You",
+        "formTitle": "Contact Us",
+        "emailPlaceholder": "E-mail",
+        "phonePlaceholder": "Phone Number",
+        "brandNamePlaceholder": "Brand Name (Optional)",
+        "aboutLabel": "About your Brand (Optional)",
+        "aboutPlaceholder": "For example, We are CoffeeJoy, a charming cat café in Vienna where you can enjoy artisanal coffee surrounded by friendly, adoptable cats. It's the perfect place to relax and unwind!",
+        "categoriesLabel": "Brand Category",
+        "sendButton": "Send Request",
+        "partnerEmail": "partner@clipshub.com",
+        "emailError": "Email must contain '@' and a valid domain.",
+        "emailRequired": "Email is required",
+        "emailInvalid": "Please enter a valid email address",
+        "phoneRequired": "Phone number is required",
+        "sending": "Sending...",
+        "success": "Your request has been sent successfully!",
+        "loadingCategories": "Loading categories...",
+        "phoneMinLength": "Phone number must be at least 7 digits",
+        "phoneMaxLength": "Phone number must be less than 20 digits",
+        "phoneInvalid": "Please enter a valid phone number",
+        "telegramPlaceholder": "Telegram / WhatsApp",
+        "formError": "Please provide either email or phone number"
+      },
+      "hero": {
+        "title": "Your banner in creators’ Shorts&nbsp&&nbspReels",
+        "titleStart": "Make your brand go",
+        "titleEnd": "with short videos",
+        "viral": "Viral",
+        "description": "Create an offer and get your ad placed in <b>hundreds of videos by real creators.</b> <br/><br/> Reach <b>millions of views</b> with <b>in-house moderation</b> and <b>anti-fraud detection</b> — pay only for results.",
+        "startCampaign": "Start Campaign",
+        "viewAdType": "View Ad Type",
+        "requestDemo": "Request Demo"
+      },
+      "makeBrand": {
+        "title": "Make Your Brand",
+        "description": "Start your first campaign in minutes.",
+        "brandLabel": "Brand",
+        "trafficStat": "of all internet traffic is forecasted to be video by 2025, with short-form content being the key driver."
+      },
+      "heroCarousel": {
+        "banner": {
+          "title": "Banner",
+          "tooltip": {
+            "description": "Rectangular banner inserted by the clipper into their short video.",
+            "example": "Example:"
+          }
+        },
+        "dedicate": {
+          "title": "Dedicate",
+          "tooltip": {
+            "description": "The entire short is about your brand (review, story, or showcase).",
+            "example": "Example:"
+          }
+        },
+        "integration": {
+          "title": "Integration",
+          "tooltip": {
+            "description": "A short branded segment/mention embedded in the creator's regular content.",
+            "example": "Example:"
+          }
+        },
+        "half_screen": {
+          "title": "Half-screen",
+          "tooltip": {
+            "description": "A banner covering the lower/upper half of the video.",
+            "example": "Example:"
+          }
+        },
+        "influencer_content": {
+          "title": "Influencer Content",
+          "tooltip": {
+            "description": "A business represented by an influencer uploads their video, and clippers make viral videos with the influencer's face.",
+            "example": "Example:"
+          }
+        },
+        "challenge": {
+          "title": "Challenge",
+          "tooltip": {
+            "description": "Join brand challenges with clear goals and real rewards.<br/><br/>Each offer defines the exact number of views you need to reach — once you hit it, you earn a cash prize.",
+            "example": "Example:"
+          }
+        },
+        "howItWorks": "How it works"
+      },
+      "stats": {
+        "clippers": {
+          "value": "1200+",
+          "title": "Clippers",
+          "description": "Active micro-influencers driving views"
+        },
+        "offersLaunched": {
+          "value": "380+",
+          "title": "Offers Launched",
+          "description": "Campaigns launched on ClipsHub"
+        },
+        "paidToClippers": {
+          "value": "$89,000+",
+          "title": "Paid to Clippers",
+          "description": "Total payouts to micro-influencers (all time)"
+        },
+        "completedViews": {
+          "value": "1B+",
+          "title": "Completed Views",
+          "description": "Total verified views generated by micro-influencers"
+        }
+      },
+      "trustedBy": {
+        "title": "Trusted by"
+      },
+      "cpmComparison": {
+        "matching": "Matching",
+        "title": "CPM Comparison",
+        "subtitle": "Compare average CPM rates across platforms",
+        "table": {
+          "platform": "Platform",
+          "avgCpm": "Avg CPM",
+          "viewsFor100": "Views for $100 (approx.)"
+        },
+        "views": "views",
+        "platforms": {
+          "youtube": "YouTube",
+          "instagram": "Instagram",
+          "tiktok": "TikTok",
+          "clipsHub": "ClipsHub"
+        },
+        "slider": {
+          "title": "CPM Budget Settings",
+          "subtitle": "How much are you willing to spend on advertising?",
+          "setBudget": "Set Budget"
+        }
+      },
+      "keyChallenges": {
+        "painpoints": "Painpoints",
+        "title": "Key Challenges",
+        "challenges": {
+          "standOutFromCompetitors": "Stand Out From Competitors",
+          "standOutFromCompetitorsDesc": "With our traffic source, where clippers boost your brand in short-form videos, you’ll always stay visible to your target audience — making it easy to stand apart from competitors",
+          "simplifyTrafficManagement": "Simplify Traffic Management",
+          "simplifyTrafficManagementDesc": "Instead of juggling multiple traffic sources, our automated system lets you create a single task for clippers and track results effortlessly. Multi-level moderation ensures the quality of every branded integration.",
+          "avoidRisingAdCosts": "Avoid Rising Ad Costs",
+          "avoidRisingAdCostsDesc": "Short-form videos are today’s most effective and affordable traffic channel. With more clippers than you’ll ever need, you won’t have to worry about skyrocketing prices.",
+          "goBeyondTraditionalInfluencers": "Go Beyond Traditional Influencers",
+          "goBeyondTraditionalInfluencersDesc": "While influencers work with your competitors, clippers can replace or amplify them — creating hundreds of micro-influencer integrations that bring your brand to millions of viewers."
+        }
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "subtitle": "FAQ",
+        "items": {
+          "1": {
+            "question": "How Can I Make My Brand Go Viral?",
+            "answer": "When you launch an advertising campaign on Clipshub, your offer instantly becomes visible to thousands of content creators. They will pick up your campaign and promote your brand, allowing you to reach hundreds of millions of potential viewers. You only pay for 100% verified views and can easily track how effective your funnel is."
+          },
+          "2": {
+            "question": "What Is the Most Effective Funnel for My Campaign?",
+            "answer": "The most effective funnels focus on achieving the highest possible CTA (cost per action). Don't worry — your dedicated account manager on our platform has extensive experience and will guide you step by step to ensure you get the best possible results."
+          },
+          "3": {
+            "question": "How Do I Deposit Funds to Launch My Campaign?",
+            "answer": "We currently support the following payment methods: Bank Transfer, PayPal, Credit Cards, USDT (TRC20), USDT (ERC20), and Bitcoin (BTC)."
+          },
+          "4": {
+            "question": "How Do I Know the Visits Are Real?",
+            "answer": "Our platform uses a triple-verification process to ensure visit authenticity before you are charged. One verification step is automated, while two additional steps are manually reviewed by our moderators. We are committed to providing the highest quality traffic and content for your brand. Your results are our priority, and we aim to be your long-term growth partner."
+          },
+          "5": {
+            "question": "What Is the CPM on Clipshub?",
+            "answer": "You set your own CPM (cost per thousand impressions), based on market supply and demand. Your account manager will help you adjust your campaigns to achieve optimal performance."
+          },
+          "6": {
+            "question": "Can I Track My Campaign Results?",
+            "answer": "Absolutely! You can track visits, likes, comments, brand mentions, and clicks through your referral links to monitor conversions and measure success."
+          },
+          "7": {
+            "question": "How Quickly Can I Launch My Campaign?",
+            "answer": "With the help of our team, your campaign can go live in under one hour. The process is designed to be simple, fast, and efficient."
+          }
+        }
+      },
+      "showcase": {
+        "subtitle": "Showcase",
+        "title": "Examples",
+        "totalViews": "Total Views",
+        "CPM": "CPM:"
+      }
+    }
+  },
+  "transferModal": {
+    "transferDirection": "Transfer Direction",
+    "transferAmount": "Transfer Amount",
+    "enterTransferAmount": "Enter Transfer Amount",
+    "transfer": "Transfer",
+    "maxValueUSD": "Max {value} USD",
+    "walletName": "{value} wallet",
+    "selectCampaignWallet": "Select campaign wallet",
+    "transferSuccess": "${sum} successfully transferred to Wallet #{wallet}"
+  },
+  "form": {
+    "uploadOneFile": "Please upload only one file",
+    "fileTooLarge": "The file is too large. Maximum size is 5 MB",
+    "invalidFileFormat": "Invalid file format. Only JPG and PNG are allowed",
+    "requiredField": "Required Field",
+    "minAmount": "The amount indicated is less than the permitted amount",
+    "tooManyCharacters": "The value should not exceed 100 characters",
+    "tooLittleWithSymbol": "At least 2 characters",
+    "tooLittleWithSymbol20": "At least 20 characters",
+    "incorrectUrl": "Incorrect URL",
+    "invalidUrl": "Invalid URL format",
+    "chooseAdPosition": "Choose the position of advertising",
+    "chooseAdDuration": "Choose the duration of advertising",
+    "selectAtLeastOneValue": "Select at least one value",
+    "positiveNumber": "The value should be more than zero",
+    "mustBeNumber": "Value must be a number",
+    "budgetShouldBeMoreThanZero": "The budget should be more than 0",
+    "invalidEmail": "Invalid email",
+    "invalidUsdtTrc20Address": "Invalid USDT TRC20 address",
+    "mustBeNumberOrEmpty": "Must be number or empty",
+    "maxValueIs1000dollars": "Max value is $1000",
+    "maxValueIsTenMildollars": "Max value is $10.000.000",
+    "maxValueIsOneMilDollars": "Max value is $1 000 000",
+    "maxValueIs100dollars": "Max value is $100",
+    "maxValueIs30days": "Max value is 30 days",
+    "maxLengthIs1000": "Max length is 1000 characters",
+    "maxLengthIs100": "Max length is 100 characters",
+    "atLeastOnePayoutFieldRequired": "Please fill in at least one field: Payout Amount or View Bonuses",
+    "min6characters": "Min 6 characters",
+    "shouldBeLetterAndDigit": "There should be at least one digit and title letter",
+    "passwordsDoNotMatch": "Passwords do not match",
+    "termsAccepted": "Terms accepted"
+  },
+  "influencer": {
+    "yourChannels": "Your Channels",
+    "addChannel": "Add Channel",
+    "instagram": "Instagram",
+    "youtube": "Youtube",
+    "tiktok": "TikTok",
+    "dashboard": "Dashboard",
+    "channelAddSuccess": "Channel successfully added",
+    "channelAddError": "Failed to add channel",
+    "oauthError": "Failed to authenticate with Google",
+    "adding": "Adding...",
+    "comingSoon": "Coming soon",
+    "archiveChannel": "Archive Channel",
+    "archivedSuccessfully": "Channel \"{name}\" archived",
+    "removeChannel": "Remove Channel",
+    "removeChannelConfirmation": "Are you sure you want to remove this channel from your account?",
+    "canAddLater": "You can add it again later if needed.",
+    "needHelp": "Need Help",
+    "enableWatermark": "Enable Watermark",
+    "enableWatermarkDesc": "If you enable the watermark, your commission will be reduced from {fee}% to {feeWithDiscount}%.",
+    "channelCardButton": {
+      "moderation": "Under Moderation",
+      "approved": "Go to Dashboard",
+      "archived": "Additional information required",
+      "created": "Set up Profile"
+    },
+    "channelInfo": {
+      "subscribers": "subscribers",
+      "videos": "videos"
+    },
+    "findOffer": {
+      "title": "Find Offer",
+      "description": "You can find the perfect offer from thousands of options using key filters tailored to your audience and niche."
+    },
+    "recentViews": {
+      "title": "Recent Views",
+      "perThousandViews": "per {count} views"
+    },
+    "offerCard": {
+      "infoBlocks": {
+        "goalViews": "Goal Views",
+        "paid": "Paid",
+        "reserved": "Reserved",
+        "cpm": "CPM",
+        "started": "Started",
+        "social": "Social",
+        "influencerCategory": "Content Category",
+        "language": "Language",
+        "avgViews": "Avg Num of Views",
+        "lifetimePost": "Lifetime Post",
+        "debt": "Debt",
+        "reward": "Reward",
+        "allCategories": "All Categories",
+        "channelCategory": "Channel Category"
+      },
+      "buttons": {
+        "viewDetails": "View Details",
+        "makePost": "Make Post",
+        "moderationInfo": "Moderation Info"
+      },
+      "footer": {
+        "reward": "Reward",
+        "paid": "Paid",
+        "paidAmount": "${paid}",
+        "perThousandViews": "per {count} views",
+        "offerInfo": "Offer Info",
+        "yourPost": "Your Post",
+        "maxReward": "Max per Video",
+        "seeAllOffers": "See All Offers"
+      },
+      "statuses": {
+        "approved": "Active",
+        "created": "Needs Posting",
+        "moderation": "Moderation",
+        "archived": "Archived",
+        "rejected": "Rejected",
+        "closed": "Closed"
+      }
+    },
+    "offerDetail": {
+      "offer": "Offer",
+      "share": "Share",
+      "brief": "Brief",
+      "about": "About {name}",
+      "categories": "{name} Categories",
+      "cpmRate": "Pricing",
+      "per1000Views": "Per 1,000 views",
+      "takeOffer": "Take Offer",
+      "reward": "🎉 Reward",
+      "rewardDesc": "Earn rewards as you hit milestones:",
+      "forEvery": "{count} views — ${amount} reward",
+      "whatYouNeedToDo": "What You'll Need to Do",
+      "embedAdAssets": "Embed the Ad Assets in your video",
+      "addDescription": "Add a description to your Shorts",
+      "addLink": "Add a link to your channel (Bio)",
+      "pinSponsoredComment": "Pin the sponsored comment",
+      "submitLink": "Submit the link to your post for moderation",
+      "materialsModerated": "All materials have been moderated and will be provided to you after accepting the offer.",
+      "makeSurePlacementMeetsRequirement": "Make sure the placement meets the requirement:",
+      "top": "Top",
+      "maxPayoutPerPostShort": "Max Payout per Post",
+      "rewardsPerGoals": "Rewards per goals",
+      "total": "Total",
+      "max": "max",
+      "contentSources": "Content Sources"
+    },
+    "offers": {
+      "activeOffers": "Active Offers",
+      "needsPosting": "Needs Posting",
+      "moderation": "Moderation",
+      "archived": "Archived",
+      "rejected": "Rejected",
+      "closed": "Closed",
+      "businessCategories": "Business Categories",
+      "influencerCategories": "Clipper Categories",
+      "social": "Social",
+      "language": "Language",
+      "offersMediaChannelTypeH1": "Earn Money by Creating {mediaChannelType}",
+      "revoked": "Revoked",
+      "cancelOffer": "Cancel Offer",
+      "offerCancelledSuccessfully": "Offer cancelled successfully"
+    },
+    "takeOfferForm": {
+      "steps": {
+        "makePost": "Make Post",
+        "makePostDesc": "Insert the post link and confirm compliance.",
+        "moderation": "Moderation",
+        "moderationDesc": "Your content is being reviewed for compliance.",
+        "publishing": "Publishing & Payments",
+        "publishingDesc": "Post approved, views and payouts are tracking."
+      },
+      "budgetRanOut": "Unfortunately, the budget for this offer has run out, and it is no longer available.",
+      "whatsNext": "💡 What's next?",
+      "browseOtherOffers": "You can browse other <link>available offers</link> and apply for a new one.",
+      "stepNumber": "step {number}",
+      "youtubeShortsPageTitle": "Make Ad Content for YouTube (Shorts)",
+      "instagramReelsPageTitle": "Make Ad Content for Instagram (Reels)",
+      "tiktokPageTitle": "Make Ad Content for TikTok",
+      "downloadAdAssets": "Download Ad Assets",
+      "downloadAdDesc": "Download the ad file and insert it into your video",
+      "fileSize": "- MB",
+      "positionAd": "Position ad",
+      "adDuration": "Ad Duration",
+      "entireVideo": "Entire video",
+      "brief": "Brief",
+      "briefDesc": "The company has prepared a brief with <recommendations>recommendations</recommendations> for your ad integration. Please <considerReflect>consider and reflect</considerReflect> them in your YouTube Shorts.",
+      "makeDescription": "Make Description in Your Shorts & Publish It",
+      "descriptionInShorts": "Description in Shorts",
+      "updateDescription": "Update Your Description in Channel (Bio)",
+      "updateLink": "Update Your Link in Channel (Bio)",
+      "descAndLinkInBio": "Description in YouTube (Bio) & Link in Channel (Bio)",
+      "makePinnedComment": "Make Pinned Comment",
+      "pinnedComment": "Pinned Comment",
+      "enterShortsLink": "Enter Link To The Created Shorts",
+      "enterShortsLinkDesc": "If you've confirmed that all the above conditions are met, insert the link to your post with this content.",
+      "shortsLinkPlaceholder": "YouTube Shorts Link",
+      "descInShortsStatus": "Description in Your Shorts",
+      "descInBioStatus": "Description in Channel (Bio)",
+      "linkInBioStatus": "Link in Channel (Bio)",
+      "pinnedCommentStatus": "Pinned Comment",
+      "postTooOldStatus": "Video is less than 2 hours old",
+      "belongToUserStatus": "The post belongs to the user",
+      "postTitleStatus": "Post title does not match",
+      "clipperAvatarStatus": "Profile avatar does not match",
+      "profileErrorMessage": "We found some minor errors in your profile. Please fix them and click <recheck>Recheck</recheck>",
+      "profileErrorMessageDesc": "Note: It may take up to few minutes for changes to be fully updated.",
+      "submitForModeration": "Submit For Moderation",
+      "deadlineExpired": "You didn't publish your post within <time>2 hours</time>, so the reserved budget for this offer has been released. Now, other clippers can take this offer, and the budget may run out.",
+      "whatNextAfterExpiry": "You can continue creating a post for this offer, but we do not guarantee budget availability. If the offer's budget runs out, it will no longer be available.",
+      "retakeRecommendation": "We recommend <retakeLink>retaking the offer</retakeLink> to reserve the budget for yourself again.",
+      "submissionSuccess": "Your post has been successfully submitted for moderation",
+      "submissionError": "Error submitting your post. Please try again",
+      "instagramChannelBioTitle": "Description in Instagram (Bio)",
+      "instagramLinkBioTitle": "Link in Instagram (Bio)",
+      "instagramReelsTitle": "Title Reels",
+      "instagramPinnedCommentTitle": "Pinned Comment",
+      "instagramUploadLinkTitle": "Enter Link To The Created Reels",
+      "instagramUploadLinkPlaceholder": "Instagram Reels Link",
+      "instagramReelsTitleImageDesc": "Title in Reels",
+      "instagramChannelBioImageDesc": "Description in Instagram (Bio) & Link in Channel (Bio)",
+      "instagramCommentImageDesc": "Pinned Comment",
+      "tiktokBioTitle": "Description TikTok Profile (Bio)",
+      "tiktokBioLinkTitle": "Link in TikTok (Bio)",
+      "tiktokBioLinkTitleDesc": "To add a clickable link in your bio, open ‘Settings and privacy → Account’ and switch your profile to a ‘Business Account’. After that, a ‘Website’ field will appear in the ‘Edit profile’ section where you can paste your URL.",
+      "tiktokDescPostTitle": "Description TikTok Post",
+      "tiktokUploadLinkTitle": "Enter Link To The Created TikTok Post",
+      "tiktakUploadLinkPlaceholder": "TikTok post Link",
+      "tiktokPostDescImageDesc": "Description TikTok Post",
+      "tiktokChannelBioImageDesc": "Description TikTok Profile (Bio) & Link in Channel (Bio)",
+      "makeSurePlacementMeetsRequirement": "Make sure the placement meets the requirement: ",
+      "chooseChannelForOffer": "Choose Channel for Offer",
+      "noticeFbViews": "<b>Notice:</b> Views from Facebook won't be counted. Only views from Instagram are eligible for rewards.",
+      "notEligible": "Not Eligible",
+      "download": "Download",
+      "downloadAvatar": "Download Avatar",
+      "downloadAvatarDesc": "Download <b>avatar</b> and <b>update your profile/channel avatar.</b>"
+    },
+    "channelSettings": {
+      "title": "Channel Settings",
+      "loggedAs": "You are logged as",
+      "change": "Change",
+      "provideInfo": "Before you start monetizing it, please provide all the correct information about this channel.",
+      "chooseChannel": "Choose Channel",
+      "chooseChannelTopic": "Choose Channel Topic",
+      "chooseChannelLanguage": "Choose Channel Language",
+      "warningMessage": "The info you provide helps us match you with the right offers for your channel. Don't worry — you can always change it later in your channel settings.",
+      "successMessage": "Channel settings successfully updated",
+      "errorMessage": "Failed to update channel settings",
+      "enterChannelLanguage": "Enter Channel Language",
+      "moderationIssues": "Moderation Issues",
+      "deleteChannel": "Delete Channel",
+      "updateWarningTitle": "⚠️ Important: All Active Posts Will Be Closed",
+      "updateWarningMessage": "When you update the channel settings, all posts with statuses \"Need Posting\", \"Moderation\", and \"Approved\" will be automatically closed. This action cannot be undone. Are you sure you want to continue?"
+    },
+    "moderationNoticeCard": {
+      "title": "Moderation in progress",
+      "description": "We've already started reviewing your details. Moderation usually takes up to 30 minutes.",
+      "message": "We've already started reviewing your details. Moderation usually takes up to 30 minutes. Once it's complete, you'll receive a notification.",
+      "support": "If you have any questions or something urgent, feel free to reach out—we're here to help! 💪🏼"
+    },
+    "moderation": {
+      "stepLabel": "step 2",
+      "title": "Moderation",
+      "submittedMessage": "✅ Your content has been submitted for moderation",
+      "moderationTime": "Moderation typically takes <span>up to 15 mins.</span> We will review your post to ensure it meets the offer requirements.",
+      "checkListTitle": "What is being checked?",
+      "checkListItem1": "📌 Correctness of the link and video availability",
+      "checkListItem2": "📌 Compliance with the brief and advertising materials",
+      "checkListItem3": "📌 Fulfillment of all offer conditions",
+      "notification": "You will receive a notification once the moderation is complete.",
+      "trackStatus": "<span>🔍 You can track the status in your dashboard under the Moderation tab.</span>"
+    },
+    "postModerated": {
+      "stepLabel": "step 3",
+      "title": "Publishing & Payments",
+      "aboutOffer": "About Offer",
+      "rejected": {
+        "title": "❌ Your Post Was Rejected",
+        "reasonPrefix": "Reason:",
+        "reasonText": "Our system has detected that you have changed or removed",
+        "retakeHint": "👇 You can retake the offer below.",
+        "retakeTitle": "Take Offer Again",
+        "reasons": {
+          "does_not_belong_to_user": "The post does not belong to the user",
+          "invalid_post_description": "Description in Your Shorts",
+          "invalid_profile_description": "Description in Channel (Bio), Link in Channel (Bio)",
+          "invalid_pinned_comment": "Pinned Comment",
+          "post_too_old": "Video older than 2 hours.",
+          "invalid_bio_url": "Invalid bio URL"
+        }
+      }
+    },
+    "availableOffers": "Available Offers",
+    "availableOffersSocialPlatform": "Available Offers for {socialPlatform}",
+    "searchOffersByBrand": "Search offers by brand",
+    "allOffers": "All Offers",
+    "forYourChannels": "For Your Channels",
+    "selectChannel": "Select Channel",
+    "takeOffer": "Take Offer",
+    "attention": "💡 Attention!",
+    "youWillHave2HoursToPublish": "If you accept this offer, you will have <bold>2 hours</bold> to create and publish your post.",
+    "guaranteedBudgetReserve": "✅ A guaranteed budget reserve is held for you for 2 hours.",
+    "youWillReceiveAdContentForDownload": "✅ You will receive <bold>advertising content</bold> for download.",
+    "briefAndTextDesc": "✅ A <bold>brief</bold> and <bold>text descriptions</bold> will be provided to guide you.",
+    "youCanTrackThisOffer": "✅ You can track this offer in your dashboard under the <bold>Needs Posting</bold> tab.",
+    "makeSureYouReady": "Make sure you are ready to complete the task within the given time.",
+    "takeOfferForChannel": "Take Offer for Channel",
+    "addChannelBeforeTakeOffer": "To take this offer, please add at least one channel above before clicking Take Offer.",
+    "offerUnavailableMismatchedCriteria": "Offer unavailable due to mismatched criteria:",
+    "premiumBadgeDescNotPremium": "You have access to a <b>Premium</b> offer because you are a member of the",
+    "premiumBadgeDescIsPremium": "<b>Premium</b> offer is available only for subscribers of",
+    "takeOfferError": {
+      "views_count_not_suitable": "❌ Views too low",
+      "language_not_suitable": "❌ Language mismatch",
+      "media_channel_category_not_suitable": "❌ Category mismatch",
+      "media_channel_type_not_suitable": "❌ Platform mismatch",
+      "media_channel_moderation_failed": "❌ Channel moderation failed",
+      "ad_offer_bad_status": "❌ Ad offer bad status",
+      "media_channel_moderation_rejected": "❌  Media channel moderation rejected",
+      "media_channel_settings_are_not_completed": "❌  Media channel settings are not completed",
+      "first_post_moderation_in_progress": "❌  First post moderation in progress",
+      "budget_too_low": "❌  Budget too low"
+    },
+    "referralProgram": {
+      "title": "Referral Program",
+      "yourReferralLink": "Your Referral Link",
+      "referralCode": "Referral Code",
+      "totalReferrals": "Total Referrals",
+      "totalProfit": "Total Profit",
+      "upFromYesterday": "Up from yesterday",
+      "shareText": "Join me on ClipsHub!",
+      "referralGuide": {
+        "step1": {
+          "title": "Invite with your link or code",
+          "description": "Share your personal invite link or code anywhere — it's quick and easy."
+        },
+        "step2": {
+          "title": "Get people to join ClipsHub",
+          "description": "They sign up using your referral, and we take care of the rest."
+        },
+        "step3": {
+          "title": "Start earning effortlessly",
+          "description": "Earn commissions from every referred user who joins and engages."
+        }
+      },
+      "table": {
+        "title": "Your Referrals",
+        "referral": "Referral",
+        "joined": "Joined",
+        "email": "E-mail",
+        "subreferrals": "Subreferrals",
+        "profit": "Profit",
+        "userType": "User Type",
+        "grade": "Grade"
+      },
+      "referralGrade": "Referral Grade",
+      "referralGradeDesc": "These are the grades of the Clippers (Referrals) you invite — the higher their level (Small, Medium, Big, Influencer), the more you earn per referral.",
+      "grades": {
+        "beginner": "Beginner Clipper",
+        "small": "Small Clipper",
+        "medium": "Medium Clipper",
+        "big": "Big Clipper",
+        "influencer": "Influencer Clipper"
+      },
+      "followers": "Followers",
+      "avgViewsPerPost": "Avg. Views per Post",
+      "postedVia": "Posted via",
+      "referralFeePopover": "A percentage of the earnings your referral makes from posts via ClipsHub is paid to you as a commission",
+      "inviteReward": "Invite Reward",
+      "referralFee": "Referral Fee",
+      "clipperRequirements": "Clipper Requirements",
+      "clipViaClipsHub": "clip via ClipsHub",
+      "clipperRequirementsText": "<grade></grade> <br></br><br></br> To qualify and receive the invite reward <inviteReward></inviteReward>, your referral must: <br></br><br></br> – Have <followers></followers> followers <br></br> – Average <views></views> views per post <br></br> – Post at least <clipsHubPosts></clipsHubPosts> (offer taken, post published & moderation approved) <br></br><br></br> Once all criteria are met, the invite reward will be credited to your account.",
+      "clipperRequirementsTextMobile": "To qualify and receive the invite reward <inviteReward></inviteReward>, your referral must: <br></br><br></br> – Have <followers></followers> followers <br></br> – Average <views></views> views per post <br></br> – Post at least <clipsHubPosts></clipsHubPosts> (offer taken, post published & moderation approved) <br></br><br></br> Once all criteria are met, the invite reward will be credited to your account.",
+      "upgradePopoverText": "Don't worry if your referral starts as a <bold>Beginner Clipper</bold> — once they reach <bold>Small Clipper</bold> grade, you'll still get your <reward></reward> reward!",
+      "gradeStatus": "Grade Status",
+      "youDontHaveReferrals": "You don't have any referrals yet"
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "duration": "3 min",
+      "banner": {
+        "title": "How it Works",
+        "description": "Watch Video / Step-by-Step Guide"
+      },
+      "detailedInstructions": {
+        "title": "Detailed Instructions:",
+        "banner": "How to Work with Offers Using <span>Banner</span> Ads",
+        "half_screen": "How to Work with Offers Using <span>Half-screen</span> Ads",
+        "influencer_content": "How to Work with Offers Using <span>Influencer Content</span> Ads"
+      },
+      "steps": {
+        "banner": {
+          "title": "Banner",
+          "videoTitle": "How to Make a Post for Banner"
+        },
+        "half_screen": {
+          "title": "Half-screen",
+          "videoTitle": "How to Make a Post for Half-screen"
+        },
+        "influencer_content": {
+          "title": "Influencer Content",
+          "videoTitle": "How to Make a Post for Influencer Content"
+        },
+        "register": {
+          "title": "Register on Clipshub"
+        },
+        "linkChannel": {
+          "title": "Link your Instagram, TikTok, or YouTube channel that you want to monetize",
+          "description": "You can link an unlimited number of channels to your account and monetize them all."
+        },
+        "selectCategory": {
+          "title": "Select your channel's category and language",
+          "description": "This way, Clipshub can recommend the most suitable offers for you to monetize."
+        },
+        "goToOffers": {
+          "title": "Go to the offers page",
+          "description": "and choose the type of ad you prefer. In this case, select \"Banner.\"",
+          "descriptionHalfScreen": "and choose the type of ad you prefer. In this case, select \"Half-screen.\""
+        },
+        "acceptOffer": {
+          "title": "Accept the offer with this type of ad",
+          "description": "You can choose the same offer as many times per day as you want; there are no limits. The most important thing is that your videos get views."
+        },
+        "selectCorrectChannel": {
+          "title": "Make sure to select the offer for the correct channel"
+        },
+        "downloadBanner": {
+          "title": "Download the banner",
+          "titleHalfScreen": "Download the Half-Screen Banner",
+          "titleInfluencerContent": "Download the Influencer Content"
+        },
+        "editVideo": {
+          "title": "Edit your video:",
+          "description": "Insert the banner in the position indicated by the system and remove the green screen background (Chroma key).\n\n• The banner must be clearly visible in the correct position.\n• The banner must remain throughout the entire video (as specified by the business in the offer).\n• The content must be in the language requested by the business.",
+          "descriptionInfluencerContent": "Edit the downloaded content:\n\n• The content must feature the influencer's face.\n• The video must be 100% dedicated to this influencer.\n• The content must be in the language requested by the influencer.",
+          "youCanDoAllThisInTheApp": "You can do all this in the app"
+        },
+        "checkBrief": {
+          "title": "Check the \"Brief\" section",
+          "description": "There, the business explains exactly what they want you to do or provides recommendations about what they would like to see in your posts.\n\nIf there are no specific instructions, review the information about the content category, required language, and banner placement."
+        },
+        "createVideo": {
+          "title": "Once you have created the video",
+          "description": "making sure it meets the requested language, banner, and category requirements, proceed to the next step: uploading the content to your social media."
+        },
+        "includeTexts": {
+          "title": "The business may ask you to include some of these texts on your social media:",
+          "titleInfluencerContent": "The influencer may ask you to include some of these texts on your social media:",
+          "description": "<bold>Video title text:</bold> when uploading your video, copy the text provided in Clipshub and add it to the title. (You can complement it with your own text.)\n\n<bold>Channel bio description:</bold> copy the indicated text and insert it into your profile description.\n\n<bold>Channel bio link:</bold> copy the provided link and insert it into your channel."
+        },
+        "copyVideoLink": {
+          "title": "Copy the link of the uploaded video",
+          "description": "and paste it into Clipshub. The system will automatically detect it and verify if the video title, bio description, and link are correct.\n\nOnce approved by the moderators, your video will be validated and you can start earning money from your views."
+        }
+      }
+    },
+    "leaderboardWidget": {
+      "title": "Leaderboard of offer clips",
+      "description": "See successful clips for this offer"
+    },
+    "alternativeMethod": {
+      "title": "Alternative Method",
+      "modal": {
+        "title": "Add Channel (Alternative)",
+        "description": "Copy the Code & Paste It in Description",
+        "instruction": "Add this code to your <b>profile description</b> so we can verify that the account belongs to you.<br/><br/>Once your channel is added, <b>you can</b> safely remove the code.",
+        "pasteTheLinkToYourChannel": "Paste the link to your channel",
+        "placeholder": "Your Channel Link",
+        "check": "Check",
+        "recheck": "Recheck"
+      }
+    },
+    "premiumPopup": {
+      "title": "✨ Premium Offer",
+      "description": "This is a premium offer available only to Viralista subscribers.<br>If you’d like to get Premium access, simply follow the link below",
+      "upgrade": "Upgrade to Premium"
+    }
+  },
+  "languages": {
+    "English": "English",
+    "Spanish": "Spanish",
+    "Portuguese": "Portuguese",
+    "Turkish": "Turkish",
+    "Polish": "Polish",
+    "German": "German",
+    "Chinese": "Chinese",
+    "Japanese": "Japanese",
+    "short": {
+      "en": "EN",
+      "es": "ES",
+      "pt-br": "PT",
+      "ru": "RU",
+      "tr": "TR",
+      "pl": "PL",
+      "de": "DE",
+      "cn": "CN",
+      "jp": "JP"
+    },
+    "long": {
+      "en": "English",
+      "es": "Spanish",
+      "pt-br": "Portuguese",
+      "ru": "Russian",
+      "tr": "Turkish",
+      "pl": "Polish",
+      "de": "German",
+      "cn": "Chinese",
+      "jp": "Japanese"
+    },
+    "talkToMeIn": "Talk to me in"
+  },
+  "error": {
+    "loadingFailed": "Failed to load data",
+    "tryAgainLater": "Please try again later"
+  },
+  "errorCodes": {
+    "internal_server_error": "Internal server error",
+    "incorrect_field_title": "Incorrect field title",
+    "incorrect_field_business_name": "Incorrect field business name",
+    "incorrect_field_business_description": "Incorrect field business description",
+    "incorrect_field_business_category_id": "Incorrect field business category",
+    "incorrect_field_logo_file_id": "Incorrect field logo file id",
+    "bad_input_json": "Bad input json",
+    "email_or_phone_required": "Please provide either email or phone number",
+    "incorrect_spec_request": "Incorrect spec request",
+    "incorrect_price_request": "Incorrect price request",
+    "incorrect_media_channel_type": "Incorrect media channel type",
+    "incorrect_name": "Incorrect name",
+    "incorrect_min_avg_new_for_post_count": "Incorrect min avg new for post count",
+    "incorrect_max_avg_new_for_post_count": "Incorrect max avg new for post count",
+    "incorrect_media_channel_categories": "Incorrect media channel categories",
+    "incorrect_languages": "Incorrect languages",
+    "cant_change_status": "Can't change status",
+    "transaction_is_already_processed": "Transaction is already processed",
+    "incorrect_transaction_id": "Incorrect transaction id",
+    "incorrect_sum": "Incorrect sum",
+    "insufficient_funds": "Insufficient funds",
+    "cant_edit_offer": "Can't edit offer",
+    "url_already_exists": "Url already exists",
+    "resource_not_found": "Resource not found for current media channel",
+    "cant_edit_post": "Can't edit post",
+    "post_status_not_created": "Post status not created",
+    "post_not_finished": "Post not finished",
+    "cant_edit_offer_duration": "Can't edit offer duration",
+    "cant_edit_offer_budget": "Can't edit offer budget",
+    "cant_edit_offer_status": "Can't edit offer status",
+    "cant_edit_offer_ad_content": "Can't edit offer ad content",
+    "cant_edit_offer_position": "Can't edit offer position",
+    "cant_edit_offer_text_description": "Can't edit offer text description",
+    "media_channel_already_exists": "Media channel already exists",
+    "invalid_channel_type": "Invalid channel type",
+    "unable_to_resolve_channel": "Unable to resolve channel",
+    "error_incorrect_language_ids": "Incorrect language",
+    "error_incorrect_category_ids": "Incorrect category",
+    "cant_create_post": "Can't create post",
+    "media_channel_post_already_usage": "Media channel post already usage",
+    "incorrect_user_payment_method_id": "Incorrect user payment method",
+    "cant_edit_media_channel": "Can't edit media channel",
+    "auth_token_parse_error": "Auth token parse error",
+    "user_is_banned": "User is banned",
+    "email_is_not_exists": "Email is not exists",
+    "has_not_pass_auth": "Has not pass auth",
+    "auth_is_not_confirm": "Auth is not confirm",
+    "incorrect_password": "Incorrect password",
+    "incorrect_temp_token": "Incorrect temp token",
+    "incorrect_field_name": "Incorrect field name",
+    "incorrect_field_surname": "Incorrect field surname",
+    "incorrect_field_email": "Incorrect field email",
+    "incorrect_field_company_name": "Incorrect field company name",
+    "incorrect_field_password": "Incorrect field password",
+    "email_already_exists": "Email already exists",
+    "user_is_already_confirm": "User is already confirm",
+    "incorrect_reasons": "Incorrect reasons",
+    "task_assigned_to_another_user": "Task assigned to another user",
+    "task_has_incorrect_status": "Task has incorrect status",
+    "withdraw_request_already_processed": "Withdraw request already processed",
+    "mediachannel_has_active_posts": "Cannot archive channel with active offers",
+    "ad_campaign_has_active_posts": "Cannot archive campaign with active posts",
+    "auth_not_belongs_to_current_user": "Auth not belongs to current user",
+    "cannot_delete_last_auth": "Cannot delete last auth",
+    "terms_already_signed": "Terms already signed",
+    "unauthorized": "You are unauthorized, please login again",
+    "forbidden": "Forbidden",
+    "email_is_not_exist": "Email is not exist",
+    "external_payment_already_exists": "Deposit already exists",
+    "cant_read_private_channel": "Your TikTok account is private. Please make it public to connect",
+    "incorrect_file_extension": "Incorrect File Extension",
+    "not_found": "Not found",
+    "media_channel_description_mismatch": "Media channel description mismatch",
+    "unknown_platform": "Unknown platform",
+    "media_channel_not_found": "Media channel not found",
+    "error_campaign_with_brand_exists": "Error campaign with brand exists",
+    "incorrect_field_description": "Incorrect field description"
+  },
+  "landing": {
+    "trustpilot": {
+      "excellent": "Excellent"
+    },
+    "benefits": {
+      "title": "Benefits",
+      "subtitle": "Why Creators Love Us",
+      "items": {
+        "newWayToEarn": {
+          "title": "A New Way to Earn",
+          "text": "Real income for real views. No middlemen or vague brand deals"
+        },
+        "startToday": {
+          "title": "Start Today",
+          "text": "Quick registration & moderation — start earning the same day"
+        },
+        "readyMadeAds": {
+          "title": "Ready-Made Ads",
+          "text": "Just plug in the clip and keep your style. No scripting required"
+        },
+        "reservedBudget": {
+          "title": "Reserved Budget – Guaranteed",
+          "text": "Once you take the offer, funds are locked for you"
+        },
+        "bonusesForBigReach": {
+          "title": "Bonuses for Big Reach",
+          "text": "Hit 1M+ views? Get an extra reward from the brand"
+        },
+        "perfectForShortCreators": {
+          "title": "Perfect for Short Creators",
+          "text": "YouTube Shorts, Reels, TikTok — all formats welcome"
+        },
+        "offersMatchNiche": {
+          "title": "Offers That Match Your Niche",
+          "text": "Gaming, lifestyle, humor — we find the right brand for your audience"
+        },
+        "communityAndSupport": {
+          "title": "Community & Support",
+          "text": "Telegram help, step-by-step guides, and templates — you're not alone"
+        }
+      }
+    },
+    "showcase": {
+      "title": "Reliability",
+      "subtitle": "Why It's Worth It",
+      "items": {
+        "newMarketModel": "<bold> New market model </bold> — be among the first",
+        "preReservedBudgets": "<bold>Pre-reserved budgets</bold> for every creator",
+        "offerModeration": "<bold>Offer & content moderation</bold> — no scam",
+        "clearPayouts": "<bold>Clear payouts</bold> with no hidden fees",
+        "support": "<bold>Support</bold> from A to Z"
+      }
+    },
+    "faq": {
+      "title": "Frequently asked question",
+      "subtitle": "FAQ",
+      "items": {
+        "1": {
+          "question": "How much can I earn?",
+          "answer": "Your income depends on views and the offer rate. For example, $5 per 1,000 views = $500 for 100K views."
+        },
+        "2": {
+          "question": "How do I take an offer?",
+          "answer": "Get verified, choose a niche-matching offer, click \"Take Offer\" and upload your content within 2 hours."
+        },
+        "3": {
+          "question": "What if I miss the 2-hour deadline?",
+          "answer": "The reserved budget will be released, but you can redeem this offer again at any time."
+        },
+        "4": {
+          "question": "How and when do I get paid?",
+          "answer": "After your content is published and views are confirmed."
+        },
+        "5": {
+          "question": "What do I need to add to the post?",
+          "answer": "We provide the ad file, descriptions, link, and pinned comment. Everything is ready to plug in."
+        },
+        "6": {
+          "question": "What kind of content is accepted?",
+          "answer": "YouTube Shorts, Instagram Reels, TikTok — as long as your video meets the offer conditions."
+        }
+      }
+    },
+    "hero": {
+      "title": {
+        "bold": "A New Way to Earn —",
+        "regular": "Just Make a Post"
+      },
+      "subtitle": "Find a sponsored offer, insert it into your short-form video, and get paid for views.",
+      "emailPlaceholder": "Enter Your E-mail",
+      "button": "Start Earning"
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "subtitle": "3 Simple Steps to Get Started",
+      "steps": {
+        "step1": {
+          "label": "Step 1",
+          "title": "Register",
+          "description": "Choose your Social, Channel Categories and Language"
+        },
+        "step2": {
+          "label": "Step 2",
+          "title": "Pick an Offer",
+          "description": "Get ready-to-use ad materials (video, description, link)"
+        },
+        "step3": {
+          "label": "Step 3",
+          "title": "Earn from Views",
+          "description": "Make a post with an ad and get paid for every 1,000 views"
+        }
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 ClipsHub, Inc. All rights reserved.",
+    "forInfluencers": "For Clippers",
+    "howItWorks": "How It Works",
+    "faq": "FAQ",
+    "support": "Support",
+    "forBusiness": "For Business",
+    "legal": "Legal",
+    "termsConditions": "Terms & Conditions",
+    "privacyPolicy": "Privacy Policy",
+    "cookiePolicy": "Cookie Policy",
+    "contact": "Contact",
+    "iAmClipper": "I'm a Clipper",
+    "companyInfo": "<br>CLIPSHUB LTD (16517699), 3rd Floor 86-90 Paul Street, London, United Kingdom, EC2A 4NE<br><a href='mailto:info@clipshub.com'>info@clipshub.com</a><br><a href='tel:+447723557679'>+447723557679</a>",
+    "about": "About"
+  },
+  "termsAndConditions": {
+    "title": "Clipshub Terms of Use",
+    "description": "Welcome, and thank you for your interest in <a href='https://clipshub.com'>Clipshub.com</a> <b>(“Clipshub,” “we,” “us,” or “our”)</b>. These Terms of Use <b>(“Agreement”)</b> govern your access to and use of the Clipshub platform, including our website at <a href='https://clipshub.com'>https://clipshub.com</a>, and any related applications, tools, content, features, and services (collectively, the <b>“Platform”</b>).\n\nThese Terms apply to all users of the Platform, including:\n\n a) Individuals or legal entities seeking assistance with content creation, video editing, promotional media production, or similar services <b>(“Customers”)</b>, and \nb) Individuals or legal entities offering such services as content creators, video editors, or promotional media producers <b>(“Consultants”)</b>.\n\n  <b>BY CLICKING “I ACCEPT,” OR BY REGISTERING, ACCESSING, OR USING ANY PART OF THE CLIPSHUB PLATFORM, YOU CONFIRM THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE LEGALLY BOUND BY THESE TERMS OF USE, INCLUDING CLIPSHUB’S PRIVACY POLICY AND ANY OTHER RULES, POLICIES, OR GUIDELINES WE MAY POST FROM TIME TO TIME (COLLECTIVELY, THE “TERMS”).</b>\n\n If you do not agree to these Terms, or if you are not eligible to use the Platform, you may not access or use the Platform neither as Customer nor Consultant. Your use of the Platform constitutes a legally binding agreement between you and Clipshub under these Terms.",
+    "serviceAndAccount": {
+      "title": "SERVICE AND ACCOUNT",
+      "list": {
+        "1": {
+          "title": "Service Overview",
+          "description": "The Platform enables businesses and individuals (“Customers”) to create and manage content orders (“Orders”), which are fulfilled by content creators, video editors, and other professionals (“Consultants”). Consultants produce media content in accordance with the materials and guidelines specified by Customers in each Order.\n\nThe Platform facilitates transparent order placement, communication, submission, review, and payment processes. Payments for completed Orders are processed through the Platform and are released to Consultants only after successful KYC (Know Your Customer) verification."
+        },
+        "2": {
+          "title": "Eligibility",
+          "description": "To register and use the Platform as either a Customer or a Consultant, you must be at least 18 years of age (or the age of legal majority in your jurisdiction). By accepting these Terms, you represent and warrant that:",
+          "sublist": {
+            "1": "You meet the minimum age requirement;",
+            "2": "You have full legal capacity to enter into a binding agreement;",
+            "3": "You have not been previously suspended or removed from the Platform;",
+            "4": "Your registration and use of the Platform complies with all applicable laws and regulations in your jurisdiction; and",
+            "5": "You will not use or submit unauthorized or third-party content without proper rights or licenses."
+          },
+          "description2": "If you are registering or using the Platform on behalf of a business entity (such as a company, sole proprietorship, or agency), you further represent and warrant that you are authorized to act on behalf of that entity and to bind it to these Terms."
+        },
+        "3": {
+          "title": "Account and Registration",
+          "description": "To access the Platform’s core features — including creating Orders (as Customers) or accepting and fulfilling Orders (as Consultants) — you must create an account. During registration, you may be required to provide accurate and complete information including, but not limited to, your full name or business name, email address, payment details, and identification documentation for verification purposes.\n\nYou agree that all information submitted during registration is accurate, current, and complete, and you will keep your account information up to date at all times. You must not create an account using false information or on behalf of another person or entity without proper authorization.\n\nBy registering an account on the Platform, you confirm that you have read, understood, and agreed to be bound by these Terms. Your registration and continued use of the Platform constitutes your legally binding acceptance of these Terms.\n\nYou are solely responsible for maintaining the confidentiality and security of your login credentials and account. You are responsible for all activities conducted through your account, whether or not authorized by you. If you become aware of any unauthorized access or potential security breach, you must notify us immediately at <a href='mailto:support@clipshub.com'>support@clipshub.com.</a>"
+        },
+        "4": {
+          "title": "Content and Intellectual Property Rights",
+          "description": "As part of an Order, Customers may provide materials and references to Consultants through the Platform, including but not limited to scripts, logos, product images, music, video footage, brand assets, or other proprietary content <b>(“Customer Materials”)</b>. Customer Materials must meet the requirements set forth in Section 4.\n\nThe Platform facilitates the secure transfer of these materials solely for the purpose of fulfilling the Customer’s Order. Consultants agree to use such Customer Materials solely for the purpose of creating and delivering the assigned content <b>(“Deliverables”)</b> in accordance with the specifications and requirements set out in the applicable Order.\n\nCustomers retain all rights, title, and interest in and to their Customer Materials. By submitting such materials to the Platform, Customers do not grant Consultants any rights or licenses to use the Customer Materials beyond what is strictly necessary to view and understand the Order requirements for the purpose of evaluating or performing the requested Deliverables. Any further use, reproduction, modification, or distribution of Customer Materials by Consultants is strictly prohibited unless expressly authorized in writing by the Customer.\n\nUnless explicitly agreed otherwise in writing, all intellectual property rights in the final Deliverables created under a completed and paid Order shall be automatically assigned to and owned by the Customer.\n\nThe Platform does not claim ownership of the Deliverables but facilitates the automatic assignment of rights from the Consultant to the Customer upon successful completion and payment for the Order.\n\nConsultants are prohibited from copying, distributing, publicly displaying, modifying, or otherwise using any Customer Materials or Deliverables outside the scope of the accepted Order, unless expressly authorized in writing by the Customer."
+        },
+        "5": {
+          "title": "Independent Contractors",
+          "description": "Consultants using the Platform operate as independent contractors. Nothing in these Terms shall be interpreted to establish an employment, partnership, joint venture, agency, or representative relationship between the Platform and any Consultant or Customer.\n\nNothing in these Terms shall be construed to create a joint venture, partnership, employment, or agency relationship between the Platform and any Consultant or Customer.\n\nThe Platform shall not be held liable for any tax obligations, employment-related claims, or other liabilities that may arise from a Consultant’s performance of services under an Order. Customers agree not to misrepresent the nature of the relationship between themselves, the Consultant, and the Platform in any context."
+        },
+        "6": {
+          "title": "Communication and Collaboration",
+          "description": "The Platform enables and encourages direct communication and collaboration between the Customer and the Consultant for the purpose of fulfilling Orders efficiently and transparently exclusively within the Platform with the following rules applies:",
+          "sublist": {
+            "1": "All messaging, file sharing, feedback, and project-related coordination should be conducted only through the Platform’s integrated communication tools to ensure accountability, traceability, and protection of both parties.",
+            "2": "The Platform may monitor such communications for compliance, dispute resolution, and quality assurance purposes in accordance with its Privacy Policy.",
+            "3": "Customers and Consultants agree not to circumvent the Platform by attempting to finalize or fulfill Orders outside the Platform unless otherwise authorized in writing by the Platform.",
+            "4": "Any agreement or arrangement made outside the Platform is not the responsibility of the Platform.",
+            "5": "The Platform reserves the right to immediately terminate the access to the Platform in case of any communications outside of the Platform."
+          }
+        }
+      }
+    },
+    "feesAndExpenses": {
+      "title": "FEES AND EXPENSES",
+      "list": {
+        "1": {
+          "title": "Order Fee, Consultancy Fee, and Platform Commission",
+          "description": "When placing an Order via the Platform, the Customer agrees to fund the full amount specified in the applicable Order (the “Order Fee”) which transfers to reserve balance, and which includes:",
+          "sublist": {
+            "1": "The Consultant’s compensation (the “Consultancy Fee”);",
+            "2": "The Platform’s commission; and",
+            "3": "Any applicable performance-based bonuses, where specified."
+          },
+          "description2": "The Platform holds the Order Fee in a reserve balance until successful delivery and approval of the Deliverables in accordance with the applicable Order and these Terms.\n\nThe Consultancy Fee represents the Consultant’s total compensation for services rendered and includes any costs incurred during the performance of the work (e.g., tools, content resources). The Consultant is solely responsible for any taxes, contributions, or statutory obligations arising from the Consultancy Fee.\n\nThe Platform’s commission is included in the Order Fee and covers operational, compliance, and support-related expenses. It is automatically deducted prior to disbursing the Consultancy Fee to the Consultant. A clear breakdown of the Order Fee, including all components, will be provided to the Customer before Order confirmation.\n\nCustomers are responsible for ensuring that their account is adequately funded. The Platform bears no liability for any shortfall or negative balance and is not obliged to cover or advance payments in such cases."
+        },
+        "2": {
+          "title": "Content Review and Payment Authorization",
+          "description": "Orders on the Platform may include specific pricing models such as pay-per-view rates, maximum payout limits (i.e., capped at 30,000 views), or milestone bonuses (i.e., $20 bonus for reaching 1,000,000 views). These parameters will be outlined clearly within each Order.\n\nUpon submission of an Order or Deliverables, the Platform reserves the right to review and moderate all uploaded content to ensure it complies with the Order requirements and these Terms, including verification of relevant performance metrics (e.g., during the <b>“Lifetime Post”</b> period of four (4) days).\n\nIf the submitted Order or Deliverables do not meet the agreed standards or violate these Terms, the Platform may require the Consultant or Customer to revise and resubmit such Order or/and Deliverables. In the case of Deliverables, no additional charges will be imposed on the Customer for such revisions unless explicitly agreed in writing.\n\nOnly upon successful review and approval of the Deliverables will the Platform authorize payment of the Consultancy Fee. The Customer acknowledges that this approval process is managed solely by the Platform and agrees not to interfere with or dispute the outcome unless there is clear evidence of fraud or material breach. Payments will not be released until all required revisions to the Deliverables are accepted by the Platform."
+        },
+        "3": {
+          "title": "Bonus Calculation",
+          "description": "If the Order includes a bonus specified by Customer and the threshold for the bonus is exceeded by the effective number of views within Lifetime Post, the bonus amount will be added to the total payment. If the bonus threshold is not met, the bonus amount is considered null and will not be included in the payout."
+        },
+        "4": {
+          "title": "KYC and Payment Processing",
+          "description": "All payments (both deposits and withdrawals) made within the Platform by toping up the balance or payments of Consultancy Fee are contingent upon successful completion of Know Your Customer (KYC) verification by user of the Platform. The Platform partners with third-party providers to perform this verification in compliance with applicable laws and internal risk policies (e.g. KYCaid).\n\nThe Platform may withhold or delay payments if the Consultant fails to complete the KYC process or provide necessary documentation. No funds from the Customer’s Order will be released until the Consultant meets all compliance requirements. Depositing of funds may be subject to KYC verification as well.\n\nPayments may be processed by the Platform itself, by the Customer directly, or through an authorized third-party payment provider (each case may apply or change due to the payment processing rules of Platforms partners). Customers agree that payment through any of these channels constitutes valid and final settlement of the Consultant’s compensation, provided the agreed amount is received in accordance with the completed Order."
+        }
+      }
+    },
+    "reserveBalance": {
+      "title": "RESERVE BALANCE",
+      "list": {
+        "1": {
+          "description": "<b>“Reserve Balance”</b> refers to the amount of funds that has been allocated by the Customer for a specific Order offer but has not yet been deducted or paid out. This includes funds reserved in advance for performance-based conditions (such as view-based accumulation or engagement metrics) and covers all applicable Platform fees. Reserve Balance ensures the availability of payment upon successful delivery and approval of the Order. The total Reserve Balance allocated for an Order shall be equal to the sum of:",
+          "sublist": {
+            "1": "the calculated view value (per Section 2), and",
+            "2": "the applicable bonus amount (if any)."
+          },
+          "description2": "To ensure the orderly and secure processing of Orders, the Platform operates on a Reserve Balance model, whereby funds must be pre-allocated by the Customer prior to Order execution."
+        },
+        "2": {
+          "description": "When a Customer creates an Order, they commit to funding the specified amount associated with that Order, which includes both the Consultant’s compensation and the Platform’s applicable service commission. The Platform will reserve this amount from the Customer’s account balance. The Order will not be made visible to Consultants until the required amount is fully reserved."
+        },
+        "3": {
+          "description": "Once the Order has been reviewed and approved by the Platform, and the reserve is confirmed, the Order will become visible and available for Consultant offers."
+        },
+        "4": {
+          "description": "If the reserve balance is insufficient at any stage—whether during Order creation or prior to publication—the Platform reserves the right to:",
+          "sublist": {
+            "1": "Withhold or delay Order visibility;",
+            "2": "Request the Customer to top up their balance;",
+            "3": "Suspend the Order until the required funds or changes are provided."
+          }
+        },
+        "5": {
+          "description": "Customers with a negative balance or outstanding debt to the Platform are prohibited from creating new Orders until the negative balance is fully settled."
+        },
+        "6": {
+          "description": "The Platform shall bear no financial responsibility to Consultants in cases where a Customer’s reserve balance is insufficient, or if a negative balance prevents the payment of any approved Consultancy Fee. All payments to Consultants remain strictly subject to the Customer having an adequately funded reserve at the time of disbursement."
+        },
+        "7": {
+          "description": "Consultants acknowledge and agree that the Platform is not liable for unpaid fees resulting from a Customer’s failure to fund an Order or maintain a sufficient balance."
+        },
+        "8": {
+          "description": "Payments from the Reserved Balance will be deducted proportionally based on the actual volume of work rendered under the Order. Any unused portion of the reserved funds shall be returned to the Customer’s balance within five (5) calendar days after the completion or termination of the Order."
+        },
+        "9": {
+          "title": "Negative Reserve Balance Disclaimer:",
+          "description": "The Platform bears no liability for any negative balance in the Customer’s account. Customers are fully responsible for ensuring adequate funds are available to cover placed Orders. In case of a shortfall or chargeback, the Platform is under no obligation to advance payments or cover deficiencies. It is the sole responsibility of the Customer to top up the balance to be outside of negative balance."
+        }
+      }
+    },
+    "ownershipAndPermissions": {
+      "title": "OWNERSHIP AND PERMISSIONS",
+      "list": {
+        "1": {
+          "title": "Proprietary Rights",
+          "description": "The Platform, along with all associated content and materials — including visual interfaces, graphics, designs, compilations, data, software, source and object code, domain names, templates, and all other elements provided by the Platform or its licensors (collectively, the <b>“Materials”</b>) — are protected by intellectual property and other applicable laws. These Materials are and shall remain the exclusive property of the Platform or its authorized third-party licensors.\n\nThis does not include content, materials, or intellectual property that the Customer uploads or provides in connection with an Order (“Customer Materials”), which shall remain the exclusive property of the Customer, subject to any licenses granted herein.\n\nCustomers are granted a limited, non-exclusive, non-transferable right to access and use the Platform and its Materials solely for the purpose of placing and managing Orders in accordance with these Terms. Customers may not copy, modify, distribute, sell, lease, or reverse-engineer any part of the Platform or the Materials without express written consent from the Platform."
+        }
+      }
+    },
+    "userContent": {
+      "title": "USER CONTENT",
+      "list": {
+        "1": {
+          "title": "Content Representations and Warranties",
+          "description": "By uploading, posting, or submitting any content, materials, or intellectual property to the Platform — including but not limited to scripts, logos, Order details, audio, video, product references, brand assets, photographs, or other media (“User Content”) — each Party represents, warrants, and agrees that",
+          "sublist": {
+            "1": "They are the sole owner of the submitted User Content, or have obtained all necessary licenses, rights, consents, and permissions to use, submit, and share such content via the Platform\n\n",
+            "2": "Both Parties agree not to upload, post, or submit any User Content that contains or promotes:\n a) Speech or media that demeans, intimidates, or harasses based on race, ethnicity, gender, sexual orientation, religion, disability, or other protected characteristics;\n b) Advocacy or incitement of violence, or references to extremist activity or groups;\n c) Including doxxing, stalking, bullying, or encouraging others to commit such acts.\n\n",
+            "3": "The User Content and its use do not and will not:\n a) Infringe or violate any third-party rights, including copyright, trademark, patent, trade secret, privacy, publicity, or any other legal or moral rights;\n b) Defame, slander, or libel any individual or entity;\n c) Require the Platform to pay any royalties, license fees, or other compensation to any third party;\n d) Violate any applicable laws or regulations."
+          },
+          "description2": "The Platform reserves the right to remove or restrict any User Content that violates these standards or is otherwise deemed inappropriate at its sole discretion."
+        },
+        "2": {
+          "title": "Specific Rules for Visual Content",
+          "description": "If you submit any photograph, image, or video material (“Visual Content”) that includes identifiable individuals, you represent and warrant that:",
+          "sublist": {
+            "1": "You have obtained all necessary rights, consents, and permissions from each person depicted (or their legal representatives, such as parents, guardians, administrators, heirs, or trustees where applicable);",
+            "2": "You can provide written documentation of such consents upon request by the Platform;",
+            "3": "You understand that your submission of such Visual Content grants the depicted individuals and their representatives an irrevocable, perpetual, royalty-free, fully paid-up, worldwide license to reproduce and distribute the content, including on third-party platforms such as TikTok, YouTube, Instagram, and others, solely for purposes permitted by the Platform."
+          },
+          "description2": "The Platform may, at its discretion, remove, restrict, or reject any Visual Content that appears to violate these Terms or that lacks sufficient evidence of consent from identifiable individuals."
+        }
+      }
+    },
+    "termAndTermination": {
+      "title": "TERM AND TERMINATION",
+      "list": {
+        "1": {
+          "title": "Term",
+          "description": "These Terms become effective when you accept them during registration or when you first access or use the Platform, and continue until terminated as described in this section."
+        },
+        "2": {
+          "title": "Termination",
+          "description": "If you breach any provision of these Terms, your right to access and use the Platform will automatically terminate. Additionally, the Platform may, at its sole discretion, suspend or terminate your account or access to the Platform at any time, with or without cause or notice, without liability to you. You may terminate your account and these Terms at any time by contacting customer support via the Platform or through the designated support email."
+        },
+        "3": {
+          "title": "Effect of Termination",
+          "description": "Upon termination of these Terms: \n (a) your rights to use the Platform and related services will immediately cease; \n (b) you will lose access to your account and the Platform; \n (c) you remain responsible for any outstanding fees or payments due prior to termination; and \n (d) certain provisions—such as ownership rights, confidentiality, indemnity, limitation of liability,\n dispute resolution, and other surviving terms—will continue to apply as detailed elsewhere in these Terms.\n\nIf your account is terminated due to a breach of these Terms, you are prohibited from creating a new account under a different identity or contact information."
+        }
+      }
+    },
+    "rightsOfThePlatform": {
+      "title": "RIGHTS OF THE PLATFORM",
+      "list": {
+        "1": {
+          "title": "The Platform shall have the right to:",
+          "sublist": {
+            "1": "Modify or revise this Agreement at any time without notice. Any recent changes or revisions made by us supersede all prior agreements and are effective as of the date of posting.",
+            "2": "Suspend or restrict access to the services in case the Customer violates the terms and conditions of this Agreement.",
+            "3": "Refuse to promote any Advertiser's video, channel, account, etc. without giving any reasons.",
+            "4": "Use the Customer’s data for the purposes related to the fulfilment of this Agreement in accordance with the privacy policy."
+          }
+        }
+      }
+    },
+    "additionalTerms": {
+      "title": "ADDITIONAL TERMS",
+      "description": "Your use of the Platform may be also governed by any additional terms, policies, rules, or guidelines that are applicable to specific features, services, or offerings made available by the Platform, which may be posted on or linked to from the Platform (collectively, the “Additional Terms”). Such Additional Terms are hereby incorporated into and form an integral part of these Terms. In the event of any conflict between these Terms and any Additional Terms, the Additional Terms shall govern with respect to the applicable feature or service."
+    },
+    "contactInformation": {
+      "title": "CONTACT INFORMATION",
+      "description": "The service is offered by <b>Clipshub LTD</b>, located at <a href='http://maps.apple.com/maps?q=3rd+Floor+86-90+Paul+Street+England+EC2A+4NE'>3rd Floor 86-90 Paul Street, London, England, EC2A 4NE.</a> You may contact us by sending correspondence to that address or by emailing us at <a href='mailto:support@clipshub.com'>support@clipshub.com.</a>"
+    },
+    "platformAsIsDisclaimer": {
+      "title": "PLATFORM “AS IS” DISCLAIMER",
+      "description": "The Platform and all services, features, tools, and content made available through it are provided on an “as is” and “as available” basis, without warranties of any kind, whether express, implied, or statutory.\n\nTo the fullest extent permitted by applicable law, the Platform, its owners, affiliates, directors, employees, agents, licensors, and service providers expressly disclaim all warranties, express or implied, including but not limited to:",
+      "list": {
+        "1": {
+          "title": "Implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement;"
+        },
+        "2": {
+          "title": "Warranties that the Platform or its content will be uninterrupted, timely, secure, or error-free;"
+        },
+        "3": {
+          "title": "Warranties that any results obtained from the use of the Platform will be accurate or reliable;"
+        },
+        "4": {
+          "title": "Warranties that any defects or errors will be corrected;"
+        },
+        "5": {
+          "title": "Warranties against the loss, corruption, or unauthorized access to any data or content."
+        }
+      },
+      "description2": "You use the Platform at your own risk. Any reliance on the Platform or its content is done solely at your own discretion and risk. You are solely responsible for any damage to your device or loss of data that results from your use of the Platform."
+    },
+    "generalProvisions": {
+      "title": "GENERAL PROVISIONS",
+      "list": {
+        "1": {
+          "title": "Entire Agreement",
+          "description": "These Terms, along with any additional terms, policies, or guidelines incorporated herein by reference, constitute the entire agreement between Parties and the Platform regarding the use of the Platform and supersede all prior or contemporaneous communications, whether electronic, oral, or written, between Perties and the Platform."
+        },
+        "2": {
+          "title": "No Waiver",
+          "description": "The failure of the Platform to enforce any right or provision of these Terms will not constitute a waiver of such right or provision."
+        },
+        "3": {
+          "title": "Severability",
+          "description": "If any provision of these Terms is found to be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable and will not affect the validity and enforceability of the remaining provisions."
+        },
+        "4": {
+          "title": "Assignment",
+          "description": "Parties may not assign or transfer their rights or obligations under these Terms without prior written consent from the Platform. The Platform may freely assign these Terms without restriction."
+        },
+        "5": {
+          "title": "Governing Law and Jurisdiction",
+          "description": "These Terms shall be governed by and construed in accordance with the laws of England and Wales, without regard to its conflict of laws principles.\n\nIn the event of any dispute, claim, or controversy arising out of or relating to these Terms, the parties agree to first attempt to resolve the matter through good-faith negotiations and mediation. Mediation shall be conducted in English and take place in London, United Kingdom, under the rules of a recognized mediation provider mutually agreed upon by the parties.\n\nIf the dispute is not resolved through mediation within thirty (30) days of the written request to mediate, then either party may submit the matter to the exclusive jurisdiction of the courts of England and Wales."
+        }
+      }
+    }
+  },
+  "cookiePolicy": {
+    "title": "Cookie Policy",
+    "introduction": {
+      "title": "INTRODUCTION",
+      "description": "Clipshub LTD, a limited liability company, with its registered office at <a href='http://maps.apple.com/maps?q=3rd+Floor+86-90+Paul+Street+England+EC2A+4NE'>3rd Floor 86-90 Paul Street, London, England, EC2A 4NE</a> respects the privacy of our users (“user” or “you”) may use cookies, web beacons, tracking pixels, and other tracking technologies when you visit our website <a href='https://clipshub.com/'>www.clipshub.com</a> including any other media form, media channel, mobile website, IOS and Android application or mobile application related or connected thereto (collectively, the “Site” or the “Website”) to help customize the Site and improve your experience.\n\nWe reserve the right to make changes to this Cookie Policy at any time and for any reason. We will alert you about any changes by updating the “Last Updated” date of this Cookie Policy. You will be notified of changes to the Cookie Policy by appropriate means."
+    },
+    "useOfCookies": {
+      "title": "USE OF COOKIES",
+      "description": "A “cookie” is a string of information which assigns you a unique identifier that we store on your computer. Your browser then provides that unique identifier to use each time you submit a query to the Site. We use cookies on the Site to, among other things, keep track of services you have used, record registration information, record your user preferences, keep you logged into the Site, facilitate purchase procedures, detect and prevent fraud, make your online experience more efficient and enjoyable, and track the pages you visit. Cookies help us understand how the Site is being used and improve your user experience."
+    },
+    "typesOfCookies": {
+      "title": "TYPES OF COOKIES",
+      "description": "All Cookies on the Website fall into one of the four following categories:",
+      "list": {
+        "1": {
+          "title": "Strictly Necessary:",
+          "description": "These Cookies are essential for you to be able to navigate the Website and use its features. Without these Cookies, the services you have asked for could not be provided."
+        },
+        "2": {
+          "title": "Functionality:",
+          "description": "These Cookies allow our Website to remember the choices you make (such as your user name, language, last action and search preferences) and provide enhanced, more personal features. The information collected by these Cookies is anonymous and cannot track your browsing activity on other websites."
+        },
+        "3": {
+          "title": "Performance:",
+          "description": "These Cookies collect information about how you use the Website, e.g. which pages you go to most often. These Cookies do not collect personally identifiable information about you. All information collected by these Cookies is aggregated and anonymous and is only used to improve how the Website works;"
+        },
+        "4": {
+          "title": "Targeting or Advertising:",
+          "description": "These Cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement on our Website and help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers."
+        }
+      }
+    },
+    "cookiesUsedByUs": {
+      "title": "COOKIES USED BY US",
+      "description": "The following types of cookies may be used when you visit the Site:",
+      "list": {
+        "1": {
+          "title": "Advertising Cookies",
+          "description": "Advertising cookies are placed on your computer by advertisers and ad servers in order to display advertisements that are most likely to be of interest to you. These cookies allow advertisers and ad servers to gather information about your visits to the Site and other websites, alternate the ads sent to a specific computer, and track how often an ad has been viewed and by whom."
+        },
+        "2": {
+          "title": "Analytics Cookies",
+          "description": "Analytics cookies monitor how users reached the Site, and how they interact with and move around once on the Site. These cookies let us know what features on the Site are working the best and what features on the Site can be improved."
+        },
+        "3": {
+          "title": "Our Cookies",
+          "description": "Our cookies are “first-party cookies” , and can be either permanent or temporary. These are necessary cookies, without which the Site won't work properly or be able to provide certain features and functionalities. Some of these may be manually disabled in your browser, but may affect the functionality of the Site."
+        },
+        "4": {
+          "title": "Personalization Cookies",
+          "description": "Personalization cookies are used to recognize repeat visitors to the Site. We use these cookies to record your browsing history, the pages you have visited, and your settings and preferences each time you visit the Site."
+        },
+        "5": {
+          "title": "Security Cookies",
+          "description": "Security cookies help identify and prevent security risks. We use these cookies to authenticate users and protect user data from unauthorized parties."
+        },
+        "6": {
+          "title": "Site Management Cookies",
+          "description": "Site management cookies are used to maintain your identity or session on the Site so that you are not logged off unexpectedly, and any information you enter is retained from page to page. These cookies cannot be turned off individually, but you can disable all cookies in your browser."
+        },
+        "7": {
+          "title": "Third-Party Cookies",
+          "description": "Third-party cookies may be placed on your computer when you visit the Site by companies that run certain services we offer. These cookies allow the third parties to gather and track certain information about you. These cookies can be manually disabled in your browser."
+        },
+        "8": {
+          "title": "Website Analytics",
+          "description": "We may also partner with selected third-party vendors, such as Adobe Analytics, Clicktale, Clicky, Cloudfare, Crazy Egg, Flurry Analytics, Google Analytics, Heap Analytics, Inspectlet, Kissmetrics, Mixpanel, Piwik, and others, to allow tracking technologies and remarketing services on the Site and our mobile application through the use of first party cookies and third-party cookies, to, among other things, analyze and track users’ use of the Site and our mobile application, determine the popularity of certain content and better understand online activity. You are encouraged to review their privacy policy and contact them directly for responses to your questions. We do not transfer personal information to these third-party vendors. However, if you do not want any information to be collected and used by tracking technologies, you can change your preferences in account settings. For more information, you can visit the third-party vendor or the Network Advertising Initiative Opt-Out Tool or Digital Advertising Alliance Opt-Out Tool."
+        },
+        "9": {
+          "title": "Google analytics",
+          "description": "We are using Google analytics to allow tracking technologies and remarketing services on the Site and our mobile application through the use of first party cookies and third-party cookies, to, among other things, analyze and track users’ use of the Site and our mobile application, determine the popularity of certain content and better understand online activity. The essentials of collecting and processing of your data by Google is located here <a href='https://policies.google.com/privacy?hl=en-US'>https://policies.google.com/privacy?hl=en-US</a>\n\nGoogle Analytics Advertising Features include: remarketing with Google analytics, Google display network impression reporting, Google analytics demographics and interest reporting, integrated services that require Google Analytics to collect data for advertising purposes, including the collection of data via advertising cookies and identifiers.\n\nYou should be aware that getting a new computer, installing a new browser, upgrading an existing browser, or erasing or otherwise altering your browser’s cookies files may also clear certain opt-out cookies, plug-ins, or settings.\n\nWe may use session, persistent, first- party and third-party cookies. Cookies, by themselves, do not tell us your e-mail address or other Personal Data unless you choose to provide this information to us. Once you choose to provide Personal Data, however, this information may be linked to the data stored in a cookie. You can set your browser to notify you when you receive a cookie, or change your preferences (here) providing you with as much control as you wish as to the decision to accept/reject the cookie, and deletion of the cookie upon leaving our Website. Please note, however, that if your browser does not accept cookies, you may not be able to take advantage of all of the features of our Website.\n\nWe or our service providers may also use “pixel tags”, “web beacons”, “clear GIFs”, “embedded links” and other commonly-used information-gathering tools in connection with some Website pages and HTML-formatted email messages. We use these tools for such purposes as compiling aggregate statistics about Website usage and response rates. A pixel tag is an electronic image (often a single pixel), that is ordinarily not visible to website visitors, and may be associated with cookies on visitors’ hard drives. Pixel tags allow us and our service providers to count users who have visited certain pages of the Website, to deliver customized services, and to help determine the eﬀectiveness of our Website and Services. When used in HTML-formatted email messages, pixel tags can inform the sender of the email whether and when the email has been opened.\n\nAs you use the Internet, you leave a trail of electronic information at each website you visit. This information, which is sometimes referred to as “clickstream data” , can be collected and stored by a website's server. Clickstream data can reveal the type of computer and browsing software you use and the address of the website from which you linked to the Website. We may use clickstream data as a form of non-Personal Data to determine how much time visitors spend on each page of our Website, how visitors navigate through the Website, and how we may tailor our web pages to better meet the needs of visitors. We will only use this information to improve our Website."
+        }
+      }
+    },
+    "controlOfCookies": {
+      "title": "CONTROL OF COOKIES",
+      "description": "We will ask you for your consent to place Cookies on your device, except where these are strictly necessary Cookies (for these no consent is required), for us to provide you with a service that you have requested.\n\nYou have the choice of deciding whether to accept Cookies or not by setting your browser to block some or all Cookies. However, please be aware that if you do not accept Cookies, you may not be able to enjoy a comprehensive experience of the Website features. Strictly technical Cookies, necessary to the functioning of the Website cannot be refused.\n\nThere is a notice on the home page of the Website which describes how we use Cookies and requests your consent to place Cookies on your device, which you access <button id='ch-trigger-cookie-consent'>here</button>",
+      "list": {
+        "1": {
+          "title": "Browser settings",
+          "description": "Most browsers are set to accept cookies by default. However, you can remove or reject cookies in your browser’s settings. Please be aware that such action could affect the availability and functionality of the Site.\n\nFor more information on how to control cookies via your browser, check your browser or device’s settings for how you can control or reject cookies.\n\nIn addition, you may opt-out of some third-party cookies through the Network Advertising Initiative’s Opt-Out Tool."
+        }
+      }
+    },
+    "otherTrackingTechnologies": {
+      "title": "OTHER TRACKING TECHNOLOGIES",
+      "description": "In addition to cookies, we may use web beacons, pixel tags, and other tracking technologies on the Site to help customize the Site and improve your experience. A “web beacon” or “pixel tag” is a tiny object or image embedded in a web page or email. They are used to track the number of users who have visited particular pages and viewed emails, and acquire other statistical data. They collect only a limited set of data, such as a cookie number, time and date of page or email view, and a description of the page or email on which they reside. Web beacons and pixel tags cannot be declined. However, you can limit their use by controlling the cookies that interact with them."
+    },
+    "privacyPolicy": {
+      "title": "PRIVACY POLICY",
+      "description": "For more information about how we use information collected by cookies and other tracking technologies, please refer to our Privacy Policy posted on the Site. This Cookie Policy is part of and is incorporated into our Privacy Policy."
+    },
+    "contactUs": {
+      "title": "CONTACT US",
+      "description": "If you have questions or comments about this Cookie Policy, please contact our Data Protection Oﬃcer, Noelia Ramirez Molokhova, Legal & Privacy Matters Expert,\nEmail: <a href='mailto:clipshublegal@gmail.com'>clipshublegal@gmail.com</a>\nor <a href='mailto:support@clipshub.com'>support@clipshub.com</a> for general inquiries\n\nClipshub LTD, company number - 16517699\nRegistered office address:\n<a href='http://maps.apple.com/maps?q=3rd+Floor+86-90+Paul+Street+England+EC2A+4NE'>3rd Floor 86-90 Paul Street, London, England, EC2A 4NE</a>"
+    }
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "introduction": {
+      "title": "INTRODUCTION",
+      "description": "In connection with your interest in <b>Clipshub LTD</b> and its activity and products (hereinafter referred to as the “Company products”) and services, we outline ongoing obligations of Clipshub LTD (hereinafter referred to as the “Company” , “we” or “us” or “our”) to you in respect of how the Company manages your personal data, as defined under the EU General Data Protection Regulation (EU GDPR) and UK General Data Protection Regulation (UK GDPR), i.e. information by which you may be directly or indirectly identified (“Personal Data”).\n\nClipshub LTD, a limited liability company, with its registered office at <a href='http://maps.apple.com/maps?q=3rd+Floor+86-90+Paul+Street+England+EC2A+4NE'>3rd Floor 86-90 Paul Street, London, England, EC2A 4NE</a> respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website <a href='https://clipshub.com/'>www.clipshub.com,</a> including any other media form, media channel, mobile website related or connected thereto (collectively, the “Site” or “Website”), Company products and services. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the Site. For the Company, the privacy and security of our users (hereinafter sometimes also referred to as the “Users” or “You”) are of paramount importance. The Company ensures that Personal Data of the users will be treated confidentially. The Company is not responsible for the privacy policy of other websites and sources. The data content of the Site is intended for general information purposes only. The Site should be used for general research purposes only. Consequently, the information contained on the Site has not been prepared in accordance with the relevant rules and regulations governing such publications in various jurisdictions.\n\nWe reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Last Updated” date of this Privacy Policy. Any changes or modifications will be effective immediately upon posting the updated Privacy Policy on the Site.\n\nYou are encouraged to periodically review this Privacy Policy to stay informed of updates. For users who are citizens or residents of the European Union (“EU”) or the United Kingdom (“UK”), this Privacy Policy is subject to the provisions of the General Data Protection Regulation (“EU GDPR”), the UK General Data Protection Regulation (“UK GDPR”), Data Protection Act 2018, and other applicable data protection laws. In such cases, we act as a “Controller” of your “Personal Data,” and you are a “Data Subject” with certain protected privacy rights. We are committed to processing your Personal Data in compliance with the principles and obligations set out under the applicable legislation, including the EU GDPR, UK GDPR, Data Protection Act 2018, and other applicable data protection laws. We collect information from you through the Site and are responsible for protecting it in accordance with this Privacy Policy and applicable laws.\n\nWe have designated a Personal Data Protection Officer at Clipshub LTD to be accountable for our policies and practices with respect to the management of Personal Data. You may forward any Personal Data access requests, questions, comments or complaints that you might have about this Privacy Policy to:\n\nNoelia Ramirez Molohkova, Legal & Privacy Matters Expert,\n\nEmail to: <a href='mailto:clipshublegal@gmail.com'>clipshublegal@gmail.com</a>\n\nWe provide this Privacy Policy to you in the English language, however we will provide translations to you in other languages upon your request (please contact the Personal Data Protection Officer)."
+    },
+    "collectionOfYourInformation": {
+      "title": "COLLECTION OF YOUR INFORMATION",
+      "description": "We save your Personal Data at the Company's servers and take all possible measures to protect it and keep it in full security.\n\nWe may use your Personal Data for marketing purposes, e.g. updating you on the Company news, activity, etc.\n\nWe will share your Personal Data with third parties only in the ways that are described in this Privacy Policy. We do not otherwise transfer your personal information to third parties.\n\nWe may collect information about you in a variety of ways. The information we may collect on the Site includes:\n\n",
+      "list": {
+        "1": {
+          "title": "Personal Data",
+          "description": "Personally identifiable information, such as your name, shipping address, email address, and telephone number, and demographic information, such as your age, gender, hometown, and interests, that you voluntarily give to us when you register with the Site, or when you choose to participate in various activities related to the Site, such as online chat and message boards. You are under no obligation to provide us with personal information of any kind, however your refusal to do so may prevent you from using certain features of the Site."
+        },
+        "2": {
+          "title": "Derivative Data",
+          "description": "Information our servers automatically collect when you access the Site, such as your IP address, your browser type, your operating system, your access times, and the pages you have viewed directly before and after accessing the Site."
+        },
+        "3": {
+          "title": "Social Media Permissions",
+          "description": "The Site may request access to your basic account information from various social media platforms, including but not limited to Facebook, YouTube, TikTok, Google, Instagram, Pinterest, and Twitter. This may include your name, email address, gender, birthday, current city, profile picture URL, and other information you have chosen to make public.\n\nWe may also request additional permissions, such as access to your friends list, likes, subscriptions, uploaded videos (in the case of YouTube), followed accounts (on TikTok), and similar data. You have the option to grant or deny each permission individually. For specific information on permissions, please refer to the respective platform’s permissions documentation, such as the Facebook Permissions Reference or YouTube Data API scopes."
+        },
+        "4": {
+          "title": "Data From Social Networks",
+          "description": "If you connect your account to a social networking site (e.g., Facebook, TikTok, YouTube, Instagram, Google+ , Apple’s Game Center, Pinterest, Twitter), we may access certain user information from that platform, such as your name, username, location, gender, birth date, email address, profile picture, and public data about your contacts, depending on your privacy settings and the permissions you grant."
+        },
+        "5": {
+          "title": "Mobile Device Data",
+          "description": "Device information, such as your mobile device ID, model, and manufacturer, and information about the location of your device, if you access the Site from a mobile device."
+        },
+        "6": {
+          "title": "Third-Party Data",
+          "description": "Information from third parties, such as personal information or network friends, if you connect your account to the third party and grant the Site permission to access this information."
+        },
+        "7": {
+          "title": "Data From Contests, Giveaways, and Surveys",
+          "description": "Personal and other information you may provide when entering contests or giveaways and/or responding to surveys."
+        },
+        "8": {
+          "title": "The types of Personal Data we collect and save include:",
+          "description": "Contact and account registration information such as name, email address, physical address, phone number, business name and business URL;",
+          "sublist": {
+            "1": " Information that you provide in using our Platform, such as artist and content information and similar material you process through the Platform;",
+            "2": "Information you provide such as feedback, comments or other messages;",
+            "3": "Technical information collected in our logs (to include standard web log entries such as your IP address, page URLs and timestamp); and",
+            "4": "Device information such as mobile phone provider associated with the device you are using to access the Platform, your device’s unique identifier, the type of device and its operating system, the pages or features accessed most frequently, calls and messages placed through the Platform, how pages or features of the Platform are used, search terms entered, and similar analytics about use of the Platform."
+          }
+        },
+        "9": {
+          "title": "Aggregate Information",
+          "description": "We may also collect anonymous, non-identifying and aggregate information such as the type of browser you are using, device type, the operating system you are using, and the domain name of your Internet service provider."
+        },
+        "10": {
+          "title": "Third Party Personal Data Collection",
+          "description": "We will generally collect your Personal Data only from you. There are, however, some circumstances when for purposes of protecting your interests, We may receive Personal Data from third parties. In such cases, we will take reasonable steps to make you aware of any Personal Data that we may receive from a third party."
+        }
+      }
+    },
+    "useOfYourInformation": {
+      "title": "USE OF YOUR INFORMATION",
+      "description": "Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the Site for the following purposes.",
+      "list": {
+        "1": {
+          "title": "1) For the purposes of entering or performing a contract with you In that context, we may use your Personal Data to:",
+          "sublist": {
+            "1": "Email you regarding your account or order.",
+            "2": "Enable user-to-user communications.",
+            "3": "Create and manage your account.",
+            "4": "Fulfill and manage purchases, orders, payments, and other transactions related to the Site.",
+            "5": "Process payments and refunds.",
+            "6": "Respond to your inquiries and fulfill your requests."
+          }
+        },
+        "2": {
+          "title": "2) Based on our or a third party’s legitimate interest",
+          "description": "We process your Personal Data in our interests or to pursue third party’s legitimate interests.\n\nThese interests cover processing to:",
+          "sublist": {
+            "1": "Keep a record of your relationship with us.",
+            "2": "Generate a personal profile about you to make future visits to the Site more personalized.",
+            "3": "Assure the safety and continuity of the Company’s IT services and systems.",
+            "4": "Notify you of updates to the Site.",
+            "5": "Communicating with you about our platform.",
+            "6": "Establish, exercise and defend legal claims.",
+            "7": "In connection with any business reorganisation, transfer, disposal, merger or acquisition on the level of the Company.",
+            "8": "Compile anonymous statistical data and analysis for use internally or with third parties.",
+            "9": "Increase the efficiency and operation of the Site.",
+            "10": "Monitor and analyze usage and trends to improve your experience with the Site.",
+            "11": "Perform other business activities as needed.",
+            "12": "Prevent fraudulent transactions, monitor against theft, and protect against criminal activity. Request feedback and contact you about your use of the Site.",
+            "13": "Resolve disputes and troubleshoot problems.",
+            "14": "Solicit support for the Site.",
+            "15": "Administer sweepstakes, promotions, and contests."
+          },
+          "description2": "Sending Administrative Emails. We may use your Personal Data to send you emails to: (a) confirm your account and your other Personal Data, (b) provide you with information regarding the Website, or (c) inform you of changes to this Privacy Policy, our Terms of Use, or our other policies.\n\n We may use anonymous information that we collect to improve the design and content of our Website, and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze how our Website is used, analyze industry trends, and to offer you programs or services."
+        },
+        "3": {
+          "title": "3) For compliance with our legal or regulatory obligations",
+          "description": "We can process your Personal Data where it is necessary for compliance with legal or regulatory obligations that we are subject to, notably data retention obligations or when responding to requests from competent authorities, such as, inter alia, assisting law enforcement and responding to subpoena."
+        },
+        "4": {
+          "title": "4) With your consent",
+          "description": "Insofar as you have given the Company your consent to the processing of your Personal Data, such consent will serve as a legal basis for the referred processing."
+        }
+      },
+      "description2": "This includes the consent you may have given in relation to the use of cookies or the possibility to be contacted in relation of commercial communication on our events and information about our activities, products and services."
+    },
+    "obligationToProvidePersonalData": {
+      "title": "OBLIGATION TO PROVIDE PERSONAL DATA",
+      "description": "On various pages on the Website, we may request specific Personal Data about you in order to register you for an account to use our services, add you to our email list, facilitate your payments for Services (if any), or fulfill your requests for information.\n\nIn the context of the functioning of the Website, you only have to provide the Personal Data that is necessary for the Company to reply to your requests, or for the Website to run properly.\n\nHowever, please be aware that without certain types of Personal Data (notably Personal Data relating to cookies that are necessary to be able to browse the Website), the Company will not be able to duly reply to your requests or some parts of the Website may become inaccessible.\n\nYou may choose not to provide your Personal Data, but then you might not be able to take advantage of some of the features of our Platform. We only collect basic personal data about you that does not include any special types of information (e.g., health-related) as defined in the EU GDPR and UK GDPR."
+    },
+    "disclosureOfYourInformation": {
+      "title": "DISCLOSURE OF YOUR INFORMATION",
+      "description": "In general, we will not share your Personal Data except: (a) for the purposes for which you provided it; (b) with your consent; (c) as may be required by law (e.g., in response to a court order or subpoena, or in response to a law enforcement agency request); (d) as we think necessary to protect you, our organization or others from injury (e.g., when we believe that someone is causing, or is about to cause, injury to or interference with the rights or property of another); or (e) on a confidential basis with persons or organizations with whom we may contract to carry out internal site operations or as necessary to render the Services. We may also share your Personal Data with our business partners under confidentiality basis. Finally, we may transfer your Personal Data to our successor-in-interest in the event of an acquisition, sale, merger or bankruptcy.\n\nFurther, the following recipients may also receive your Personal Data: \n\n - government, regulators or attorneys and supervisory authorities;\n - shareholders, agents, employees, consultants, representatives, auditors.\n\nIn conclusion, we may share information we have collected about you in certain situations:",
+      "list": {
+        "1": {
+          "title": "By Law or to Protect Rights",
+          "description": "If we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation. This includes exchanging information with other entities for fraud protection and credit risk reduction."
+        },
+        "2": {
+          "title": "Third-Party Service Providers",
+          "description": "We may share your information with third parties that perform services for us or on our behalf, including payment processing, data analysis, email delivery, hosting services, IT or website services, archiving storage providers, customer service, and marketing assistance."
+        },
+        "3": {
+          "title": "Marketing Communications",
+          "description": "With your consent, and with an opportunity for you to withdraw consent, we may share your information with third parties for marketing purposes, as permitted by law."
+        },
+        "4": {
+          "title": "Interactions with Other Users",
+          "description": "If you interact with other users of the Site, those users may see your name, profile photo, and descriptions of your activity, including sending invitations to other users, chatting with other users, liking posts, following blogs."
+        },
+        "5": {
+          "title": "Online Postings",
+          "description": "When you post comments, contributions or other content to the Site, your posts may be viewed by all users and may be publicly distributed outside the Site in perpetuity."
+        },
+        "6": {
+          "title": "By Law or to Protect Rights",
+          "description": "We may use third-party advertising companies to serve ads when you visit the Site. These companies may use information about your visits to the Site and other websites that are contained in web cookies in order to provide advertisements about goods and services of interest to you."
+        },
+        "7": {
+          "title": "Affiliates",
+          "description": "We may share your information with our affiliates, in which case we will require those affiliates to honor this Privacy Policy."
+        },
+        "8": {
+          "title": "Business Partners",
+          "description": "We may share your information with our business partners to offer you certain products, services or promotions."
+        },
+        "9": {
+          "title": "Social Media Contacts",
+          "description": "If you connect to the Site through a social network, your contacts on the social network will see your name, profile photo, and descriptions of your activity."
+        },
+        "10": {
+          "title": "Other Third Parties",
+          "description": "We may share your information with advertisers and investors for the purpose of conducting general business analysis. We may also share your information with such third parties for marketing purposes, as permitted by law."
+        },
+        "11": {
+          "title": "Sale or Bankruptcy",
+          "description": "If we reorganize or sell all or a portion of our assets, undergo a merger, or are acquired by another entity, we may transfer your information to the successor entity. If we go out of business or enter bankruptcy, your information would be an asset transferred or acquired by a third party. You acknowledge that such transfers may occur and that the transferee may decline honor commitments we made in this Privacy Policy.\n\nWe are not responsible for the actions of third parties with whom you share personal or sensitive data, and we have no authority to manage or control third-party solicitations. If you no longer wish to receive correspondence, emails or other communications from third parties, you are responsible for contacting the third party directly."
+        }
+      }
+    },
+    "trackingTechnologies": {
+      "title": "TRACKING TECHNOLOGIES",
+      "list": {
+        "1": {
+          "title": "Cookies and Web Beacons",
+          "description": "We may use cookies, web beacons, tracking pixels, and other tracking technologies on the Site to help customize the Site and improve your experience. To enhance your online experience with us, our web pages may presently or in the future use “cookies”. Cookies are text files that our web server may place on your hard disk to store your preferences. When you access the Site, your personal information is not collected through the use of tracking technology. You have the choice of deciding whether to accept or reject cookies, but be aware that such action could affect the availability and functionality of the Site.\n\nFor more information on how we use cookies, please refer to our Cookie Policy posted on the Site, which is incorporated into this Privacy Policy. By accepting cookies on the cookie banner, you agree to be bound by our Cookie Policy."
+        },
+        "2": {
+          "title": "Internet-Based Advertising",
+          "description": "Additionally, we may use third-party software to serve ads on the Site, implement email marketing campaigns, and manage other interactive marketing initiatives. This third-party software may use cookies or similar tracking technology to help manage and optimize your online experience with us. For more information about opting-out of interest-based ads, visit the Network Advertising Initiative Opt-Out Tool or Digital Advertising Alliance Opt-Out Tool."
+        }
+      }
+    },
+    "thirdPartyWebsites": {
+      "title": "THIRD-PARTY WEBSITES",
+      "description": "The Site may contain links to third-party websites and applications of interest, including advertisements and external services, that are not affiliated with us. Once you have used these links to leave the Site, any information you provide to these third parties is not covered by this Privacy Policy, and we cannot guarantee the safety and privacy of your information. Before visiting and providing any information to any third-party websites, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in your discretion, protect the privacy of your information. We are not responsible for the content or privacy and security practices and policies of any third parties, including other sites, services or applications that may be linked to or from the Site."
+    },
+    "securityOfYourInformation": {
+      "title": "SECURITY OF YOUR INFORMATION",
+      "description": "We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.\n\nAfter registering for an account on the Website, you may log-in to the account and edit your Personal Data in your profile. For instructions on how you can further access your Personal Data that we have collected, or how to correct errors in such information, please contact our Personal Data Protection Oﬃcer (see below). We will also promptly stop using your information and remove it from our servers and database at any time upon your e-mail request. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access, making corrections or removing your information."
+    },
+    "retentionPeriods": {
+      "title": "RETENTION PERIODS",
+      "description": "After receiving your Personal Data, we will store it on our Website systems for future use. We have physical, electronic, and managerial procedures in place to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect. Unfortunately, no data transmission or data storage solution can ever be completely secure. As a result, although we take industry-standard steps to protect your information (e.g., strong encryption), we cannot ensure or warrant the security of any information you transmit to or receive from us or that we store on our or our service providers' systems.\n\nWe store Personal Data for as long as reasonably required for its purpose. Account information is generally deleted when you or when we delete your account. We may, however, store information longer for legitimate business reasons (for example, Personal Data may remain in backups for a reasonable period of time), or as legally required. Otherwise, we only store your Personal Data until you request us to remove it from our servers. We store our logs and other technical records which do not contain any identifiable data anymore, indefinitely.\n\nThe retention periods for your Personal Data are based on the Company’s business needs and legal requirements.\n\nThe Company may notably retain:\n\n- Personal Data you have submitted to the Company through a specific request until we have responded to your request or until the end of the exchange relating thereto, plus ten (10) years as of the end of such communication; and\n- cookies for a maximum of six (6) months after your last use of the Website.\n\nThe Company may also retain your Personal Data other than related to cookies for up to two (2) years for statistics, business analysis and marketing purposes.Safeguarding the information you give us or we receive about you through the Site is a priority for the Company. Your Personal Information is stored in a manner that reasonably protects it from misuse and loss and from unauthorized access, modification or disclosure. The Company has taken steps to ensure the ongoing confidentiality, integrity, availability, and resilience of systems and services processing personal information, and will restore the availability and access to information in a timely manner in the event of a physical or technical incident.\n\nWhen your Personal Information is no longer needed for the purpose for which it was obtained, the Company will destroy or permanently de-identify your Personal Information."
+    },
+    "policyForChildren": {
+      "title": "POLICY FOR CHILDREN",
+      "description": "We do not knowingly solicit information from or market to children under the age of 16. If you become aware of any data we have collected from children under age 16, please contact us using the contact information provided below. We do not knowingly collect any information from any minors, and we comply with all applicable privacy laws including the EU GDPR and UK GDPR rules for collecting Personal Data from minors. Our Platform will not knowingly accept Personal Data from anyone under 16 years old in violation of applicable laws, without consent of a parent or guardian. In the event that we discover that a child under the age of 16 has provided Personal Data to us without parental consent, we will make eﬀorts to delete the child’s information. If you have concerns about the Platform, wish to find out if your child has accessed our Platform, or wish to remove your child's Personal Data from our servers, please contact us at <a href='mailto:support@clipshub.com'>support@clipshub.com</a>, or contact our Data Protection Officer."
+    },
+    "optionsRegardingYourInformation": {
+      "title": "OPTIONS REGARDING YOUR INFORMATION",
+      "list": {
+        "1": {
+          "title": "Account Information",
+          "description": "You may at any time review or change the information in your account or terminate your account by:",
+          "sublist": {
+            "1": "Logging into your account settings and updating your account",
+            "2": "Contacting us using the contact information provided below"
+          },
+          "description2": "Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements."
+        },
+        "2": {
+          "title": "Emails and Communications",
+          "description": "If you no longer wish to receive correspondence, emails, or other communications from us, you may opt-out by:",
+          "sublist": {
+            "1": "Noting your preferences at the time you register your account with the Site",
+            "2": "Logging into your account settings and updating your preferences.",
+            "3": "Contacting us using the contact information provided below"
+          },
+          "description2": "If you no longer wish to receive correspondence, emails, or other communications from third parties, you are responsible for contacting the third party directly."
+        }
+      }
+    },
+    "transferOfPersonalData": {
+      "title": "TRANSFER OF PERSONAL DATA",
+      "description": "Your Personal Data will not be transferred outside of the United Kingdom or the European Economic Area (EEA)."
+    },
+    "automatedDecisionsMakingOrProfiling": {
+      "title": "AUTOMATED DECISIONS MAKING OR PROFILING",
+      "description": "In general, the Company does not use automated individual decision-making or profiling in the course of the relationship with you. Should the Company rely on such processing, the Company would inform you separately."
+    },
+    "usersRights": {
+      "title": "USERS RIGHTS",
+      "description": "The exercise of the below rights is free of charge and not bound to any formalities. You may exercise these rights by contacting our DPO at <a href='mailto:clipshublegal@gmail.com'>clipshublegal@gmail.com.</a>",
+      "list": {
+        "1": {
+          "title": "Right to information, rectification, erasure and restriction of processing",
+          "description": "You may request to obtain, within reasonable intervals, and in a timely manner, the communication of your Personal Data that is being processed by the Company, as well as all information on the origin of those Personal Data.\n\nYou also have the right to rectify Personal Data that is inaccurate.\n\nIn cases where the accuracy of your Personal Data is contested, the processing is unlawful, or you have objected to the processing, you have the right to request the restriction of such processing. When processing is restricted, your Personal Data — aside from being stored — will only be processed with your consent or for the establishment, exercise, or defense of legal claims; for the protection of the rights of another natural or legal person; or for reasons of important public interest of the United Kingdom or an EU Member State. If a restriction on processing is applied, you will be notified before the restriction is lifted.You may request the deletion of Personal Data, without undue delay when the use or other processing of such Personal Data is no longer necessary for the purposes described above, and notably when consent relating to a specific processing has been withdrawn or where the processing is not or no longer lawful for other reasons."
+        },
+        "2": {
+          "title": "Right to object",
+          "description": "You may object to the processing of your Personal Data which is based on the legitimate interests pursued by the Company or by a third party. In such a case the Company will no longer process your Personal Data unless the Company or the third party has compelling legitimate grounds for the processing which override your interests, rights and freedoms or for the establishment, exercise or defence of legal claims."
+        },
+        "3": {
+          "title": "Right to withdraw consent",
+          "description": "You have the right to withdraw your consent at any time. This will not affect the lawfulness of processing based on consent before its withdrawal. The withdrawal only affects future processing.\n\nA possibility to unsubscribe from the electronic newsletter is provided by default in the form of an “Unsubscribe” link at the end of each newsletter."
+        },
+        "4": {
+          "title": "Right to data portability",
+          "description": "Where the processing of your Personal Data is based on consent or the execution of a contract with you, you also have the right to data portability for information you provided to the Company – this means that you can obtain a copy of your Personal Data in a commonly used electronic format so that you can manage and potentially transmit it to another controller."
+        },
+        "5": {
+          "title": "Right to lodge a complaint",
+          "description": "In the event that you wish to complain about how the Company processes your Personal Data, and/or if you want more details on the processing of your Personal Data and/or if you have any specific queries or concerns regarding the processing of your Personal Data, please contact the Company in the first instance using the contact our DPO at <a href='mailto:clipshublegal@gmail.com'>clipshublegal@gmail.com</a> and the Company will endeavour to deal with your request as soon as possible.\n\nThis is without prejudice to your right to file a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work or of an alleged infringement of the EU GDPR and UK GDPR."
+        }
+      }
+    },
+    "finalProvisions": {
+      "title": "FINAL PROVISIONS",
+      "description": "Because our business needs may change over time, we reserve the right to modify this Privacy Policy. If at any time in the future we plan to use your Personal Data in a way that diﬀers from this Privacy Policy, we will revise this Privacy Policy as appropriate. In the event of a change to our Privacy Policy, we will email the updated policy to the email address that you provided to us.\n\nBecause our business needs may change over time, we reserve the right to modify this Privacy Policy. If at any time in the future we plan to use your Personal Data in a way that diﬀers from this Privacy Policy, we will revise this Privacy Policy as appropriate. In the event of a change to our Privacy Policy, we will email the updated policy to the email address that you provided to us."
+    },
+    "contactUs": {
+      "title": "CONTACT US",
+      "description": "If you have questions or comments about this Privacy Policy, please contact us at:\n\n<b>Clipshub LTD</b>, company number - <b>16517699</b>\nRegistered office address:\n<a href='http://maps.apple.com/maps?q=3rd+Floor+86-90+Paul+Street+England+EC2A+4NE'><b>3rd Floor 86-90 Paul Street, London, England, EC2A 4NE</b></a>\n\n<a href='mailto:support@clipshub.com'><b>support@clipshub.com</b></a>"
+    }
+  },
+  "withdraw": {
+    "title": "Withdraw",
+    "pay": "Pay",
+    "steps": {
+      "step1": "Step 1",
+      "step2": "Step 2"
+    },
+    "chooseMethod": {
+      "title": "Choose Method",
+      "buttonBack": "Choose Method"
+    },
+    "addMethod": {
+      "title": "Add Payment Method",
+      "paypal": {
+        "buttonText": "Add PayPal",
+        "modalTitle": "Add PayPal",
+        "emailLabel": "PayPal E-mail",
+        "emailPlaceholder": "PayPal E-mail",
+        "modalDesc": "Enter your PayPal email address"
+      },
+      "usdtTrc20": {
+        "buttonText": "Add USDT TRC20",
+        "modalTitle": "Add USDT TRC20",
+        "addressLabel": "USDT TRC20 Address",
+        "addressPlaceholder": "USDT TRC20 Address",
+        "modalDesc": "Enter your USDT TRC20 address"
+      },
+      "usdtERC20": {
+        "buttonText": "Add USDT ERC20",
+        "modalTitle": "Add USDT ERC20",
+        "addressLabel": "USDT ERC20 Address",
+        "addressPlaceholder": "USDT ERC20 Address",
+        "modalDesc": "Enter your USDT ERC20 address"
+      },
+      "card": {
+        "modalTitle": "Add Card",
+        "modalDesc": "Enter your card details",
+        "cardNumber": "Card Number",
+        "namePlaceholder": "Enter Name",
+        "country": "Country",
+        "city": "Enter City",
+        "buttonText": "Add Card",
+        "birthDateLabel": "Birth Date"
+      },
+      "comment": "Comment (Optional)"
+    },
+    "methodControls": {
+      "delete": "Delete",
+      "commentPlaceholder": "Comment (Optional)"
+    },
+    "transactionsTable": {
+      "id": "ID",
+      "method": "Method",
+      "amount": "Amount",
+      "date": "Date",
+      "hash": "Hash",
+      "hashTooltip": "Hash is a cryptocurrency receipt",
+      "status": "Status",
+      "statusTypes": {
+        "pending": "Pending",
+        "processed": "Success",
+        "rejected": "Fail",
+        "cancelled": "Cancelled",
+        "processing": "Processing",
+        "completed": "Success",
+        "failed": "Fail",
+        "succeed": "Success",
+        "in_review": "Processing",
+        "created": "Created"
+      }
+    },
+    "withdrawForm": {
+      "amount": "Amount",
+      "minAmount": "Min 10.00",
+      "minAmountDynamic": "Min {minAmount} USD",
+      "available": "Available:",
+      "serviceFee": "Service Fee",
+      "withdrawalFee": "Withdrawal Fee",
+      "youReceive": "You Receive",
+      "withdrawButton": "Withdraw {amount} USD",
+      "paypalHint": "We send the exact withdrawal amount in USD to your address. If your wallet is in another currency, the funds will be converted automatically on your side. PayPal may also charge a fee depending on your region. We have no control over this.",
+      "blockchainFee": "Blockchain Fee",
+      "blockchainFeePopover": "Withdrawals via Tron (TRC20) incur a blockchain network fee. The fee amount is set by the network, not our platform."
+    },
+    "withdrawalDetails": {
+      "title": "Withdrawal Details",
+      "cardExpired": "Card has expired",
+      "change": "Change"
+    },
+    "updateCreditialSuccessfully": "Creditial updated successfully",
+    "createCreditialSuccessfully": "Creditial created successfully",
+    "deleteCreditialSuccessfully": "Creditial deleted successfully",
+    "transactionHistory": "Transaction History",
+    "withdrawRequestCreatedSuccessfully": "Withdraw request created successfully",
+    "transactionHistoryIsEmpty": "Transaction history is empty",
+    "minWithdrawal": "Minimum withdrawal"
+  },
+  "settings": {
+    "pageTitle": "Settings",
+    "profile": {
+      "title": "Profile",
+      "avatar": {
+        "title": "Profile Avatar"
+      },
+      "socialAccounts": {
+        "title": "Linked Social Accounts"
+      },
+      "save": "Save"
+    },
+    "navigation": {
+      "profile": {
+        "title": "Profile",
+        "description": "Name/Surname, E-mail, Avatar"
+      },
+      "security": {
+        "title": "Security",
+        "description": "Change Password, Social"
+      },
+      "finance": {
+        "title": "Finance",
+        "description": "Balance, Transactions"
+      },
+      "businessProfile": {
+        "title": "Business Profile",
+        "description": "Company Name, Company Logo, Company Description"
+      },
+      "transactionsHistory": {
+        "title": "Transactions History",
+        "description": "All transactions"
+      }
+    },
+    "profileUpdatedSuccessfully": "Profile updated successfully",
+    "socialMediaAccountLinkedSuccessfully": "Social media account linked successfully",
+    "failedToLinkSocialMediaAccount": "Failed to link social media account",
+    "socialMediaAccountDeletedSuccessfully": "Social media account deleted successfully",
+    "failedToDeleteSocialMediaAccount": "Failed to delete social media account"
+  },
+  "meta": {
+    "title": "ClipsHub - Earn Money by Creating Short Videos",
+    "description": "Join Clipshub to create short videos with sponsored offers and get paid for views. Easy registration, simple steps, and great earning potential.",
+    "og": {
+      "title": "Clipshub - Earn Money with Sponsored Videos",
+      "description": "Create short videos with sponsored offers and get paid for views. Join now!"
+    },
+    "offers": {
+      "title": "Available Offers for Monetization on Clipshub",
+      "description": "Explore a variety of sponsored offers from leading brands on Clipshub and start earning by creating engaging video content. Choose from numerous opportunities, shoot short videos, and get paid for every view",
+      "mediaChannelTypeUrlTitle": "Earn Money by Creating {channelType}"
+    }
+  },
+  "signature": {
+    "scrollForSignature": "Scroll the document to the end to open the field for the signature",
+    "saveSignature": "Save Signature",
+    "clear": "Clear",
+    "signHere": "Sign Here",
+    "youAreLoggedAs": "You are logged as {userType}",
+    "scrollAndSignToContinue": "Please scroll and sign to continue",
+    "accept": "Accept",
+    "drawYourSignatureBelowToAgree": "Draw your signature below to agree",
+    "drawYourSignatureBelowToAgreeText": "By signing, I confirm that I have read and agree to all contractual terms, which are legally binding"
+  },
+  "cookieConsent": {
+    "cookieTitle": "We use cookies",
+    "cookieDescription": "We use cookies to enhance your experience on our website. By continuing to use this site, you agree to our <a href='/privacy-policy'>privacy policy</a> and the use of <a href='/cookie-policy'>cookies</a>.",
+    "acceptAll": "Accept all",
+    "onlyNecessary": "Accept only necessary"
+  },
+  "refill": {
+    "title": "Refill Balance",
+    "transactionHistory": "Transaction History",
+    "steps": {
+      "step1": "Step 1",
+      "step2": "Step 2"
+    },
+    "chooseMethod": {
+      "title": "Choose Method",
+      "buttonBack": "Choose Method"
+    },
+    "choosePaymentMethod": "Choose payment method",
+    "refillDetails": {
+      "title": "Refill Details",
+      "methods": {
+        "applePay": "Apple Pay",
+        "creditCard": "Credit Card",
+        "paypal": "PayPal"
+      }
+    },
+    "refillForm": {
+      "amount": "Amount",
+      "minAmount": "Min 10.00",
+      "button": "Refill",
+      "processing": "Processing...",
+      "paypalEmail": "PayPal E-mail",
+      "billingAddress": {
+        "title": "Billing Address",
+        "country": "Country",
+        "city": "City",
+        "billingAddress": "Billing Address Line 1",
+        "postalCode": "Postal Code"
+      },
+      "tether": {
+        "title": "Send USDT ({currency}) to the address shown below.",
+        "minAmount": "Minimum {minAmount} usd",
+        "description": "Please be aware that blockchain fee may be applied to any transaction.",
+        "copyAddress": "Copy Address",
+        "error": "Error",
+        "errorDescription": "Please try again later"
+      }
+    },
+    "methodNetworks": {
+      "tether": "TRC20"
+    }
+  },
+  "notification": {
+    "markAllAsRead": "Mark all as read",
+    "marking": "Marking...",
+    "activity": "Activity",
+    "allLoaded": "All notifications loaded",
+    "noNotifications": "No notifications"
+  },
+  "date": {
+    "yesterday": "Yesterday",
+    "justNow": "just now",
+    "ago": "{time} ago",
+    "in": "in {time}",
+    "daysOfWeek": {
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday"
+    },
+    "dateFormat": "{date, date, medium}"
+  },
+  "leaderboard": {
+    "title": "Leaderboard",
+    "posts": {
+      "title": "Leaderboard Posts"
+    },
+    "mediaChannels": {
+      "title": "Earnings Leaderboard"
+    },
+    "weekly": "Weekly",
+    "monthly": "Monthly",
+    "year": "Year",
+    "allTime": "All time",
+    "allPosts": "All Posts",
+    "filters": "Filters",
+    "businessCategory": "Business Category",
+    "contentCategory": "Content Category",
+    "platform": "Platform",
+    "totalViews": "Total Views",
+    "totalPosts": "Total Posts",
+    "offer": "Offer",
+    "loading": "Loading...",
+    "previous": "Previous",
+    "next": "Next",
+    "placeSuffix": "th",
+    "group": "Group",
+    "notFound": "No media channels found",
+    "notFoundPosts": "No posts found",
+    "allChannels": "All channels",
+    "table": {
+      "#": "#",
+      "nickname": "Nickname",
+      "platform": "Platform",
+      "views": "Views",
+      "qtyPosts": "Qty Posts",
+      "contentCategory": "Content Category",
+      "paid": "Paid"
+    },
+    "showMore": "Show More",
+    "showLess": "Show Less"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "We couldn't find the page you're looking for. It might have been moved or doesn't exist anymore.",
+    "button": "Main Page",
+    "mainPage": "Main Page",
+    "back": "Back"
+  }
+}
